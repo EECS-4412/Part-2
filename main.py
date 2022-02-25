@@ -26,6 +26,20 @@ def testing():
         game
     """)
 
+    rows = sql_client.custom_sql_call("""
+    SELECT
+        TEAM_NAME_HOME, TEAM_NAME_AWAY
+    FROM
+        game
+    """)
+
+    all_teams = []
+    [all_teams.extend([x[0], x[1]]) for x in rows]
+    all_teams = sorted(list(set(all_teams)))
+    [print(x) for x in all_teams]
+
+    return
+
     # number of points it takes to win a game
     winning_points = [(x[4] if x[0] == "W" else x[5], datetime.strptime(x[-1], "%Y-%m-%d")) for x in rows]
     winning_points.sort(key=lambda x:x[1])
@@ -46,6 +60,36 @@ def part1():
     return
 
 def part2():
+    sql_client = SqlClient(os.environ["DB_PATH"])
+    # NOMINAL
+    #
+    # ORDINAL
+    #
+    # INTERVAL
+    #   
+    # RATIO
+    #   HOW MANY POINTS DID TORONTO SCORE PER GAME
+    rows = sql_client.custom_sql_call("""
+    SELECT 
+        PTS_HOME, PTS_AWAY, TEAM_NAME_HOME, TEAM_NAME_AWAY, GAME_DATE
+    FROM 
+        game
+    WHERE
+        TEAM_NAME_HOME="Toronto Huskies" OR TEAM_NAME_HOME="Toronto Raptors" OR TEAM_NAME_AWAY="Toronto Huskies" OR TEAM_NAME_AWAY="Toronto Raptors"
+    """)
+
+    points_per_game = [x[0] if "Toronto" in x[2] else x[1] for x in rows]
+    # fancy python call
+    # basically calculates geometric mean using logs to avoid exhaustively large numbers
+    arithmetic_mean = np.mean(points_per_game)
+    geometric_mean = np.exp(np.log(points_per_game).mean())
+    harmonic_mean = len(points_per_game)/sum([1/x for x in points_per_game])
+    print(f'arithmetic mean: {arithmetic_mean}')
+    print(f'geometric mean: {geometric_mean}')
+    print(f'harmonic mean: {harmonic_mean}')
+
+
+
     return
 
 def part3():
@@ -74,5 +118,5 @@ def main():
 
 
 if __name__ == "__main__":
-    #main()
-    testing()
+    main()
+    #testing()
