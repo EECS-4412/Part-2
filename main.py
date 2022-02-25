@@ -4,6 +4,7 @@ import sqlite3 as sql
 import os
 from datetime import datetime
 import matplotlib.pyplot as plot
+import traceback
 from parts.Part1 import part1
 from parts.Part2 import part2
 from parts.Part3 import part3
@@ -16,14 +17,6 @@ from clients.SqliteClient import SqlClient
 
 def testing():
     sql_client = SqlClient(os.environ["DB_PATH"])
-    # top_salaries()
-    # min_salaries()
-    # avg_salaries()
-    # player_ages()
-    # player_country()
-    # team_win_loss_home()
-    # team_with_1st_draft()
-    # sql_client.top_1st_draft()
     [print(x) for x in sorted(sql_client.custom_sql_call("PRAGMA table_info(game);"), key=lambda x: x[1])]
 
     rows = sql_client.custom_sql_call("""
@@ -61,15 +54,25 @@ def testing():
 
 
 def main():
-    part1()
-    part2()
-    part3()
-    part4()
-    part5()
-    part6()
-    part7()
+    methods = [
+        part1,
+        part2,
+        part3,
+        part4,
+        part5,
+        part6,
+        part7
+    ]
+    for method in methods:
+        try:
+            method()
+        except Exception as e:
+            print(e)
+            print(traceback.format_exc())
+            print(f'{method.__name__} done ❌')
+            continue
+        print(f'{method.__name__} done ✅')
 
 
 if __name__ == "__main__":
     main()
-    #testing()

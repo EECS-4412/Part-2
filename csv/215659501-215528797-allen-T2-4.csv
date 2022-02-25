@@ -1,0 +1,2133 @@
+PTS_HOME,PTS_AWAY,TEAM_NAME_HOME,TEAM_NAME_AWAY,GAME_DATE
+66,68,Toronto Huskies,New York Knicks,1946-11-01
+71,60,Cleveland Rebels,Toronto Huskies,1946-11-03
+73,71,Toronto Huskies,Detroit Falcons,1946-11-08
+64,54,Chicago Stags,Toronto Huskies,1946-11-09
+85,68,Toronto Huskies,Providence Steamrollers,1946-11-15
+53,49,Boston Celtics,Toronto Huskies,1946-11-16
+54,48,Pittsburgh Ironmen,Toronto Huskies,1946-11-18
+72,74,Toronto Huskies,Cleveland Rebels,1946-11-19
+83,82,Toronto Huskies,Boston Celtics,1946-11-22
+74,50,Washington Capitols,Toronto Huskies,1946-11-23
+68,78,Toronto Huskies,Washington Capitols,1946-11-26
+72,87,Toronto Huskies,Cleveland Rebels,1946-11-29
+79,65,Providence Steamrollers,Toronto Huskies,1946-11-30
+61,65,Chicago Stags,Toronto Huskies,1946-12-05
+59,68,Providence Steamrollers,Toronto Huskies,1946-12-07
+73,85,Toronto Huskies,Philadelphia Warriors,1946-12-10
+52,62,Toronto Huskies,Pittsburgh Ironmen,1946-12-13
+46,50,St. Louis Bombers,Toronto Huskies,1946-12-15
+78,62,Cleveland Rebels,Toronto Huskies,1946-12-17
+74,70,Toronto Huskies,New York Knicks,1946-12-20
+80,88,Toronto Huskies,Chicago Stags,1946-12-27
+48,52,Detroit Falcons,Toronto Huskies,1946-12-29
+87,76,Toronto Huskies,Chicago Stags,1946-12-31
+53,58,Toronto Huskies,Boston Celtics,1947-01-03
+76,61,Toronto Huskies,Detroit Falcons,1947-01-06
+63,76,New York Knicks,Toronto Huskies,1947-01-08
+74,55,Philadelphia Warriors,Toronto Huskies,1947-01-09
+81,66,Washington Capitols,Toronto Huskies,1947-01-11
+74,104,Toronto Huskies,Philadelphia Warriors,1947-01-14
+64,74,Toronto Huskies,Detroit Falcons,1947-01-17
+72,71,Toronto Huskies,St. Louis Bombers,1947-01-21
+93,96,Toronto Huskies,Providence Steamrollers,1947-01-24
+82,88,Toronto Huskies,Cleveland Rebels,1947-01-27
+80,70,Cleveland Rebels,Toronto Huskies,1947-01-28
+83,74,Toronto Huskies,Washington Capitols,1947-01-31
+90,75,Chicago Stags,Toronto Huskies,1947-02-02
+55,58,Pittsburgh Ironmen,Toronto Huskies,1947-02-05
+79,61,Philadelphia Warriors,Toronto Huskies,1947-02-06
+69,46,New York Knicks,Toronto Huskies,1947-02-08
+84,73,Toronto Huskies,Pittsburgh Ironmen,1947-02-14
+80,64,St. Louis Bombers,Toronto Huskies,1947-02-16
+65,57,Toronto Huskies,St. Louis Bombers,1947-02-18
+69,59,Washington Capitols,Toronto Huskies,1947-02-19
+67,61,Toronto Huskies,Boston Celtics,1947-02-21
+61,52,Detroit Falcons,Toronto Huskies,1947-02-23
+83,60,Toronto Huskies,Providence Steamrollers,1947-02-25
+77,69,Toronto Huskies,Philadelphia Warriors,1947-02-28
+63,48,New York Knicks,Toronto Huskies,1947-03-01
+76,66,Philadelphia Warriors,Toronto Huskies,1947-03-03
+60,63,Pittsburgh Ironmen,Toronto Huskies,1947-03-05
+70,86,Toronto Huskies,Washington Capitols,1947-03-07
+67,65,Boston Celtics,Toronto Huskies,1947-03-08
+79,71,Toronto Huskies,St. Louis Bombers,1947-03-11
+69,57,Boston Celtics,Toronto Huskies,1947-03-12
+71,64,Providence Steamrollers,Toronto Huskies,1947-03-13
+64,70,Toronto Huskies,Pittsburgh Ironmen,1947-03-18
+83,99,Toronto Huskies,Chicago Stags,1947-03-21
+60,40,St. Louis Bombers,Toronto Huskies,1947-03-23
+71,61,Toronto Huskies,New York Knicks,1947-03-28
+66,63,Detroit Falcons,Toronto Huskies,1947-03-29
+94,79,Toronto Raptors,New Jersey Nets,1995-11-03
+97,89,Indiana Pacers,Toronto Raptors,1995-11-04
+117,108,Chicago Bulls,Toronto Raptors,1995-11-07
+90,109,Toronto Raptors,Sacramento Kings,1995-11-08
+108,112,Toronto Raptors,Phoenix Suns,1995-11-10
+123,117,Charlotte Hornets,Toronto Raptors,1995-11-11
+100,103,Toronto Raptors,Utah Jazz,1995-11-13
+93,96,Toronto Raptors,Houston Rockets,1995-11-15
+114,96,Toronto Raptors,Minnesota Timberwolves,1995-11-17
+102,103,Washington Bullets,Toronto Raptors,1995-11-18
+102,97,Toronto Raptors,Seattle SuperSonics,1995-11-21
+96,86,Milwaukee Bucks,Toronto Raptors,1995-11-22
+114,102,Atlanta Hawks,Toronto Raptors,1995-11-25
+101,98,Toronto Raptors,Golden State Warriors,1995-11-27
+93,89,Cleveland Cavaliers,Toronto Raptors,1995-11-28
+105,102,Toronto Raptors,Philadelphia 76ers,1995-12-01
+94,112,Toronto Raptors,Miami Heat,1995-12-03
+119,89,Seattle SuperSonics,Toronto Raptors,1995-12-05
+96,88,Portland Trail Blazers,Toronto Raptors,1995-12-07
+120,103,Los Angeles Lakers,Toronto Raptors,1995-12-08
+81,93,Vancouver Grizzlies,Toronto Raptors,1995-12-10
+96,116,Toronto Raptors,Boston Celtics,1995-12-12
+100,102,Toronto Raptors,Indiana Pacers,1995-12-14
+122,103,Boston Celtics,Toronto Raptors,1995-12-15
+110,93,Toronto Raptors,Orlando Magic,1995-12-17
+82,94,Toronto Raptors,Detroit Pistons,1995-12-19
+113,104,Chicago Bulls,Toronto Raptors,1995-12-22
+103,91,New York Knicks,Toronto Raptors,1995-12-23
+93,87,Toronto Raptors,Milwaukee Bucks,1995-12-26
+113,91,Detroit Pistons,Toronto Raptors,1995-12-28
+121,110,Orlando Magic,Toronto Raptors,1996-01-03
+104,101,Atlanta Hawks,Toronto Raptors,1996-01-04
+91,92,Toronto Raptors,Charlotte Hornets,1996-01-09
+79,87,Toronto Raptors,Atlanta Hawks,1996-01-11
+106,100,Toronto Raptors,Washington Bullets,1996-01-13
+108,83,New Jersey Nets,Toronto Raptors,1996-01-15
+102,110,Toronto Raptors,Indiana Pacers,1996-01-16
+89,92,Toronto Raptors,Chicago Bulls,1996-01-18
+97,95,Toronto Raptors,Boston Celtics,1996-01-21
+86,79,Toronto Raptors,New Jersey Nets,1996-01-23
+101,106,Toronto Raptors,Vancouver Grizzlies,1996-01-25
+93,82,Denver Nuggets,Toronto Raptors,1996-01-27
+102,75,Sacramento Kings,Toronto Raptors,1996-01-30
+114,111,Golden State Warriors,Toronto Raptors,1996-02-02
+113,119,Los Angeles Clippers,Toronto Raptors,1996-02-03
+87,90,Toronto Raptors,Portland Trail Blazers,1996-02-05
+88,93,Toronto Raptors,Milwaukee Bucks,1996-02-07
+87,98,Miami Heat,Toronto Raptors,1996-02-13
+76,95,Toronto Raptors,Cleveland Cavaliers,1996-02-15
+108,95,Detroit Pistons,Toronto Raptors,1996-02-17
+102,86,Utah Jazz,Toronto Raptors,1996-02-22
+110,105,Phoenix Suns,Toronto Raptors,1996-02-23
+105,98,Dallas Mavericks,Toronto Raptors,1996-02-25
+105,100,Houston Rockets,Toronto Raptors,1996-02-27
+120,95,San Antonio Spurs,Toronto Raptors,1996-02-29
+89,100,Cleveland Cavaliers,Toronto Raptors,1996-03-03
+84,105,Toronto Raptors,Detroit Pistons,1996-03-05
+82,89,Toronto Raptors,New York Knicks,1996-03-06
+109,79,Miami Heat,Toronto Raptors,1996-03-08
+128,112,Toronto Raptors,Dallas Mavericks,1996-03-10
+118,110,Philadelphia 76ers,Toronto Raptors,1996-03-12
+113,101,Charlotte Hornets,Toronto Raptors,1996-03-15
+105,96,Indiana Pacers,Toronto Raptors,1996-03-17
+114,122,Toronto Raptors,Denver Nuggets,1996-03-18
+107,89,Toronto Raptors,Charlotte Hornets,1996-03-20
+108,120,Toronto Raptors,San Antonio Spurs,1996-03-22
+109,108,Toronto Raptors,Chicago Bulls,1996-03-24
+111,114,Toronto Raptors,Atlanta Hawks,1996-03-26
+103,94,Philadelphia 76ers,Toronto Raptors,1996-03-27
+86,126,Toronto Raptors,Orlando Magic,1996-03-29
+106,111,Toronto Raptors,Los Angeles Lakers,1996-03-31
+104,103,Toronto Raptors,Los Angeles Clippers,1996-04-02
+77,98,Toronto Raptors,Cleveland Cavaliers,1996-04-04
+106,139,Toronto Raptors,New York Knicks,1996-04-06
+115,101,Minnesota Timberwolves,Toronto Raptors,1996-04-08
+96,102,Milwaukee Bucks,Toronto Raptors,1996-04-09
+136,108,Boston Celtics,Toronto Raptors,1996-04-12
+110,97,Washington Bullets,Toronto Raptors,1996-04-14
+125,79,New York Knicks,Toronto Raptors,1996-04-15
+107,95,New Jersey Nets,Toronto Raptors,1996-04-17
+107,103,Toronto Raptors,Washington Bullets,1996-04-19
+105,109,Toronto Raptors,Philadelphia 76ers,1996-04-21
+99,107,Toronto Raptors,New York Knicks,1996-11-01
+109,98,Charlotte Hornets,Toronto Raptors,1996-11-02
+100,96,Toronto Raptors,Dallas Mavericks,1996-11-05
+93,92,Toronto Raptors,Los Angeles Lakers,1996-11-08
+93,104,Toronto Raptors,Denver Nuggets,1996-11-11
+110,98,Toronto Raptors,Philadelphia 76ers,1996-11-13
+99,96,New York Knicks,Toronto Raptors,1996-11-14
+92,87,Orlando Magic,Toronto Raptors,1996-11-16
+98,106,Toronto Raptors,Seattle SuperSonics,1996-11-19
+81,89,Toronto Raptors,Cleveland Cavaliers,1996-11-21
+88,91,Toronto Raptors,Atlanta Hawks,1996-11-23
+87,98,Toronto Raptors,Sacramento Kings,1996-11-26
+92,88,Toronto Raptors,Charlotte Hornets,1996-11-27
+79,70,Minnesota Timberwolves,Toronto Raptors,1996-11-30
+100,89,Toronto Raptors,Houston Rockets,1996-12-02
+93,74,Cleveland Cavaliers,Toronto Raptors,1996-12-03
+82,80,Toronto Raptors,Washington Bullets,1996-12-05
+101,75,Atlanta Hawks,Toronto Raptors,1996-12-07
+97,89,Toronto Raptors,Chicago Bulls,1996-12-08
+91,101,Toronto Raptors,Golden State Warriors,1996-12-10
+115,113,Boston Celtics,Toronto Raptors,1996-12-11
+89,88,Miami Heat,Toronto Raptors,1996-12-14
+92,98,Toronto Raptors,Detroit Pistons,1996-12-16
+88,97,New Jersey Nets,Toronto Raptors,1996-12-17
+96,93,Toronto Raptors,Milwaukee Bucks,1996-12-19
+91,82,Cleveland Cavaliers,Toronto Raptors,1996-12-20
+111,92,Indiana Pacers,Toronto Raptors,1996-12-22
+98,96,Toronto Raptors,New Jersey Nets,1996-12-26
+100,82,Washington Bullets,Toronto Raptors,1996-12-27
+96,94,Orlando Magic,Toronto Raptors,1997-01-02
+118,74,Detroit Pistons,Toronto Raptors,1997-01-04
+80,87,Toronto Raptors,Los Angeles Clippers,1997-01-07
+110,96,Toronto Raptors,Utah Jazz,1997-01-09
+106,123,New Jersey Nets,Toronto Raptors,1997-01-11
+85,88,Toronto Raptors,Orlando Magic,1997-01-12
+122,78,Seattle SuperSonics,Toronto Raptors,1997-01-15
+92,94,Portland Trail Blazers,Toronto Raptors,1997-01-17
+100,92,Vancouver Grizzlies,Toronto Raptors,1997-01-19
+118,106,Toronto Raptors,Minnesota Timberwolves,1997-01-21
+87,99,Toronto Raptors,Miami Heat,1997-01-23
+110,98,Chicago Bulls,Toronto Raptors,1997-01-25
+120,84,Toronto Raptors,Portland Trail Blazers,1997-01-28
+101,99,Philadelphia 76ers,Toronto Raptors,1997-01-29
+110,86,Toronto Raptors,Phoenix Suns,1997-02-01
+102,114,Toronto Raptors,Boston Celtics,1997-02-03
+89,84,Toronto Raptors,Cleveland Cavaliers,1997-02-05
+101,96,Milwaukee Bucks,Toronto Raptors,1997-02-11
+106,84,Atlanta Hawks,Toronto Raptors,1997-02-12
+102,106,Toronto Raptors,Milwaukee Bucks,1997-02-14
+89,92,Toronto Raptors,Detroit Pistons,1997-02-16
+105,103,Indiana Pacers,Toronto Raptors,1997-02-17
+92,125,San Antonio Spurs,Toronto Raptors,1997-02-19
+107,97,Houston Rockets,Toronto Raptors,1997-02-20
+92,99,Dallas Mavericks,Toronto Raptors,1997-02-22
+122,124,Denver Nuggets,Toronto Raptors,1997-02-25
+118,114,Utah Jazz,Toronto Raptors,1997-02-27
+94,92,Los Angeles Clippers,Toronto Raptors,1997-02-28
+103,107,Toronto Raptors,Boston Celtics,1997-03-03
+94,100,Toronto Raptors,New York Knicks,1997-03-05
+103,106,Toronto Raptors,San Antonio Spurs,1997-03-07
+81,77,Toronto Raptors,Vancouver Grizzlies,1997-03-09
+101,105,Phoenix Suns,Toronto Raptors,1997-03-11
+96,103,Sacramento Kings,Toronto Raptors,1997-03-13
+106,102,Golden State Warriors,Toronto Raptors,1997-03-15
+98,90,Los Angeles Lakers,Toronto Raptors,1997-03-16
+117,105,Toronto Raptors,Philadelphia 76ers,1997-03-18
+97,99,Detroit Pistons,Toronto Raptors,1997-03-19
+97,102,Toronto Raptors,Charlotte Hornets,1997-03-21
+79,90,Toronto Raptors,Atlanta Hawks,1997-03-23
+84,98,Toronto Raptors,Indiana Pacers,1997-03-25
+83,96,Toronto Raptors,Chicago Bulls,1997-03-27
+113,86,Washington Bullets,Toronto Raptors,1997-03-28
+102,97,Toronto Raptors,Miami Heat,1997-03-30
+90,112,Philadelphia 76ers,Toronto Raptors,1997-04-02
+98,84,Miami Heat,Toronto Raptors,1997-04-05
+100,94,Toronto Raptors,Washington Bullets,1997-04-08
+69,105,Toronto Raptors,Orlando Magic,1997-04-10
+89,100,Toronto Raptors,Indiana Pacers,1997-04-12
+117,100,Chicago Bulls,Toronto Raptors,1997-04-14
+92,85,Milwaukee Bucks,Toronto Raptors,1997-04-15
+100,108,Charlotte Hornets,Toronto Raptors,1997-04-18
+94,125,Boston Celtics,Toronto Raptors,1997-04-20
+114,101,Miami Heat,Toronto Raptors,1997-10-31
+90,85,Atlanta Hawks,Toronto Raptors,1997-11-01
+104,86,Toronto Raptors,Golden State Warriors,1997-11-04
+92,109,Toronto Raptors,Seattle SuperSonics,1997-11-06
+96,87,Orlando Magic,Toronto Raptors,1997-11-08
+98,100,Toronto Raptors,San Antonio Spurs,1997-11-10
+70,93,Toronto Raptors,New York Knicks,1997-11-12
+103,99,Boston Celtics,Toronto Raptors,1997-11-14
+77,105,Toronto Raptors,Indiana Pacers,1997-11-15
+109,122,Toronto Raptors,Boston Celtics,1997-11-18
+127,97,Houston Rockets,Toronto Raptors,1997-11-20
+108,104,Miami Heat,Toronto Raptors,1997-11-22
+90,91,Toronto Raptors,Portland Trail Blazers,1997-11-24
+104,109,Toronto Raptors,Atlanta Hawks,1997-11-26
+93,91,Dallas Mavericks,Toronto Raptors,1997-11-28
+105,99,Los Angeles Lakers,Toronto Raptors,1997-11-30
+115,98,Utah Jazz,Toronto Raptors,1997-12-03
+110,91,Phoenix Suns,Toronto Raptors,1997-12-05
+83,93,Toronto Raptors,Detroit Pistons,1997-12-07
+82,95,Toronto Raptors,Charlotte Hornets,1997-12-09
+97,104,Philadelphia 76ers,Toronto Raptors,1997-12-10
+97,70,Chicago Bulls,Toronto Raptors,1997-12-13
+101,108,Toronto Raptors,Indiana Pacers,1997-12-15
+83,88,Toronto Raptors,Boston Celtics,1997-12-17
+92,91,Toronto Raptors,Milwaukee Bucks,1997-12-19
+92,94,Toronto Raptors,Washington Wizards,1997-12-20
+81,79,Charlotte Hornets,Toronto Raptors,1997-12-22
+94,97,New York Knicks,Toronto Raptors,1997-12-27
+100,95,Detroit Pistons,Toronto Raptors,1997-12-30
+118,91,Washington Wizards,Toronto Raptors,1997-12-31
+88,91,Toronto Raptors,Detroit Pistons,1998-01-02
+89,77,Indiana Pacers,Toronto Raptors,1998-01-03
+96,120,Toronto Raptors,Houston Rockets,1998-01-05
+81,83,Toronto Raptors,Orlando Magic,1998-01-07
+93,102,Cleveland Cavaliers,Toronto Raptors,1998-01-10
+100,108,Toronto Raptors,New Jersey Nets,1998-01-12
+109,101,Toronto Raptors,Los Angeles Clippers,1998-01-14
+82,93,Toronto Raptors,New York Knicks,1998-01-17
+109,88,Charlotte Hornets,Toronto Raptors,1998-01-19
+99,98,Toronto Raptors,Sacramento Kings,1998-01-21
+113,107,Toronto Raptors,Minnesota Timberwolves,1998-01-24
+91,87,Toronto Raptors,Philadelphia 76ers,1998-01-26
+80,84,Denver Nuggets,Toronto Raptors,1998-01-29
+123,97,Sacramento Kings,Toronto Raptors,1998-01-30
+97,90,Portland Trail Blazers,Toronto Raptors,1998-02-01
+105,110,Toronto Raptors,Phoenix Suns,1998-02-03
+101,93,Toronto Raptors,Dallas Mavericks,1998-02-05
+93,86,Chicago Bulls,Toronto Raptors,1998-02-10
+94,103,Toronto Raptors,Cleveland Cavaliers,1998-02-12
+130,115,New Jersey Nets,Toronto Raptors,1998-02-13
+95,116,Toronto Raptors,Miami Heat,1998-02-15
+86,123,Toronto Raptors,Chicago Bulls,1998-02-19
+94,89,Milwaukee Bucks,Toronto Raptors,1998-02-20
+113,105,Toronto Raptors,Vancouver Grizzlies,1998-02-22
+97,86,San Antonio Spurs,Toronto Raptors,1998-02-26
+107,115,Orlando Magic,Toronto Raptors,1998-02-27
+93,108,Toronto Raptors,Utah Jazz,1998-03-03
+122,88,Cleveland Cavaliers,Toronto Raptors,1998-03-04
+113,91,Minnesota Timberwolves,Toronto Raptors,1998-03-06
+113,106,Vancouver Grizzlies,Toronto Raptors,1998-03-08
+111,93,Seattle SuperSonics,Toronto Raptors,1998-03-10
+152,120,Los Angeles Clippers,Toronto Raptors,1998-03-13
+98,100,Golden State Warriors,Toronto Raptors,1998-03-15
+105,117,Toronto Raptors,Atlanta Hawks,1998-03-17
+104,103,Toronto Raptors,Denver Nuggets,1998-03-19
+105,99,Detroit Pistons,Toronto Raptors,1998-03-20
+100,102,Toronto Raptors,Chicago Bulls,1998-03-22
+89,106,Toronto Raptors,Charlotte Hornets,1998-03-24
+96,97,Toronto Raptors,Cleveland Cavaliers,1998-03-26
+68,95,Toronto Raptors,Orlando Magic,1998-03-29
+105,114,Toronto Raptors,Los Angeles Lakers,1998-03-31
+105,91,Atlanta Hawks,Toronto Raptors,1998-04-01
+120,112,Washington Wizards,Toronto Raptors,1998-04-03
+116,104,Philadelphia 76ers,Toronto Raptors,1998-04-05
+114,105,Milwaukee Bucks,Toronto Raptors,1998-04-07
+100,107,Toronto Raptors,Milwaukee Bucks,1998-04-08
+105,111,Toronto Raptors,Miami Heat,1998-04-10
+109,116,Toronto Raptors,New Jersey Nets,1998-04-12
+92,96,New Jersey Nets,Toronto Raptors,1998-04-14
+108,79,New York Knicks,Toronto Raptors,1998-04-16
+107,98,Indiana Pacers,Toronto Raptors,1998-04-17
+78,107,Toronto Raptors,Philadelphia 76ers,1998-04-19
+92,103,Boston Celtics,Toronto Raptors,1999-02-05
+98,97,Washington Wizards,Toronto Raptors,1999-02-06
+77,91,Toronto Raptors,Milwaukee Bucks,1999-02-09
+102,84,Miami Heat,Toronto Raptors,1999-02-11
+95,85,New York Knicks,Toronto Raptors,1999-02-16
+88,95,Toronto Raptors,Washington Wizards,1999-02-18
+90,82,Toronto Raptors,Milwaukee Bucks,1999-02-19
+102,87,Toronto Raptors,Vancouver Grizzlies,1999-02-21
+106,80,Detroit Pistons,Toronto Raptors,1999-02-23
+104,84,Indiana Pacers,Toronto Raptors,1999-02-24
+102,92,Toronto Raptors,Minnesota Timberwolves,1999-02-26
+88,90,Toronto Raptors,Chicago Bulls,1999-02-28
+91,88,Charlotte Hornets,Toronto Raptors,1999-03-01
+77,86,Atlanta Hawks,Toronto Raptors,1999-03-04
+84,89,Toronto Raptors,Orlando Magic,1999-03-05
+105,92,Toronto Raptors,Boston Celtics,1999-03-07
+83,73,Miami Heat,Toronto Raptors,1999-03-11
+86,75,Atlanta Hawks,Toronto Raptors,1999-03-13
+89,82,Toronto Raptors,Charlotte Hornets,1999-03-15
+100,85,Toronto Raptors,New Jersey Nets,1999-03-16
+101,103,Detroit Pistons,Toronto Raptors,1999-03-17
+93,82,Toronto Raptors,Los Angeles Clippers,1999-03-19
+85,81,Toronto Raptors,New York Knicks,1999-03-21
+106,87,New Jersey Nets,Toronto Raptors,1999-03-22
+90,113,Chicago Bulls,Toronto Raptors,1999-03-23
+113,104,Houston Rockets,Toronto Raptors,1999-03-25
+91,93,San Antonio Spurs,Toronto Raptors,1999-03-26
+91,78,Toronto Raptors,Chicago Bulls,1999-03-28
+91,101,Cleveland Cavaliers,Toronto Raptors,1999-03-30
+88,87,Toronto Raptors,Indiana Pacers,1999-04-01
+87,85,Toronto Raptors,Washington Wizards,1999-04-03
+97,82,Toronto Raptors,Philadelphia 76ers,1999-04-04
+70,92,Toronto Raptors,Miami Heat,1999-04-06
+89,101,Toronto Raptors,Boston Celtics,1999-04-08
+106,99,New Jersey Nets,Toronto Raptors,1999-04-09
+99,109,Toronto Raptors,Indiana Pacers,1999-04-12
+96,78,Philadelphia 76ers,Toronto Raptors,1999-04-14
+90,91,Toronto Raptors,Cleveland Cavaliers,1999-04-16
+90,93,New York Knicks,Toronto Raptors,1999-04-17
+90,72,Toronto Raptors,Orlando Magic,1999-04-19
+81,103,Toronto Raptors,Atlanta Hawks,1999-04-20
+91,107,Washington Wizards,Toronto Raptors,1999-04-21
+88,95,Orlando Magic,Toronto Raptors,1999-04-23
+83,91,Toronto Raptors,Detroit Pistons,1999-04-25
+98,108,Toronto Raptors,Charlotte Hornets,1999-04-27
+115,102,Milwaukee Bucks,Toronto Raptors,1999-04-28
+91,83,Cleveland Cavaliers,Toronto Raptors,1999-04-30
+103,96,Philadelphia 76ers,Toronto Raptors,1999-05-01
+99,86,Milwaukee Bucks,Toronto Raptors,1999-05-04
+96,87,Toronto Raptors,Cleveland Cavaliers,1999-05-05
+90,103,Toronto Raptors,Boston Celtics,1999-11-02
+97,86,Toronto Raptors,Miami Heat,1999-11-04
+92,112,New Jersey Nets,Toronto Raptors,1999-11-05
+109,99,Toronto Raptors,Charlotte Hornets,1999-11-07
+106,123,Detroit Pistons,Toronto Raptors,1999-11-11
+90,93,Toronto Raptors,Philadelphia 76ers,1999-11-14
+89,85,Toronto Raptors,Detroit Pistons,1999-11-16
+92,81,Washington Wizards,Toronto Raptors,1999-11-18
+106,100,Toronto Raptors,Los Angeles Clippers,1999-11-19
+102,111,Los Angeles Lakers,Toronto Raptors,1999-11-21
+94,93,Phoenix Suns,Toronto Raptors,1999-11-23
+109,84,Denver Nuggets,Toronto Raptors,1999-11-24
+87,100,Utah Jazz,Toronto Raptors,1999-11-26
+88,106,Golden State Warriors,Toronto Raptors,1999-11-27
+89,107,Toronto Raptors,Atlanta Hawks,1999-11-30
+95,93,Toronto Raptors,Washington Wizards,1999-12-03
+98,92,Toronto Raptors,San Antonio Spurs,1999-12-05
+101,98,Toronto Raptors,Cleveland Cavaliers,1999-12-07
+91,107,Toronto Raptors,Milwaukee Bucks,1999-12-10
+88,103,Toronto Raptors,Utah Jazz,1999-12-12
+105,97,Toronto Raptors,Indiana Pacers,1999-12-14
+93,91,Philadelphia 76ers,Toronto Raptors,1999-12-15
+112,98,Orlando Magic,Toronto Raptors,1999-12-17
+88,94,Toronto Raptors,Los Angeles Lakers,1999-12-19
+116,87,Toronto Raptors,New Jersey Nets,1999-12-21
+91,90,New York Knicks,Toronto Raptors,1999-12-22
+95,98,Cleveland Cavaliers,Toronto Raptors,1999-12-26
+99,100,Houston Rockets,Toronto Raptors,1999-12-28
+104,109,Dallas Mavericks,Toronto Raptors,1999-12-30
+90,114,Toronto Raptors,Portland Trail Blazers,2000-01-04
+101,89,Toronto Raptors,Sacramento Kings,2000-01-06
+105,97,Atlanta Hawks,Toronto Raptors,2000-01-07
+97,107,Toronto Raptors,Vancouver Grizzlies,2000-01-09
+117,89,Washington Wizards,Toronto Raptors,2000-01-11
+108,102,Toronto Raptors,Orlando Magic,2000-01-12
+115,110,Toronto Raptors,Milwaukee Bucks,2000-01-14
+118,97,Milwaukee Bucks,Toronto Raptors,2000-01-15
+115,94,Charlotte Hornets,Toronto Raptors,2000-01-17
+94,90,Boston Celtics,Toronto Raptors,2000-01-19
+94,77,Toronto Raptors,Seattle SuperSonics,2000-01-23
+120,105,Toronto Raptors,Washington Wizards,2000-01-26
+108,93,Toronto Raptors,Miami Heat,2000-01-28
+89,106,Chicago Bulls,Toronto Raptors,2000-01-29
+112,95,San Antonio Spurs,Toronto Raptors,2000-02-03
+95,98,Milwaukee Bucks,Toronto Raptors,2000-02-05
+109,88,Toronto Raptors,Atlanta Hawks,2000-02-08
+115,108,Detroit Pistons,Toronto Raptors,2000-02-09
+91,70,Toronto Raptors,New York Knicks,2000-02-15
+109,101,Indiana Pacers,Toronto Raptors,2000-02-16
+91,95,Toronto Raptors,Denver Nuggets,2000-02-18
+96,100,Toronto Raptors,Dallas Mavericks,2000-02-20
+88,99,New York Knicks,Toronto Raptors,2000-02-23
+85,107,Toronto Raptors,Minnesota Timberwolves,2000-02-25
+103,102,Toronto Raptors,Phoenix Suns,2000-02-27
+87,80,Toronto Raptors,Chicago Bulls,2000-02-29
+94,96,Boston Celtics,Toronto Raptors,2000-03-01
+114,104,Toronto Raptors,Boston Celtics,2000-03-03
+92,94,Vancouver Grizzlies,Toronto Raptors,2000-03-05
+90,109,Portland Trail Blazers,Toronto Raptors,2000-03-06
+94,95,Los Angeles Clippers,Toronto Raptors,2000-03-08
+103,88,Sacramento Kings,Toronto Raptors,2000-03-10
+97,99,Seattle SuperSonics,Toronto Raptors,2000-03-12
+85,78,Toronto Raptors,Golden State Warriors,2000-03-14
+95,91,Toronto Raptors,Orlando Magic,2000-03-17
+100,98,Toronto Raptors,Houston Rockets,2000-03-19
+93,100,Toronto Raptors,New Jersey Nets,2000-03-21
+106,93,Philadelphia 76ers,Toronto Raptors,2000-03-22
+84,102,Toronto Raptors,Charlotte Hornets,2000-03-24
+106,101,Minnesota Timberwolves,Toronto Raptors,2000-03-26
+96,99,Cleveland Cavaliers,Toronto Raptors,2000-03-28
+107,103,New Jersey Nets,Toronto Raptors,2000-03-30
+110,101,Charlotte Hornets,Toronto Raptors,2000-03-31
+83,104,Toronto Raptors,Indiana Pacers,2000-04-02
+88,104,Toronto Raptors,Detroit Pistons,2000-04-04
+84,104,Atlanta Hawks,Toronto Raptors,2000-04-07
+79,98,Chicago Bulls,Toronto Raptors,2000-04-08
+112,103,Toronto Raptors,Cleveland Cavaliers,2000-04-10
+77,73,Indiana Pacers,Toronto Raptors,2000-04-12
+86,71,Toronto Raptors,New York Knicks,2000-04-14
+85,84,Toronto Raptors,Chicago Bulls,2000-04-16
+97,73,Miami Heat,Toronto Raptors,2000-04-18
+106,100,Orlando Magic,Toronto Raptors,2000-04-19
+95,104,Toronto Raptors,Detroit Pistons,2000-10-31
+104,98,Philadelphia 76ers,Toronto Raptors,2000-11-01
+93,91,Boston Celtics,Toronto Raptors,2000-11-03
+103,96,Toronto Raptors,Washington Wizards,2000-11-04
+105,75,Toronto Raptors,Boston Celtics,2000-11-07
+115,88,Toronto Raptors,Cleveland Cavaliers,2000-11-10
+75,98,Chicago Bulls,Toronto Raptors,2000-11-11
+80,86,Toronto Raptors,Portland Trail Blazers,2000-11-16
+111,102,Toronto Raptors,Milwaukee Bucks,2000-11-18
+64,100,Toronto Raptors,Charlotte Hornets,2000-11-20
+91,111,Indiana Pacers,Toronto Raptors,2000-11-23
+75,79,New York Knicks,Toronto Raptors,2000-11-25
+101,89,Toronto Raptors,Chicago Bulls,2000-11-26
+107,93,Dallas Mavericks,Toronto Raptors,2000-11-28
+103,79,Charlotte Hornets,Toronto Raptors,2000-11-29
+104,95,Toronto Raptors,Los Angeles Clippers,2000-12-01
+98,84,Utah Jazz,Toronto Raptors,2000-12-05
+95,88,Portland Trail Blazers,Toronto Raptors,2000-12-06
+92,108,Golden State Warriors,Toronto Raptors,2000-12-08
+87,95,Toronto Raptors,Phoenix Suns,2000-12-10
+104,90,Toronto Raptors,Indiana Pacers,2000-12-12
+70,68,Toronto Raptors,New York Knicks,2000-12-14
+104,97,Milwaukee Bucks,Toronto Raptors,2000-12-15
+101,104,Toronto Raptors,Los Angeles Lakers,2000-12-17
+103,95,Toronto Raptors,Utah Jazz,2000-12-19
+98,99,Indiana Pacers,Toronto Raptors,2000-12-20
+72,78,Toronto Raptors,Atlanta Hawks,2000-12-22
+100,97,Minnesota Timberwolves,Toronto Raptors,2000-12-26
+93,94,Denver Nuggets,Toronto Raptors,2000-12-28
+109,103,Phoenix Suns,Toronto Raptors,2000-12-30
+110,97,Los Angeles Clippers,Toronto Raptors,2001-01-02
+105,115,Toronto Raptors,Dallas Mavericks,2001-01-05
+94,92,Toronto Raptors,Seattle SuperSonics,2001-01-07
+91,110,Toronto Raptors,Houston Rockets,2001-01-09
+85,110,Detroit Pistons,Toronto Raptors,2001-01-10
+72,93,Boston Celtics,Toronto Raptors,2001-01-12
+107,99,Toronto Raptors,Charlotte Hornets,2001-01-14
+114,99,Houston Rockets,Toronto Raptors,2001-01-16
+91,98,San Antonio Spurs,Toronto Raptors,2001-01-17
+101,79,Toronto Raptors,Washington Wizards,2001-01-19
+106,110,Philadelphia 76ers,Toronto Raptors,2001-01-21
+116,111,Orlando Magic,Toronto Raptors,2001-01-23
+103,83,Miami Heat,Toronto Raptors,2001-01-24
+80,90,Chicago Bulls,Toronto Raptors,2001-01-27
+96,89,Toronto Raptors,Philadelphia 76ers,2001-01-30
+102,97,Atlanta Hawks,Toronto Raptors,2001-01-31
+105,108,Toronto Raptors,Minnesota Timberwolves,2001-02-03
+110,98,Toronto Raptors,Boston Celtics,2001-02-05
+99,92,Toronto Raptors,Denver Nuggets,2001-02-08
+105,120,Cleveland Cavaliers,Toronto Raptors,2001-02-13
+91,98,Toronto Raptors,Miami Heat,2001-02-15
+74,92,Toronto Raptors,San Antonio Spurs,2001-02-18
+113,102,Toronto Raptors,Golden State Warriors,2001-02-20
+113,111,New Jersey Nets,Toronto Raptors,2001-02-21
+118,119,Toronto Raptors,Sacramento Kings,2001-02-23
+99,106,Washington Wizards,Toronto Raptors,2001-02-24
+101,89,Toronto Raptors,Cleveland Cavaliers,2001-02-27
+88,95,Atlanta Hawks,Toronto Raptors,2001-02-28
+107,90,Toronto Raptors,New Jersey Nets,2001-03-02
+98,88,Toronto Raptors,New York Knicks,2001-03-04
+98,91,Sacramento Kings,Toronto Raptors,2001-03-06
+97,85,Los Angeles Lakers,Toronto Raptors,2001-03-07
+99,110,Seattle SuperSonics,Toronto Raptors,2001-03-09
+84,101,Vancouver Grizzlies,Toronto Raptors,2001-03-11
+97,101,Toronto Raptors,Milwaukee Bucks,2001-03-13
+88,72,New York Knicks,Toronto Raptors,2001-03-15
+102,81,Toronto Raptors,Indiana Pacers,2001-03-20
+111,95,Charlotte Hornets,Toronto Raptors,2001-03-21
+112,86,Toronto Raptors,Atlanta Hawks,2001-03-23
+102,92,Toronto Raptors,Vancouver Grizzlies,2001-03-25
+92,101,Miami Heat,Toronto Raptors,2001-03-27
+110,99,Toronto Raptors,New Jersey Nets,2001-03-30
+101,104,Toronto Raptors,Orlando Magic,2001-04-01
+100,85,Toronto Raptors,Philadelphia 76ers,2001-04-03
+94,97,Cleveland Cavaliers,Toronto Raptors,2001-04-04
+100,108,Orlando Magic,Toronto Raptors,2001-04-06
+100,88,Toronto Raptors,Chicago Bulls,2001-04-08
+99,87,Detroit Pistons,Toronto Raptors,2001-04-11
+94,82,Toronto Raptors,Miami Heat,2001-04-13
+112,86,Milwaukee Bucks,Toronto Raptors,2001-04-14
+94,92,Toronto Raptors,Detroit Pistons,2001-04-17
+92,98,Washington Wizards,Toronto Raptors,2001-04-18
+114,85,Orlando Magic,Toronto Raptors,2001-10-30
+97,92,Miami Heat,Toronto Raptors,2001-10-31
+109,92,Toronto Raptors,Dallas Mavericks,2001-11-02
+113,100,Toronto Raptors,Indiana Pacers,2001-11-04
+109,92,Toronto Raptors,Golden State Warriors,2001-11-07
+96,117,Utah Jazz,Toronto Raptors,2001-11-10
+96,85,Denver Nuggets,Toronto Raptors,2001-11-11
+95,86,Sacramento Kings,Toronto Raptors,2001-11-13
+82,89,Golden State Warriors,Toronto Raptors,2001-11-14
+85,94,Los Angeles Clippers,Toronto Raptors,2001-11-16
+81,87,Phoenix Suns,Toronto Raptors,2001-11-18
+84,88,Toronto Raptors,Detroit Pistons,2001-11-20
+75,78,Toronto Raptors,Milwaukee Bucks,2001-11-22
+89,91,Boston Celtics,Toronto Raptors,2001-11-23
+107,88,Toronto Raptors,Philadelphia 76ers,2001-11-25
+91,88,Toronto Raptors,Memphis Grizzlies,2001-11-29
+103,104,Atlanta Hawks,Toronto Raptors,2001-12-01
+69,85,Toronto Raptors,Boston Celtics,2001-12-02
+95,89,Milwaukee Bucks,Toronto Raptors,2001-12-06
+98,96,Toronto Raptors,Denver Nuggets,2001-12-07
+90,91,Toronto Raptors,Phoenix Suns,2001-12-09
+108,95,San Antonio Spurs,Toronto Raptors,2001-12-12
+104,90,Charlotte Hornets,Toronto Raptors,2001-12-13
+88,93,Toronto Raptors,Washington Wizards,2001-12-16
+90,102,Indiana Pacers,Toronto Raptors,2001-12-19
+96,91,Toronto Raptors,Chicago Bulls,2001-12-20
+83,76,Toronto Raptors,Miami Heat,2001-12-23
+102,94,New York Knicks,Toronto Raptors,2001-12-25
+86,89,Los Angeles Lakers,Toronto Raptors,2001-12-28
+101,75,Seattle SuperSonics,Toronto Raptors,2001-12-29
+84,95,Portland Trail Blazers,Toronto Raptors,2002-01-02
+101,91,Toronto Raptors,Cleveland Cavaliers,2002-01-04
+89,109,Toronto Raptors,Los Angeles Lakers,2002-01-06
+84,81,Memphis Grizzlies,Toronto Raptors,2002-01-08
+73,85,Chicago Bulls,Toronto Raptors,2002-01-09
+94,91,Toronto Raptors,Atlanta Hawks,2002-01-11
+72,79,Toronto Raptors,Los Angeles Clippers,2002-01-13
+90,92,Detroit Pistons,Toronto Raptors,2002-01-15
+109,103,Toronto Raptors,Houston Rockets,2002-01-16
+89,77,Toronto Raptors,New Jersey Nets,2002-01-18
+89,91,Charlotte Hornets,Toronto Raptors,2002-01-19
+106,97,Boston Celtics,Toronto Raptors,2002-01-21
+92,96,Toronto Raptors,New York Knicks,2002-01-23
+107,100,Toronto Raptors,Minnesota Timberwolves,2002-01-25
+106,97,Toronto Raptors,Orlando Magic,2002-01-27
+97,92,Toronto Raptors,Boston Celtics,2002-01-31
+98,91,New Jersey Nets,Toronto Raptors,2002-02-02
+93,100,Philadelphia 76ers,Toronto Raptors,2002-02-04
+99,94,Washington Wizards,Toronto Raptors,2002-02-05
+80,74,Toronto Raptors,San Antonio Spurs,2002-02-07
+99,81,Cleveland Cavaliers,Toronto Raptors,2002-02-12
+89,82,New York Knicks,Toronto Raptors,2002-02-13
+85,94,Toronto Raptors,Utah Jazz,2002-02-15
+86,91,Toronto Raptors,Milwaukee Bucks,2002-02-17
+89,76,Detroit Pistons,Toronto Raptors,2002-02-18
+77,78,Toronto Raptors,Charlotte Hornets,2002-02-20
+72,80,Toronto Raptors,Detroit Pistons,2002-02-22
+92,101,Toronto Raptors,Seattle SuperSonics,2002-02-24
+85,90,Toronto Raptors,Orlando Magic,2002-02-27
+81,91,Toronto Raptors,Portland Trail Blazers,2002-03-01
+84,96,Toronto Raptors,Philadelphia 76ers,2002-03-03
+112,109,Houston Rockets,Toronto Raptors,2002-03-05
+122,103,Dallas Mavericks,Toronto Raptors,2002-03-07
+74,83,Miami Heat,Toronto Raptors,2002-03-08
+92,79,Orlando Magic,Toronto Raptors,2002-03-10
+86,84,New Jersey Nets,Toronto Raptors,2002-03-12
+113,116,Toronto Raptors,Sacramento Kings,2002-03-17
+112,80,Minnesota Timberwolves,Toronto Raptors,2002-03-19
+80,94,Cleveland Cavaliers,Toronto Raptors,2002-03-22
+92,91,Toronto Raptors,Washington Wizards,2002-03-24
+81,80,Toronto Raptors,Miami Heat,2002-03-27
+83,85,Atlanta Hawks,Toronto Raptors,2002-03-28
+70,72,Philadelphia 76ers,Toronto Raptors,2002-03-31
+117,104,Toronto Raptors,Chicago Bulls,2002-04-03
+96,98,Chicago Bulls,Toronto Raptors,2002-04-05
+94,84,Toronto Raptors,Indiana Pacers,2002-04-07
+84,80,Toronto Raptors,Charlotte Hornets,2002-04-09
+98,82,Indiana Pacers,Toronto Raptors,2002-04-10
+112,73,Toronto Raptors,Atlanta Hawks,2002-04-12
+101,82,Toronto Raptors,New Jersey Nets,2002-04-14
+105,89,Milwaukee Bucks,Toronto Raptors,2002-04-16
+103,85,Toronto Raptors,Cleveland Cavaliers,2002-04-17
+74,68,Toronto Raptors,Washington Wizards,2002-10-30
+91,72,San Antonio Spurs,Toronto Raptors,2002-11-01
+88,76,Houston Rockets,Toronto Raptors,2002-11-02
+109,105,Toronto Raptors,Chicago Bulls,2002-11-04
+92,106,Toronto Raptors,Dallas Mavericks,2002-11-06
+108,84,Indiana Pacers,Toronto Raptors,2002-11-09
+109,115,Orlando Magic,Toronto Raptors,2002-11-12
+84,79,Toronto Raptors,Denver Nuggets,2002-11-15
+78,82,Toronto Raptors,Utah Jazz,2002-11-17
+117,92,Atlanta Hawks,Toronto Raptors,2002-11-18
+95,97,Toronto Raptors,Indiana Pacers,2002-11-20
+90,80,Philadelphia 76ers,Toronto Raptors,2002-11-22
+84,94,Toronto Raptors,Philadelphia 76ers,2002-11-24
+81,87,Toronto Raptors,New York Knicks,2002-11-27
+95,98,Boston Celtics,Toronto Raptors,2002-11-29
+87,92,Memphis Grizzlies,Toronto Raptors,2002-12-01
+113,102,Dallas Mavericks,Toronto Raptors,2002-12-02
+89,74,New Orleans Hornets,Toronto Raptors,2002-12-04
+103,89,Toronto Raptors,Chicago Bulls,2002-12-06
+91,104,Toronto Raptors,Portland Trail Blazers,2002-12-08
+96,83,Cleveland Cavaliers,Toronto Raptors,2002-12-11
+79,91,Toronto Raptors,Seattle SuperSonics,2002-12-13
+82,95,Toronto Raptors,Washington Wizards,2002-12-15
+117,122,Milwaukee Bucks,Toronto Raptors,2002-12-17
+96,83,Chicago Bulls,Toronto Raptors,2002-12-18
+77,97,Toronto Raptors,Miami Heat,2002-12-20
+107,109,Toronto Raptors,Los Angeles Lakers,2002-12-22
+97,88,Seattle SuperSonics,Toronto Raptors,2002-12-26
+101,96,Golden State Warriors,Toronto Raptors,2002-12-27
+104,88,Los Angeles Lakers,Toronto Raptors,2002-12-29
+107,85,Utah Jazz,Toronto Raptors,2002-12-30
+95,75,New York Knicks,Toronto Raptors,2003-01-01
+80,81,Toronto Raptors,Cleveland Cavaliers,2003-01-03
+84,99,Toronto Raptors,New Orleans Hornets,2003-01-05
+82,74,Detroit Pistons,Toronto Raptors,2003-01-06
+79,94,Toronto Raptors,New Jersey Nets,2003-01-10
+105,91,Toronto Raptors,Minnesota Timberwolves,2003-01-12
+75,84,Washington Wizards,Toronto Raptors,2003-01-14
+87,99,Toronto Raptors,Milwaukee Bucks,2003-01-15
+88,77,New Jersey Nets,Toronto Raptors,2003-01-17
+93,101,Toronto Raptors,Orlando Magic,2003-01-19
+89,81,Minnesota Timberwolves,Toronto Raptors,2003-01-20
+101,98,Indiana Pacers,Toronto Raptors,2003-01-22
+101,97,Toronto Raptors,Sacramento Kings,2003-01-26
+104,83,New Orleans Hornets,Toronto Raptors,2003-01-29
+102,90,Toronto Raptors,Indiana Pacers,2003-01-31
+100,86,Toronto Raptors,Los Angeles Clippers,2003-02-02
+95,98,Milwaukee Bucks,Toronto Raptors,2003-02-04
+97,96,Toronto Raptors,Atlanta Hawks,2003-02-12
+114,118,Toronto Raptors,Golden State Warriors,2003-02-14
+99,97,Toronto Raptors,Orlando Magic,2003-02-16
+84,89,Toronto Raptors,Detroit Pistons,2003-02-19
+92,89,Toronto Raptors,Phoenix Suns,2003-02-21
+103,95,Chicago Bulls,Toronto Raptors,2003-02-26
+90,85,Boston Celtics,Toronto Raptors,2003-02-28
+104,92,Toronto Raptors,Boston Celtics,2003-03-02
+86,89,Washington Wizards,Toronto Raptors,2003-03-04
+95,97,Toronto Raptors,Houston Rockets,2003-03-05
+98,107,Atlanta Hawks,Toronto Raptors,2003-03-08
+106,119,Toronto Raptors,Memphis Grizzlies,2003-03-09
+95,87,Denver Nuggets,Toronto Raptors,2003-03-11
+125,103,Portland Trail Blazers,Toronto Raptors,2003-03-12
+119,84,Sacramento Kings,Toronto Raptors,2003-03-14
+111,110,Los Angeles Clippers,Toronto Raptors,2003-03-16
+95,91,Phoenix Suns,Toronto Raptors,2003-03-17
+87,86,Toronto Raptors,Atlanta Hawks,2003-03-19
+107,98,Miami Heat,Toronto Raptors,2003-03-21
+95,112,Toronto Raptors,Philadelphia 76ers,2003-03-23
+100,90,New York Knicks,Toronto Raptors,2003-03-24
+89,83,Toronto Raptors,Cleveland Cavaliers,2003-03-26
+92,101,Toronto Raptors,New Orleans Hornets,2003-03-28
+95,86,Toronto Raptors,New York Knicks,2003-03-30
+85,92,Toronto Raptors,Detroit Pistons,2003-04-01
+78,89,Detroit Pistons,Toronto Raptors,2003-04-02
+98,124,Toronto Raptors,San Antonio Spurs,2003-04-04
+87,96,Toronto Raptors,New Jersey Nets,2003-04-06
+89,83,Miami Heat,Toronto Raptors,2003-04-08
+88,82,Orlando Magic,Toronto Raptors,2003-04-09
+103,105,Toronto Raptors,Milwaukee Bucks,2003-04-11
+94,86,New Jersey Nets,Toronto Raptors,2003-04-12
+99,103,Toronto Raptors,Miami Heat,2003-04-15
+96,86,Cleveland Cavaliers,Toronto Raptors,2003-04-16
+90,87,Toronto Raptors,New Jersey Nets,2003-10-29
+82,79,Toronto Raptors,Washington Wizards,2003-10-31
+73,56,Minnesota Timberwolves,Toronto Raptors,2003-11-01
+77,71,Toronto Raptors,Dallas Mavericks,2003-11-06
+86,60,Washington Wizards,Toronto Raptors,2003-11-07
+89,76,Toronto Raptors,Denver Nuggets,2003-11-09
+83,80,Portland Trail Blazers,Toronto Raptors,2003-11-11
+94,79,Los Angeles Lakers,Toronto Raptors,2003-11-12
+94,64,Sacramento Kings,Toronto Raptors,2003-11-14
+101,97,Toronto Raptors,Houston Rockets,2003-11-16
+75,81,Toronto Raptors,Philadelphia 76ers,2003-11-19
+80,81,New Jersey Nets,Toronto Raptors,2003-11-22
+62,82,Toronto Raptors,Milwaukee Bucks,2003-11-23
+97,99,Atlanta Hawks,Toronto Raptors,2003-11-26
+86,87,Orlando Magic,Toronto Raptors,2003-11-28
+78,66,Miami Heat,Toronto Raptors,2003-11-29
+88,95,Philadelphia 76ers,Toronto Raptors,2003-12-02
+105,95,Toronto Raptors,Boston Celtics,2003-12-03
+92,87,Toronto Raptors,Atlanta Hawks,2003-12-05
+108,98,Toronto Raptors,Seattle SuperSonics,2003-12-07
+93,100,Cleveland Cavaliers,Toronto Raptors,2003-12-09
+114,111,Boston Celtics,Toronto Raptors,2003-12-12
+89,90,Toronto Raptors,Miami Heat,2003-12-14
+111,94,Dallas Mavericks,Toronto Raptors,2003-12-15
+73,70,San Antonio Spurs,Toronto Raptors,2003-12-17
+105,99,Toronto Raptors,New York Knicks,2003-12-19
+93,104,Toronto Raptors,Orlando Magic,2003-12-21
+97,94,Utah Jazz,Toronto Raptors,2003-12-26
+88,94,Los Angeles Clippers,Toronto Raptors,2003-12-28
+74,81,Denver Nuggets,Toronto Raptors,2003-12-30
+74,86,Toronto Raptors,New Orleans Hornets,2004-01-02
+83,73,Toronto Raptors,Phoenix Suns,2004-01-04
+75,69,Toronto Raptors,Cleveland Cavaliers,2004-01-07
+68,78,Toronto Raptors,Los Angeles Clippers,2004-01-09
+83,72,Toronto Raptors,Portland Trail Blazers,2004-01-11
+95,91,Detroit Pistons,Toronto Raptors,2004-01-14
+74,78,New Orleans Hornets,Toronto Raptors,2004-01-15
+75,70,Atlanta Hawks,Toronto Raptors,2004-01-17
+90,79,New York Knicks,Toronto Raptors,2004-01-19
+97,108,Toronto Raptors,Minnesota Timberwolves,2004-01-21
+98,86,Milwaukee Bucks,Toronto Raptors,2004-01-23
+96,89,Chicago Bulls,Toronto Raptors,2004-01-25
+94,84,Toronto Raptors,Philadelphia 76ers,2004-01-28
+89,90,Toronto Raptors,Detroit Pistons,2004-01-30
+83,84,Toronto Raptors,Los Angeles Lakers,2004-02-01
+80,93,Philadelphia 76ers,Toronto Raptors,2004-02-03
+110,90,Toronto Raptors,Orlando Magic,2004-02-04
+77,83,Toronto Raptors,Indiana Pacers,2004-02-06
+81,84,Golden State Warriors,Toronto Raptors,2004-02-08
+94,101,Phoenix Suns,Toronto Raptors,2004-02-10
+94,74,Seattle SuperSonics,Toronto Raptors,2004-02-12
+75,73,Chicago Bulls,Toronto Raptors,2004-02-17
+82,86,Toronto Raptors,San Antonio Spurs,2004-02-18
+72,91,Toronto Raptors,New Jersey Nets,2004-02-20
+81,96,Toronto Raptors,Sacramento Kings,2004-02-22
+86,74,New Jersey Nets,Toronto Raptors,2004-02-24
+74,76,Toronto Raptors,Washington Wizards,2004-02-25
+88,75,Boston Celtics,Toronto Raptors,2004-02-27
+82,91,Toronto Raptors,Boston Celtics,2004-02-29
+86,89,Miami Heat,Toronto Raptors,2004-03-02
+84,70,Washington Wizards,Toronto Raptors,2004-03-03
+103,109,Toronto Raptors,New York Knicks,2004-03-05
+84,76,Toronto Raptors,New Orleans Hornets,2004-03-07
+94,84,Indiana Pacers,Toronto Raptors,2004-03-09
+92,106,Toronto Raptors,Cleveland Cavaliers,2004-03-10
+101,84,Toronto Raptors,Atlanta Hawks,2004-03-14
+85,81,Toronto Raptors,Utah Jazz,2004-03-17
+91,96,Toronto Raptors,Chicago Bulls,2004-03-19
+120,121,New Orleans Hornets,Toronto Raptors,2004-03-21
+95,86,Memphis Grizzlies,Toronto Raptors,2004-03-23
+90,89,Houston Rockets,Toronto Raptors,2004-03-24
+108,101,New York Knicks,Toronto Raptors,2004-03-26
+88,94,Toronto Raptors,Memphis Grizzlies,2004-03-28
+78,85,Toronto Raptors,Golden State Warriors,2004-03-31
+84,64,Indiana Pacers,Toronto Raptors,2004-04-02
+83,90,Toronto Raptors,Milwaukee Bucks,2004-04-04
+86,87,Cleveland Cavaliers,Toronto Raptors,2004-04-06
+90,94,Toronto Raptors,Indiana Pacers,2004-04-07
+74,66,Detroit Pistons,Toronto Raptors,2004-04-09
+108,114,Toronto Raptors,Chicago Bulls,2004-04-11
+87,78,Toronto Raptors,Detroit Pistons,2004-04-13
+87,89,Milwaukee Bucks,Toronto Raptors,2004-04-14
+95,88,Toronto Raptors,Houston Rockets,2004-11-03
+101,89,Toronto Raptors,Detroit Pistons,2004-11-05
+101,97,Toronto Raptors,Portland Trail Blazers,2004-11-07
+108,92,Sacramento Kings,Toronto Raptors,2004-11-09
+95,104,Utah Jazz,Toronto Raptors,2004-11-10
+88,87,Seattle SuperSonics,Toronto Raptors,2004-11-12
+105,102,Portland Trail Blazers,Toronto Raptors,2004-11-13
+101,89,Los Angeles Clippers,Toronto Raptors,2004-11-16
+112,106,Denver Nuggets,Toronto Raptors,2004-11-17
+94,101,Toronto Raptors,Seattle SuperSonics,2004-11-19
+96,91,Toronto Raptors,San Antonio Spurs,2004-11-21
+102,86,Washington Wizards,Toronto Raptors,2004-11-23
+114,91,Toronto Raptors,New York Knicks,2004-11-24
+108,102,New York Knicks,Toronto Raptors,2004-11-27
+109,114,Toronto Raptors,Washington Wizards,2004-11-28
+92,94,Miami Heat,Toronto Raptors,2004-11-30
+129,108,Orlando Magic,Toronto Raptors,2004-12-01
+91,89,Boston Celtics,Toronto Raptors,2004-12-03
+105,97,Cleveland Cavaliers,Toronto Raptors,2004-12-04
+88,86,New Jersey Nets,Toronto Raptors,2004-12-06
+90,86,Detroit Pistons,Toronto Raptors,2004-12-08
+87,101,Toronto Raptors,Denver Nuggets,2004-12-10
+98,106,Toronto Raptors,Miami Heat,2004-12-12
+96,90,Toronto Raptors,Minnesota Timberwolves,2004-12-15
+89,86,Indiana Pacers,Toronto Raptors,2004-12-17
+110,99,Toronto Raptors,New Jersey Nets,2004-12-19
+114,102,Houston Rockets,Toronto Raptors,2004-12-20
+98,86,Toronto Raptors,Utah Jazz,2004-12-22
+106,94,Phoenix Suns,Toronto Raptors,2004-12-26
+117,99,Los Angeles Lakers,Toronto Raptors,2004-12-28
+111,105,Golden State Warriors,Toronto Raptors,2004-12-29
+105,94,Toronto Raptors,Orlando Magic,2005-01-03
+96,93,Toronto Raptors,Sacramento Kings,2005-01-05
+105,107,Toronto Raptors,Milwaukee Bucks,2005-01-07
+109,87,Toronto Raptors,Golden State Warriors,2005-01-09
+104,93,Toronto Raptors,Boston Celtics,2005-01-12
+106,96,Philadelphia 76ers,Toronto Raptors,2005-01-14
+102,99,Toronto Raptors,New Orleans Hornets,2005-01-16
+91,100,Minnesota Timberwolves,Toronto Raptors,2005-01-17
+98,81,Toronto Raptors,New York Knicks,2005-01-19
+118,109,Washington Wizards,Toronto Raptors,2005-01-21
+103,92,Toronto Raptors,Charlotte Bobcats,2005-01-23
+96,111,Toronto Raptors,Miami Heat,2005-01-26
+101,94,Charlotte Bobcats,Toronto Raptors,2005-01-28
+105,123,Toronto Raptors,Phoenix Suns,2005-01-30
+97,98,Indiana Pacers,Toronto Raptors,2005-02-02
+103,100,Toronto Raptors,Washington Wizards,2005-02-04
+113,122,Toronto Raptors,Dallas Mavericks,2005-02-06
+104,91,Cleveland Cavaliers,Toronto Raptors,2005-02-08
+107,110,Toronto Raptors,Milwaukee Bucks,2005-02-09
+91,106,Toronto Raptors,Philadelphia 76ers,2005-02-11
+109,106,Toronto Raptors,Los Angeles Clippers,2005-02-13
+115,121,Toronto Raptors,Chicago Bulls,2005-02-16
+82,100,New Jersey Nets,Toronto Raptors,2005-02-22
+102,106,Milwaukee Bucks,Toronto Raptors,2005-02-25
+108,102,Toronto Raptors,Los Angeles Lakers,2005-02-27
+92,86,San Antonio Spurs,Toronto Raptors,2005-03-02
+86,75,Memphis Grizzlies,Toronto Raptors,2005-03-04
+84,95,New Orleans Hornets,Toronto Raptors,2005-03-06
+113,105,Dallas Mavericks,Toronto Raptors,2005-03-07
+106,96,Toronto Raptors,Orlando Magic,2005-03-09
+112,116,Toronto Raptors,Atlanta Hawks,2005-03-11
+128,110,Toronto Raptors,Philadelphia 76ers,2005-03-13
+110,109,Boston Celtics,Toronto Raptors,2005-03-16
+103,92,Detroit Pistons,Toronto Raptors,2005-03-18
+105,98,Toronto Raptors,Cleveland Cavaliers,2005-03-20
+85,94,Toronto Raptors,Chicago Bulls,2005-03-23
+103,101,Philadelphia 76ers,Toronto Raptors,2005-03-25
+104,109,Atlanta Hawks,Toronto Raptors,2005-03-26
+103,91,Miami Heat,Toronto Raptors,2005-03-29
+108,96,Orlando Magic,Toronto Raptors,2005-03-30
+107,119,Charlotte Bobcats,Toronto Raptors,2005-04-01
+103,113,Toronto Raptors,Detroit Pistons,2005-04-03
+74,104,Toronto Raptors,Memphis Grizzlies,2005-04-06
+109,101,Toronto Raptors,Atlanta Hawks,2005-04-08
+110,97,Chicago Bulls,Toronto Raptors,2005-04-09
+90,94,Toronto Raptors,Indiana Pacers,2005-04-11
+93,105,New York Knicks,Toronto Raptors,2005-04-12
+90,101,Toronto Raptors,New Jersey Nets,2005-04-15
+98,103,Toronto Raptors,Boston Celtics,2005-04-17
+109,127,Milwaukee Bucks,Toronto Raptors,2005-04-19
+95,104,Toronto Raptors,Cleveland Cavaliers,2005-04-20
+96,99,Toronto Raptors,Washington Wizards,2005-11-02
+92,102,Toronto Raptors,New Jersey Nets,2005-11-04
+117,84,Detroit Pistons,Toronto Raptors,2005-11-05
+93,105,Toronto Raptors,Cleveland Cavaliers,2005-11-07
+84,99,Toronto Raptors,Utah Jazz,2005-11-11
+121,126,Toronto Raptors,Seattle SuperSonics,2005-11-13
+104,92,Philadelphia 76ers,Toronto Raptors,2005-11-15
+115,121,Toronto Raptors,Philadelphia 76ers,2005-11-16
+100,93,Boston Celtics,Toronto Raptors,2005-11-18
+107,94,Toronto Raptors,Miami Heat,2005-11-20
+90,82,Phoenix Suns,Toronto Raptors,2005-11-22
+103,100,Los Angeles Clippers,Toronto Raptors,2005-11-23
+106,104,Sacramento Kings,Toronto Raptors,2005-11-25
+117,91,Golden State Warriors,Toronto Raptors,2005-11-26
+91,93,Toronto Raptors,Dallas Mavericks,2005-11-28
+66,92,Toronto Raptors,Memphis Grizzlies,2005-11-30
+101,102,Atlanta Hawks,Toronto Raptors,2005-12-02
+82,95,New Jersey Nets,Toronto Raptors,2005-12-03
+119,111,Washington Wizards,Toronto Raptors,2005-12-06
+91,102,Toronto Raptors,Los Angeles Lakers,2005-12-07
+103,111,Charlotte Bobcats,Toronto Raptors,2005-12-10
+94,105,Toronto Raptors,Chicago Bulls,2005-12-14
+98,108,Toronto Raptors,Golden State Warriors,2005-12-16
+80,107,Toronto Raptors,Philadelphia 76ers,2005-12-18
+90,92,Orlando Magic,Toronto Raptors,2005-12-19
+81,94,Houston Rockets,Toronto Raptors,2005-12-21
+95,90,San Antonio Spurs,Toronto Raptors,2005-12-23
+113,106,Detroit Pistons,Toronto Raptors,2005-12-27
+108,102,Toronto Raptors,Atlanta Hawks,2005-12-28
+97,99,Indiana Pacers,Toronto Raptors,2005-12-30
+97,108,Atlanta Hawks,Toronto Raptors,2006-01-03
+121,97,Toronto Raptors,Orlando Magic,2006-01-04
+112,92,Toronto Raptors,Houston Rockets,2006-01-06
+104,105,Toronto Raptors,New Jersey Nets,2006-01-08
+113,104,Chicago Bulls,Toronto Raptors,2006-01-09
+95,86,Toronto Raptors,Charlotte Bobcats,2006-01-11
+129,103,Toronto Raptors,New York Knicks,2006-01-15
+111,98,Utah Jazz,Toronto Raptors,2006-01-17
+96,94,Portland Trail Blazers,Toronto Raptors,2006-01-18
+113,121,Seattle SuperSonics,Toronto Raptors,2006-01-20
+122,104,Los Angeles Lakers,Toronto Raptors,2006-01-22
+107,101,Denver Nuggets,Toronto Raptors,2006-01-23
+88,104,Toronto Raptors,Chicago Bulls,2006-01-25
+108,87,Milwaukee Bucks,Toronto Raptors,2006-01-27
+124,123,Toronto Raptors,Sacramento Kings,2006-01-29
+117,112,Toronto Raptors,Washington Wizards,2006-02-01
+104,90,Toronto Raptors,New York Knicks,2006-02-03
+113,115,Toronto Raptors,Los Angeles Clippers,2006-02-05
+118,125,Toronto Raptors,San Antonio Spurs,2006-02-08
+73,88,Charlotte Bobcats,Toronto Raptors,2006-02-10
+114,81,Toronto Raptors,Portland Trail Blazers,2006-02-12
+94,98,Minnesota Timberwolves,Toronto Raptors,2006-02-13
+98,96,New York Knicks,Toronto Raptors,2006-02-15
+94,88,Memphis Grizzlies,Toronto Raptors,2006-02-21
+115,113,Dallas Mavericks,Toronto Raptors,2006-02-25
+101,94,Miami Heat,Toronto Raptors,2006-02-27
+111,113,Toronto Raptors,Atlanta Hawks,2006-03-01
+105,100,New Jersey Nets,Toronto Raptors,2006-03-04
+111,105,Toronto Raptors,Boston Celtics,2006-03-05
+106,99,Cleveland Cavaliers,Toronto Raptors,2006-03-07
+97,98,Toronto Raptors,Cleveland Cavaliers,2006-03-08
+97,108,Toronto Raptors,Denver Nuggets,2006-03-10
+93,89,Toronto Raptors,Indiana Pacers,2006-03-12
+97,111,Philadelphia 76ers,Toronto Raptors,2006-03-14
+98,105,Toronto Raptors,Detroit Pistons,2006-03-15
+97,96,Toronto Raptors,Milwaukee Bucks,2006-03-17
+109,114,New York Knicks,Toronto Raptors,2006-03-21
+110,96,Boston Celtics,Toronto Raptors,2006-03-22
+97,77,Toronto Raptors,Minnesota Timberwolves,2006-03-24
+125,116,Milwaukee Bucks,Toronto Raptors,2006-03-26
+94,98,Toronto Raptors,Miami Heat,2006-03-29
+126,140,Toronto Raptors,Phoenix Suns,2006-03-31
+113,120,Toronto Raptors,New Orleans/Oklahoma City Hornets,2006-04-02
+120,124,Toronto Raptors,Boston Celtics,2006-04-04
+111,103,Indiana Pacers,Toronto Raptors,2006-04-05
+95,89,New Orleans/Oklahoma City Hornets,Toronto Raptors,2006-04-07
+88,94,Toronto Raptors,Charlotte Bobcats,2006-04-09
+106,97,Miami Heat,Toronto Raptors,2006-04-11
+103,96,Orlando Magic,Toronto Raptors,2006-04-12
+108,103,Toronto Raptors,Detroit Pistons,2006-04-14
+95,120,Toronto Raptors,Indiana Pacers,2006-04-17
+127,106,Chicago Bulls,Toronto Raptors,2006-04-19
+102,92,New Jersey Nets,Toronto Raptors,2006-11-01
+109,92,Toronto Raptors,Milwaukee Bucks,2006-11-03
+94,103,Toronto Raptors,San Antonio Spurs,2006-11-05
+106,104,Toronto Raptors,Philadelphia 76ers,2006-11-08
+102,111,Toronto Raptors,Atlanta Hawks,2006-11-10
+107,92,Sacramento Kings,Toronto Raptors,2006-11-12
+110,99,Golden State Warriors,Toronto Raptors,2006-11-14
+107,100,Los Angeles Lakers,Toronto Raptors,2006-11-17
+117,109,Denver Nuggets,Toronto Raptors,2006-11-18
+101,96,Utah Jazz,Toronto Raptors,2006-11-20
+95,87,Toronto Raptors,Cleveland Cavaliers,2006-11-22
+97,93,Atlanta Hawks,Toronto Raptors,2006-11-24
+92,83,Toronto Raptors,Indiana Pacers,2006-11-26
+77,94,New Orleans/Oklahoma City Hornets,Toronto Raptors,2006-11-28
+117,98,Dallas Mavericks,Toronto Raptors,2006-11-29
+106,102,Toronto Raptors,Boston Celtics,2006-12-01
+100,103,New York Knicks,Toronto Raptors,2006-12-02
+95,91,Cleveland Cavaliers,Toronto Raptors,2006-12-06
+93,90,Chicago Bulls,Toronto Raptors,2006-12-08
+83,93,Toronto Raptors,Portland Trail Blazers,2006-12-10
+99,77,Miami Heat,Toronto Raptors,2006-12-11
+84,91,Orlando Magic,Toronto Raptors,2006-12-13
+90,78,Toronto Raptors,New Jersey Nets,2006-12-15
+120,115,Toronto Raptors,Golden State Warriors,2006-12-17
+115,98,Phoenix Suns,Toronto Raptors,2006-12-19
+96,98,Los Angeles Clippers,Toronto Raptors,2006-12-20
+100,101,Portland Trail Blazers,Toronto Raptors,2006-12-22
+110,97,Seattle SuperSonics,Toronto Raptors,2006-12-23
+100,97,Toronto Raptors,Minnesota Timberwolves,2006-12-27
+97,107,Toronto Raptors,Chicago Bulls,2006-12-29
+110,104,Memphis Grizzlies,Toronto Raptors,2006-12-30
+98,100,Toronto Raptors,Phoenix Suns,2007-01-03
+105,92,Toronto Raptors,Atlanta Hawks,2007-01-05
+116,111,Toronto Raptors,Washington Wizards,2007-01-07
+101,86,New Jersey Nets,Toronto Raptors,2007-01-09
+77,90,Milwaukee Bucks,Toronto Raptors,2007-01-10
+86,95,Boston Celtics,Toronto Raptors,2007-01-12
+96,97,Toronto Raptors,Dallas Mavericks,2007-01-14
+86,104,Philadelphia 76ers,Toronto Raptors,2007-01-15
+101,85,Toronto Raptors,Sacramento Kings,2007-01-17
+94,102,Toronto Raptors,Utah Jazz,2007-01-19
+105,84,Toronto Raptors,Charlotte Bobcats,2007-01-22
+90,88,Toronto Raptors,New Orleans/Oklahoma City Hornets,2007-01-24
+96,90,Toronto Raptors,Boston Celtics,2007-01-26
+102,84,Indiana Pacers,Toronto Raptors,2007-01-27
+119,109,Toronto Raptors,Washington Wizards,2007-01-31
+91,103,Atlanta Hawks,Toronto Raptors,2007-02-02
+122,110,Toronto Raptors,Los Angeles Clippers,2007-02-04
+113,103,Toronto Raptors,Orlando Magic,2007-02-07
+96,92,Toronto Raptors,Los Angeles Lakers,2007-02-09
+98,92,Detroit Pistons,Toronto Raptors,2007-02-10
+111,112,Chicago Bulls,Toronto Raptors,2007-02-13
+120,109,Toronto Raptors,New Jersey Nets,2007-02-14
+85,86,Toronto Raptors,Cleveland Cavaliers,2007-02-21
+110,88,Toronto Raptors,Indiana Pacers,2007-02-23
+76,93,Charlotte Bobcats,Toronto Raptors,2007-02-24
+107,91,San Antonio Spurs,Toronto Raptors,2007-02-26
+90,106,Houston Rockets,Toronto Raptors,2007-02-28
+81,94,Toronto Raptors,Milwaukee Bucks,2007-03-02
+120,97,Cleveland Cavaliers,Toronto Raptors,2007-03-03
+129,109,Washington Wizards,Toronto Raptors,2007-03-06
+94,87,Toronto Raptors,Memphis Grizzlies,2007-03-07
+120,119,Toronto Raptors,Seattle SuperSonics,2007-03-11
+93,108,Milwaukee Bucks,Toronto Raptors,2007-03-12
+104,94,Toronto Raptors,New York Knicks,2007-03-14
+100,114,Toronto Raptors,Houston Rockets,2007-03-16
+92,74,New York Knicks,Toronto Raptors,2007-03-18
+92,85,Toronto Raptors,Orlando Magic,2007-03-21
+121,94,Toronto Raptors,Denver Nuggets,2007-03-23
+95,87,Boston Celtics,Toronto Raptors,2007-03-26
+96,83,Toronto Raptors,Miami Heat,2007-03-28
+118,123,Washington Wizards,Toronto Raptors,2007-03-30
+107,94,Toronto Raptors,Charlotte Bobcats,2007-04-01
+92,89,Miami Heat,Toronto Raptors,2007-04-03
+108,111,Orlando Magic,Toronto Raptors,2007-04-04
+85,94,Philadelphia 76ers,Toronto Raptors,2007-04-06
+103,89,Toronto Raptors,Chicago Bulls,2007-04-08
+100,111,Minnesota Timberwolves,Toronto Raptors,2007-04-09
+87,84,Toronto Raptors,Detroit Pistons,2007-04-13
+107,105,Toronto Raptors,New York Knicks,2007-04-15
+100,84,Detroit Pistons,Toronto Raptors,2007-04-17
+119,122,Toronto Raptors,Philadelphia 76ers,2007-04-18
+106,97,Toronto Raptors,Philadelphia 76ers,2007-10-31
+69,106,New Jersey Nets,Toronto Raptors,2007-11-02
+95,98,Toronto Raptors,Boston Celtics,2007-11-04
+112,85,Milwaukee Bucks,Toronto Raptors,2007-11-06
+96,105,Toronto Raptors,Orlando Magic,2007-11-07
+103,105,Philadelphia 76ers,Toronto Raptors,2007-11-09
+71,101,Chicago Bulls,Toronto Raptors,2007-11-10
+88,92,Toronto Raptors,Utah Jazz,2007-11-14
+110,101,Toronto Raptors,Indiana Pacers,2007-11-16
+100,106,Toronto Raptors,Golden State Warriors,2007-11-18
+105,99,Dallas Mavericks,Toronto Raptors,2007-11-20
+89,95,Memphis Grizzlies,Toronto Raptors,2007-11-21
+111,108,Cleveland Cavaliers,Toronto Raptors,2007-11-24
+93,78,Toronto Raptors,Chicago Bulls,2007-11-25
+103,91,Toronto Raptors,Memphis Grizzlies,2007-11-28
+91,82,Toronto Raptors,Cleveland Cavaliers,2007-11-30
+101,97,Washington Wizards,Toronto Raptors,2007-12-01
+98,79,Toronto Raptors,Charlotte Bobcats,2007-12-03
+123,136,Toronto Raptors,Phoenix Suns,2007-12-05
+112,84,Boston Celtics,Toronto Raptors,2007-12-07
+93,80,Toronto Raptors,Houston Rockets,2007-12-09
+88,100,Atlanta Hawks,Toronto Raptors,2007-12-11
+92,76,Toronto Raptors,Dallas Mavericks,2007-12-12
+93,104,Indiana Pacers,Toronto Raptors,2007-12-14
+77,90,Toronto Raptors,Boston Celtics,2007-12-16
+77,80,Los Angeles Clippers,Toronto Raptors,2007-12-18
+101,96,Portland Trail Blazers,Toronto Raptors,2007-12-19
+123,115,Seattle SuperSonics,Toronto Raptors,2007-12-21
+122,103,Phoenix Suns,Toronto Raptors,2007-12-22
+73,83,San Antonio Spurs,Toronto Raptors,2007-12-28
+91,79,Houston Rockets,Toronto Raptors,2007-12-29
+92,97,New Orleans Hornets,Toronto Raptors,2007-12-31
+85,101,Toronto Raptors,Detroit Pistons,2008-01-04
+90,93,Toronto Raptors,Cleveland Cavaliers,2008-01-06
+109,96,Toronto Raptors,Philadelphia 76ers,2008-01-09
+90,99,New York Knicks,Toronto Raptors,2008-01-11
+116,109,Toronto Raptors,Portland Trail Blazers,2008-01-13
+103,89,Detroit Pistons,Toronto Raptors,2008-01-15
+116,91,Toronto Raptors,Sacramento Kings,2008-01-16
+89,78,Toronto Raptors,Atlanta Hawks,2008-01-18
+99,95,Philadelphia 76ers,Toronto Raptors,2008-01-19
+112,114,Boston Celtics,Toronto Raptors,2008-01-23
+106,75,Toronto Raptors,Milwaukee Bucks,2008-01-25
+108,104,Washington Wizards,Toronto Raptors,2008-01-29
+122,83,Toronto Raptors,Washington Wizards,2008-01-30
+101,121,Toronto Raptors,Los Angeles Lakers,2008-02-01
+82,114,Miami Heat,Toronto Raptors,2008-02-04
+98,102,Toronto Raptors,Los Angeles Clippers,2008-02-08
+82,105,Minnesota Timberwolves,Toronto Raptors,2008-02-10
+88,93,Toronto Raptors,San Antonio Spurs,2008-02-11
+109,91,Toronto Raptors,New Jersey Nets,2008-02-13
+127,110,Toronto Raptors,Orlando Magic,2008-02-20
+103,99,New York Knicks,Toronto Raptors,2008-02-22
+115,92,Toronto Raptors,New York Knicks,2008-02-24
+98,102,Indiana Pacers,Toronto Raptors,2008-02-25
+107,85,Toronto Raptors,Minnesota Timberwolves,2008-02-27
+111,122,Toronto Raptors,Indiana Pacers,2008-02-29
+110,98,Charlotte Bobcats,Toronto Raptors,2008-03-02
+102,87,Orlando Magic,Toronto Raptors,2008-03-04
+83,108,Miami Heat,Toronto Raptors,2008-03-05
+106,110,Toronto Raptors,Washington Wizards,2008-03-07
+114,106,Toronto Raptors,Seattle SuperSonics,2008-03-09
+117,108,Los Angeles Lakers,Toronto Raptors,2008-03-11
+117,106,Golden State Warriors,Toronto Raptors,2008-03-12
+137,105,Denver Nuggets,Toronto Raptors,2008-03-14
+106,100,Sacramento Kings,Toronto Raptors,2008-03-16
+96,79,Utah Jazz,Toronto Raptors,2008-03-17
+96,54,Toronto Raptors,Miami Heat,2008-03-19
+90,83,Cleveland Cavaliers,Toronto Raptors,2008-03-21
+100,109,Toronto Raptors,Denver Nuggets,2008-03-23
+89,82,Toronto Raptors,Detroit Pistons,2008-03-26
+103,95,Toronto Raptors,New York Knicks,2008-03-28
+111,118,Toronto Raptors,New Orleans Hornets,2008-03-30
+100,104,Charlotte Bobcats,Toronto Raptors,2008-03-31
+127,120,Atlanta Hawks,Toronto Raptors,2008-04-02
+100,105,Toronto Raptors,Charlotte Bobcats,2008-04-04
+99,90,New Jersey Nets,Toronto Raptors,2008-04-05
+111,93,Toronto Raptors,Milwaukee Bucks,2008-04-09
+113,85,Toronto Raptors,New Jersey Nets,2008-04-11
+91,84,Detroit Pistons,Toronto Raptors,2008-04-13
+91,75,Toronto Raptors,Miami Heat,2008-04-14
+107,97,Chicago Bulls,Toronto Raptors,2008-04-16
+84,95,Philadelphia 76ers,Toronto Raptors,2008-10-29
+112,108,Toronto Raptors,Golden State Warriors,2008-10-31
+87,91,Milwaukee Bucks,Toronto Raptors,2008-11-01
+93,100,Toronto Raptors,Detroit Pistons,2008-11-05
+110,92,Atlanta Hawks,Toronto Raptors,2008-11-07
+79,89,Charlotte Bobcats,Toronto Raptors,2008-11-09
+94,87,Boston Celtics,Toronto Raptors,2008-11-10
+96,106,Toronto Raptors,Philadelphia 76ers,2008-11-12
+107,96,Toronto Raptors,Miami Heat,2008-11-16
+103,90,Orlando Magic,Toronto Raptors,2008-11-18
+95,101,Miami Heat,Toronto Raptors,2008-11-19
+127,129,Toronto Raptors,New Jersey Nets,2008-11-21
+103,118,Toronto Raptors,Boston Celtics,2008-11-23
+93,86,Toronto Raptors,Charlotte Bobcats,2008-11-26
+93,88,Toronto Raptors,Atlanta Hawks,2008-11-28
+112,99,Los Angeles Lakers,Toronto Raptors,2008-11-30
+132,93,Denver Nuggets,Toronto Raptors,2008-12-02
+114,87,Utah Jazz,Toronto Raptors,2008-12-05
+97,98,Toronto Raptors,Portland Trail Blazers,2008-12-07
+114,94,Cleveland Cavaliers,Toronto Raptors,2008-12-09
+101,88,Toronto Raptors,Indiana Pacers,2008-12-10
+79,101,New Jersey Nets,Toronto Raptors,2008-12-12
+91,99,Toronto Raptors,New Orleans Hornets,2008-12-14
+87,94,Toronto Raptors,New Jersey Nets,2008-12-15
+86,96,Toronto Raptors,Dallas Mavericks,2008-12-17
+91,83,Oklahoma City Thunder,Toronto Raptors,2008-12-19
+107,97,San Antonio Spurs,Toronto Raptors,2008-12-20
+75,97,Los Angeles Clippers,Toronto Raptors,2008-12-22
+101,107,Sacramento Kings,Toronto Raptors,2008-12-26
+102,89,Portland Trail Blazers,Toronto Raptors,2008-12-27
+117,111,Golden State Warriors,Toronto Raptors,2008-12-29
+107,114,Toronto Raptors,Denver Nuggets,2008-12-31
+94,73,Toronto Raptors,Houston Rockets,2009-01-02
+108,102,Toronto Raptors,Orlando Magic,2009-01-04
+107,97,Milwaukee Bucks,Toronto Raptors,2009-01-05
+93,99,Washington Wizards,Toronto Raptors,2009-01-07
+103,82,Toronto Raptors,Memphis Grizzlies,2009-01-09
+88,94,Toronto Raptors,Boston Celtics,2009-01-11
+115,109,Boston Celtics,Toronto Raptors,2009-01-12
+98,102,Toronto Raptors,Chicago Bulls,2009-01-14
+111,104,Indiana Pacers,Toronto Raptors,2009-01-16
+113,117,Toronto Raptors,Phoenix Suns,2009-01-18
+87,84,Atlanta Hawks,Toronto Raptors,2009-01-19
+95,76,Detroit Pistons,Toronto Raptors,2009-01-21
+94,114,Chicago Bulls,Toronto Raptors,2009-01-23
+113,97,Toronto Raptors,Sacramento Kings,2009-01-25
+106,107,New Jersey Nets,Toronto Raptors,2009-01-28
+85,96,Toronto Raptors,Milwaukee Bucks,2009-01-30
+90,113,Toronto Raptors,Orlando Magic,2009-02-01
+101,83,Cleveland Cavaliers,Toronto Raptors,2009-02-03
+107,115,Toronto Raptors,Los Angeles Lakers,2009-02-04
+101,92,New Orleans Hornets,Toronto Raptors,2009-02-06
+78,70,Memphis Grizzlies,Toronto Raptors,2009-02-07
+102,110,Minnesota Timberwolves,Toronto Raptors,2009-02-10
+91,89,Toronto Raptors,San Antonio Spurs,2009-02-11
+76,93,Toronto Raptors,Cleveland Cavaliers,2009-02-18
+127,97,New York Knicks,Toronto Raptors,2009-02-20
+111,100,Toronto Raptors,New York Knicks,2009-02-22
+118,110,Toronto Raptors,Minnesota Timberwolves,2009-02-24
+133,113,Phoenix Suns,Toronto Raptors,2009-02-27
+109,98,Dallas Mavericks,Toronto Raptors,2009-03-01
+107,97,Houston Rockets,Toronto Raptors,2009-03-03
+102,108,Toronto Raptors,Miami Heat,2009-03-06
+101,109,Toronto Raptors,Utah Jazz,2009-03-08
+115,106,Philadelphia 76ers,Toronto Raptors,2009-03-11
+95,99,Toronto Raptors,Detroit Pistons,2009-03-13
+110,87,Toronto Raptors,Indiana Pacers,2009-03-15
+112,86,Charlotte Bobcats,Toronto Raptors,2009-03-16
+89,102,Toronto Raptors,Charlotte Bobcats,2009-03-20
+100,76,Toronto Raptors,Los Angeles Clippers,2009-03-22
+115,106,Toronto Raptors,Milwaukee Bucks,2009-03-25
+112,96,Toronto Raptors,Oklahoma City Thunder,2009-03-27
+134,129,Toronto Raptors,Chicago Bulls,2009-03-29
+95,99,Orlando Magic,Toronto Raptors,2009-04-01
+95,102,New York Knicks,Toronto Raptors,2009-04-04
+103,112,Toronto Raptors,New York Knicks,2009-04-05
+110,118,Toronto Raptors,Atlanta Hawks,2009-04-07
+130,101,Indiana Pacers,Toronto Raptors,2009-04-08
+98,100,Toronto Raptors,Washington Wizards,2009-04-10
+111,104,Toronto Raptors,Philadelphia 76ers,2009-04-12
+96,97,Washington Wizards,Toronto Raptors,2009-04-13
+98,109,Chicago Bulls,Toronto Raptors,2009-04-15
+101,91,Toronto Raptors,Cleveland Cavaliers,2009-10-28
+115,107,Memphis Grizzlies,Toronto Raptors,2009-10-30
+116,125,Toronto Raptors,Orlando Magic,2009-11-01
+110,99,Toronto Raptors,Detroit Pistons,2009-11-04
+90,107,New Orleans Hornets,Toronto Raptors,2009-11-06
+129,101,Dallas Mavericks,Toronto Raptors,2009-11-07
+131,124,San Antonio Spurs,Toronto Raptors,2009-11-09
+99,89,Toronto Raptors,Chicago Bulls,2009-11-11
+89,104,Los Angeles Clippers,Toronto Raptors,2009-11-13
+101,100,Phoenix Suns,Toronto Raptors,2009-11-15
+130,112,Denver Nuggets,Toronto Raptors,2009-11-17
+104,91,Utah Jazz,Toronto Raptors,2009-11-18
+120,113,Toronto Raptors,Miami Heat,2009-11-20
+96,104,Toronto Raptors,Orlando Magic,2009-11-22
+123,112,Toronto Raptors,Indiana Pacers,2009-11-24
+116,81,Charlotte Bobcats,Toronto Raptors,2009-11-25
+116,103,Boston Celtics,Toronto Raptors,2009-11-27
+94,113,Toronto Raptors,Phoenix Suns,2009-11-29
+102,106,Toronto Raptors,Washington Wizards,2009-12-01
+146,115,Atlanta Hawks,Toronto Raptors,2009-12-02
+107,109,Washington Wizards,Toronto Raptors,2009-12-04
+78,110,Chicago Bulls,Toronto Raptors,2009-12-05
+94,88,Toronto Raptors,Minnesota Timberwolves,2009-12-08
+117,95,Milwaukee Bucks,Toronto Raptors,2009-12-09
+89,111,Toronto Raptors,Atlanta Hawks,2009-12-11
+101,88,Toronto Raptors,Houston Rockets,2009-12-13
+115,95,Miami Heat,Toronto Raptors,2009-12-15
+118,99,Orlando Magic,Toronto Raptors,2009-12-16
+118,95,Toronto Raptors,New Jersey Nets,2009-12-18
+98,92,Toronto Raptors,New Orleans Hornets,2009-12-20
+64,94,Detroit Pistons,Toronto Raptors,2009-12-23
+102,95,Toronto Raptors,Detroit Pistons,2009-12-27
+107,103,Toronto Raptors,Charlotte Bobcats,2009-12-30
+103,96,Boston Celtics,Toronto Raptors,2010-01-02
+91,86,Toronto Raptors,San Antonio Spurs,2010-01-03
+103,108,Orlando Magic,Toronto Raptors,2010-01-06
+106,108,Philadelphia 76ers,Toronto Raptors,2010-01-08
+107,114,Toronto Raptors,Boston Celtics,2010-01-10
+105,101,Indiana Pacers,Toronto Raptors,2010-01-11
+104,112,New York Knicks,Toronto Raptors,2010-01-15
+110,88,Toronto Raptors,Dallas Mavericks,2010-01-17
+108,100,Cleveland Cavaliers,Toronto Raptors,2010-01-19
+113,107,Milwaukee Bucks,Toronto Raptors,2010-01-20
+101,96,Toronto Raptors,Milwaukee Bucks,2010-01-22
+106,105,Toronto Raptors,Los Angeles Lakers,2010-01-24
+111,103,Toronto Raptors,Miami Heat,2010-01-27
+104,106,New York Knicks,Toronto Raptors,2010-01-28
+117,102,Toronto Raptors,Indiana Pacers,2010-01-31
+130,115,Indiana Pacers,Toronto Raptors,2010-02-02
+108,99,Toronto Raptors,New Jersey Nets,2010-02-03
+115,104,Toronto Raptors,Sacramento Kings,2010-02-07
+104,93,Toronto Raptors,Philadelphia 76ers,2010-02-10
+102,109,Toronto Raptors,Memphis Grizzlies,2010-02-17
+89,106,New Jersey Nets,Toronto Raptors,2010-02-19
+109,104,Toronto Raptors,Washington Wizards,2010-02-20
+87,101,Toronto Raptors,Portland Trail Blazers,2010-02-24
+118,126,Toronto Raptors,Cleveland Cavaliers,2010-02-26
+119,99,Oklahoma City Thunder,Toronto Raptors,2010-02-28
+116,92,Houston Rockets,Toronto Raptors,2010-03-01
+102,96,Toronto Raptors,New York Knicks,2010-03-05
+101,114,Toronto Raptors,Philadelphia 76ers,2010-03-07
+109,107,Los Angeles Lakers,Toronto Raptors,2010-03-09
+113,90,Sacramento Kings,Toronto Raptors,2010-03-10
+124,112,Golden State Warriors,Toronto Raptors,2010-03-13
+109,98,Portland Trail Blazers,Toronto Raptors,2010-03-14
+106,105,Toronto Raptors,Atlanta Hawks,2010-03-17
+89,115,Toronto Raptors,Oklahoma City Thunder,2010-03-19
+90,100,New Jersey Nets,Toronto Raptors,2010-03-20
+100,106,Minnesota Timberwolves,Toronto Raptors,2010-03-22
+87,113,Toronto Raptors,Utah Jazz,2010-03-24
+96,97,Toronto Raptors,Denver Nuggets,2010-03-26
+97,94,Miami Heat,Toronto Raptors,2010-03-28
+101,103,Charlotte Bobcats,Toronto Raptors,2010-03-29
+114,92,Toronto Raptors,Los Angeles Clippers,2010-03-31
+123,128,Philadelphia 76ers,Toronto Raptors,2010-04-03
+112,113,Toronto Raptors,Golden State Warriors,2010-04-04
+113,101,Cleveland Cavaliers,Toronto Raptors,2010-04-06
+104,115,Toronto Raptors,Boston Celtics,2010-04-07
+107,101,Atlanta Hawks,Toronto Raptors,2010-04-09
+88,104,Toronto Raptors,Chicago Bulls,2010-04-11
+97,111,Detroit Pistons,Toronto Raptors,2010-04-12
+131,113,Toronto Raptors,New York Knicks,2010-04-14
+93,98,Toronto Raptors,New York Knicks,2010-10-27
+101,81,Toronto Raptors,Cleveland Cavaliers,2010-10-29
+111,108,Sacramento Kings,Toronto Raptors,2010-11-01
+125,108,Utah Jazz,Toronto Raptors,2010-11-03
+108,103,Los Angeles Lakers,Toronto Raptors,2010-11-05
+97,84,Portland Trail Blazers,Toronto Raptors,2010-11-06
+102,109,Toronto Raptors,Golden State Warriors,2010-11-08
+96,101,Toronto Raptors,Charlotte Bobcats,2010-11-10
+106,110,Orlando Magic,Toronto Raptors,2010-11-12
+109,100,Miami Heat,Toronto Raptors,2010-11-13
+109,94,Washington Wizards,Toronto Raptors,2010-11-16
+86,94,Philadelphia 76ers,Toronto Raptors,2010-11-17
+106,96,Toronto Raptors,Houston Rockets,2010-11-19
+102,101,Toronto Raptors,Boston Celtics,2010-11-21
+106,90,Toronto Raptors,Philadelphia 76ers,2010-11-24
+110,101,Boston Celtics,Toronto Raptors,2010-11-26
+78,96,Toronto Raptors,Atlanta Hawks,2010-11-28
+127,108,Toronto Raptors,Washington Wizards,2010-12-01
+111,99,Toronto Raptors,Oklahoma City Thunder,2010-12-03
+99,116,Toronto Raptors,New York Knicks,2010-12-05
+124,100,Indiana Pacers,Toronto Raptors,2010-12-06
+113,110,New York Knicks,Toronto Raptors,2010-12-08
+116,123,Toronto Raptors,Denver Nuggets,2010-12-10
+116,120,Detroit Pistons,Toronto Raptors,2010-12-11
+97,91,Charlotte Bobcats,Toronto Raptors,2010-12-14
+93,110,Toronto Raptors,Chicago Bulls,2010-12-15
+98,92,Toronto Raptors,New Jersey Nets,2010-12-17
+110,120,Toronto Raptors,Los Angeles Lakers,2010-12-19
+93,115,Toronto Raptors,Detroit Pistons,2010-12-22
+96,85,Memphis Grizzlies,Toronto Raptors,2010-12-27
+76,84,Dallas Mavericks,Toronto Raptors,2010-12-28
+114,105,Houston Rockets,Toronto Raptors,2010-12-31
+79,93,Toronto Raptors,Boston Celtics,2011-01-02
+111,91,Chicago Bulls,Toronto Raptors,2011-01-04
+105,120,Cleveland Cavaliers,Toronto Raptors,2011-01-05
+122,102,Boston Celtics,Toronto Raptors,2011-01-07
+118,112,Toronto Raptors,Sacramento Kings,2011-01-09
+101,104,Toronto Raptors,Atlanta Hawks,2011-01-12
+95,101,Toronto Raptors,Detroit Pistons,2011-01-14
+98,95,Washington Wizards,Toronto Raptors,2011-01-15
+85,81,New Orleans Hornets,Toronto Raptors,2011-01-17
+104,95,San Antonio Spurs,Toronto Raptors,2011-01-19
+112,72,Orlando Magic,Toronto Raptors,2011-01-21
+120,103,Miami Heat,Toronto Raptors,2011-01-22
+98,100,Toronto Raptors,Memphis Grizzlies,2011-01-24
+94,107,Toronto Raptors,Philadelphia 76ers,2011-01-26
+110,116,Toronto Raptors,Milwaukee Bucks,2011-01-28
+103,87,Minnesota Timberwolves,Toronto Raptors,2011-01-29
+104,93,Indiana Pacers,Toronto Raptors,2011-01-31
+100,87,Atlanta Hawks,Toronto Raptors,2011-02-02
+111,100,Toronto Raptors,Minnesota Timberwolves,2011-02-04
+92,74,Milwaukee Bucks,Toronto Raptors,2011-02-08
+100,111,Toronto Raptors,San Antonio Spurs,2011-02-09
+96,102,Toronto Raptors,Portland Trail Blazers,2011-02-11
+98,93,Toronto Raptors,Los Angeles Clippers,2011-02-13
+95,103,Toronto Raptors,Miami Heat,2011-02-16
+114,101,Charlotte Bobcats,Toronto Raptors,2011-02-22
+118,113,Toronto Raptors,Chicago Bulls,2011-02-23
+92,110,Toronto Raptors,Phoenix Suns,2011-02-25
+96,114,Toronto Raptors,Dallas Mavericks,2011-02-27
+96,90,Toronto Raptors,New Orleans Hornets,2011-03-01
+116,103,New Jersey Nets,Toronto Raptors,2011-03-04
+137,136,New Jersey Nets,Toronto Raptors,2011-03-05
+94,96,Toronto Raptors,Utah Jazz,2011-03-09
+108,98,Toronto Raptors,Indiana Pacers,2011-03-11
+90,95,Toronto Raptors,Charlotte Bobcats,2011-03-13
+107,93,Detroit Pistons,Toronto Raptors,2011-03-16
+116,107,Toronto Raptors,Washington Wizards,2011-03-18
+93,95,Oklahoma City Thunder,Toronto Raptors,2011-03-20
+123,90,Denver Nuggets,Toronto Raptors,2011-03-21
+114,106,Phoenix Suns,Toronto Raptors,2011-03-23
+138,100,Golden State Warriors,Toronto Raptors,2011-03-25
+94,90,Los Angeles Clippers,Toronto Raptors,2011-03-26
+98,104,Toronto Raptors,Milwaukee Bucks,2011-03-30
+113,106,Chicago Bulls,Toronto Raptors,2011-04-02
+102,98,Toronto Raptors,Orlando Magic,2011-04-03
+131,118,New York Knicks,Toronto Raptors,2011-04-05
+96,104,Toronto Raptors,Cleveland Cavaliers,2011-04-06
+98,93,Philadelphia 76ers,Toronto Raptors,2011-04-08
+99,92,Toronto Raptors,New Jersey Nets,2011-04-10
+93,86,Milwaukee Bucks,Toronto Raptors,2011-04-11
+79,97,Toronto Raptors,Miami Heat,2011-04-13
+96,104,Cleveland Cavaliers,Toronto Raptors,2011-12-26
+85,90,Toronto Raptors,Indiana Pacers,2011-12-28
+99,86,Dallas Mavericks,Toronto Raptors,2011-12-30
+102,96,Orlando Magic,Toronto Raptors,2012-01-01
+85,90,New York Knicks,Toronto Raptors,2012-01-02
+92,77,Toronto Raptors,Cleveland Cavaliers,2012-01-04
+85,97,Toronto Raptors,New Jersey Nets,2012-01-06
+97,62,Philadelphia 76ers,Toronto Raptors,2012-01-07
+97,87,Toronto Raptors,Minnesota Timberwolves,2012-01-09
+93,78,Washington Wizards,Toronto Raptors,2012-01-10
+91,98,Toronto Raptors,Sacramento Kings,2012-01-11
+90,95,Toronto Raptors,Indiana Pacers,2012-01-13
+77,64,Chicago Bulls,Toronto Raptors,2012-01-14
+93,84,Atlanta Hawks,Toronto Raptors,2012-01-16
+96,73,Boston Celtics,Toronto Raptors,2012-01-18
+84,94,Toronto Raptors,Portland Trail Blazers,2012-01-20
+103,91,Los Angeles Clippers,Toronto Raptors,2012-01-22
+96,99,Phoenix Suns,Toronto Raptors,2012-01-24
+106,111,Utah Jazz,Toronto Raptors,2012-01-25
+96,81,Denver Nuggets,Toronto Raptors,2012-01-27
+73,94,New Jersey Nets,Toronto Raptors,2012-01-29
+77,100,Toronto Raptors,Atlanta Hawks,2012-01-31
+100,64,Boston Celtics,Toronto Raptors,2012-02-01
+106,89,Toronto Raptors,Washington Wizards,2012-02-03
+95,89,Miami Heat,Toronto Raptors,2012-02-05
+111,108,Washington Wizards,Toronto Raptors,2012-02-06
+99,105,Toronto Raptors,Milwaukee Bucks,2012-02-08
+86,74,Toronto Raptors,Boston Celtics,2012-02-10
+92,94,Toronto Raptors,Los Angeles Lakers,2012-02-12
+87,90,Toronto Raptors,New York Knicks,2012-02-14
+106,113,Toronto Raptors,San Antonio Spurs,2012-02-15
+91,98,Toronto Raptors,Charlotte Bobcats,2012-02-17
+103,93,Toronto Raptors,Detroit Pistons,2012-02-22
+88,85,Houston Rockets,Toronto Raptors,2012-02-28
+84,95,New Orleans Hornets,Toronto Raptors,2012-02-29
+99,102,Toronto Raptors,Memphis Grizzlies,2012-03-02
+83,75,Toronto Raptors,Golden State Warriors,2012-03-04
+88,92,Toronto Raptors,Orlando Magic,2012-03-05
+116,98,Toronto Raptors,Houston Rockets,2012-03-07
+105,86,Detroit Pistons,Toronto Raptors,2012-03-10
+99,105,Toronto Raptors,Milwaukee Bucks,2012-03-11
+88,96,Cleveland Cavaliers,Toronto Raptors,2012-03-13
+98,84,New Jersey Nets,Toronto Raptors,2012-03-14
+110,114,Memphis Grizzlies,Toronto Raptors,2012-03-16
+107,103,Charlotte Bobcats,Toronto Raptors,2012-03-17
+106,87,New York Knicks,Toronto Raptors,2012-03-20
+82,94,Toronto Raptors,Chicago Bulls,2012-03-21
+96,79,Toronto Raptors,New York Knicks,2012-03-23
+102,101,Chicago Bulls,Toronto Raptors,2012-03-24
+101,117,Toronto Raptors,Orlando Magic,2012-03-26
+105,96,Toronto Raptors,Denver Nuggets,2012-03-28
+101,113,Toronto Raptors,Miami Heat,2012-03-30
+99,92,Toronto Raptors,Washington Wizards,2012-04-01
+92,87,Toronto Raptors,Charlotte Bobcats,2012-04-03
+78,99,Philadelphia 76ers,Toronto Raptors,2012-04-04
+80,84,Toronto Raptors,Cleveland Cavaliers,2012-04-06
+91,75,Oklahoma City Thunder,Toronto Raptors,2012-04-08
+103,98,Indiana Pacers,Toronto Raptors,2012-04-09
+75,93,Toronto Raptors,Philadelphia 76ers,2012-04-11
+84,79,Toronto Raptors,Boston Celtics,2012-04-13
+86,102,Atlanta Hawks,Toronto Raptors,2012-04-15
+87,109,Toronto Raptors,Atlanta Hawks,2012-04-16
+96,72,Miami Heat,Toronto Raptors,2012-04-18
+76,73,Detroit Pistons,Toronto Raptors,2012-04-22
+92,86,Milwaukee Bucks,Toronto Raptors,2012-04-23
+98,67,Toronto Raptors,New Jersey Nets,2012-04-26
+88,90,Toronto Raptors,Indiana Pacers,2012-10-31
+107,100,Brooklyn Nets,Toronto Raptors,2012-11-03
+105,86,Toronto Raptors,Minnesota Timberwolves,2012-11-04
+108,88,Oklahoma City Thunder,Toronto Raptors,2012-11-06
+109,104,Dallas Mavericks,Toronto Raptors,2012-11-07
+83,93,Toronto Raptors,Philadelphia 76ers,2012-11-10
+133,140,Toronto Raptors,Utah Jazz,2012-11-12
+72,74,Indiana Pacers,Toronto Raptors,2012-11-13
+107,89,Boston Celtics,Toronto Raptors,2012-11-17
+97,86,Toronto Raptors,Orlando Magic,2012-11-18
+106,98,Philadelphia 76ers,Toronto Raptors,2012-11-20
+98,97,Charlotte Bobcats,Toronto Raptors,2012-11-21
+91,90,Detroit Pistons,Toronto Raptors,2012-11-23
+106,111,Toronto Raptors,San Antonio Spurs,2012-11-25
+117,101,Houston Rockets,Toronto Raptors,2012-11-27
+103,82,Memphis Grizzlies,Toronto Raptors,2012-11-28
+101,97,Toronto Raptors,Phoenix Suns,2012-11-30
+113,110,Denver Nuggets,Toronto Raptors,2012-12-03
+107,100,Sacramento Kings,Toronto Raptors,2012-12-05
+131,99,Utah Jazz,Toronto Raptors,2012-12-07
+102,83,Los Angeles Clippers,Toronto Raptors,2012-12-09
+92,74,Portland Trail Blazers,Toronto Raptors,2012-12-10
+88,94,Toronto Raptors,Brooklyn Nets,2012-12-12
+95,74,Toronto Raptors,Dallas Mavericks,2012-12-14
+103,96,Toronto Raptors,Houston Rockets,2012-12-16
+99,113,Cleveland Cavaliers,Toronto Raptors,2012-12-18
+97,91,Toronto Raptors,Detroit Pistons,2012-12-19
+93,90,Toronto Raptors,Orlando Magic,2012-12-21
+100,80,San Antonio Spurs,Toronto Raptors,2012-12-26
+97,104,New Orleans Hornets,Toronto Raptors,2012-12-28
+88,123,Orlando Magic,Toronto Raptors,2012-12-29
+102,79,Toronto Raptors,Portland Trail Blazers,2013-01-02
+96,105,Toronto Raptors,Sacramento Kings,2013-01-04
+92,104,Toronto Raptors,Oklahoma City Thunder,2013-01-06
+90,72,Toronto Raptors,Philadelphia 76ers,2013-01-09
+99,78,Toronto Raptors,Charlotte Bobcats,2013-01-11
+96,107,Toronto Raptors,Milwaukee Bucks,2013-01-13
+113,106,Brooklyn Nets,Toronto Raptors,2013-01-15
+105,107,Toronto Raptors,Chicago Bulls,2013-01-16
+108,101,Philadelphia 76ers,Toronto Raptors,2013-01-18
+108,103,Toronto Raptors,Los Angeles Lakers,2013-01-20
+123,116,Miami Heat,Toronto Raptors,2013-01-23
+95,97,Orlando Magic,Toronto Raptors,2013-01-24
+98,99,Toronto Raptors,Cleveland Cavaliers,2013-01-26
+102,114,Toronto Raptors,Golden State Warriors,2013-01-28
+93,92,Atlanta Hawks,Toronto Raptors,2013-01-30
+98,73,Toronto Raptors,Los Angeles Clippers,2013-02-01
+85,100,Toronto Raptors,Miami Heat,2013-02-03
+95,99,Toronto Raptors,Boston Celtics,2013-02-06
+98,100,Indiana Pacers,Toronto Raptors,2013-02-08
+102,89,Toronto Raptors,New Orleans Hornets,2013-02-10
+109,108,Toronto Raptors,Denver Nuggets,2013-02-12
+88,92,New York Knicks,Toronto Raptors,2013-02-13
+88,96,Washington Wizards,Toronto Raptors,2013-02-19
+82,88,Toronto Raptors,Memphis Grizzlies,2013-02-20
+100,98,Toronto Raptors,New York Knicks,2013-02-22
+84,90,Toronto Raptors,Washington Wizards,2013-02-25
+103,92,Cleveland Cavaliers,Toronto Raptors,2013-02-27
+81,93,Toronto Raptors,Indiana Pacers,2013-03-01
+122,114,Milwaukee Bucks,Toronto Raptors,2013-03-02
+125,118,Golden State Warriors,Toronto Raptors,2013-03-04
+71,98,Phoenix Suns,Toronto Raptors,2013-03-06
+118,116,Los Angeles Lakers,Toronto Raptors,2013-03-08
+100,96,Toronto Raptors,Cleveland Cavaliers,2013-03-10
+112,88,Boston Celtics,Toronto Raptors,2013-03-13
+92,78,Toronto Raptors,Charlotte Bobcats,2013-03-15
+91,108,Toronto Raptors,Miami Heat,2013-03-17
+107,101,Charlotte Bobcats,Toronto Raptors,2013-03-20
+94,99,Toronto Raptors,New York Knicks,2013-03-22
+110,84,New York Knicks,Toronto Raptors,2013-03-23
+88,107,Toronto Raptors,Atlanta Hawks,2013-03-27
+82,99,Detroit Pistons,Toronto Raptors,2013-03-29
+109,92,Washington Wizards,Toronto Raptors,2013-03-31
+98,108,Toronto Raptors,Detroit Pistons,2013-04-01
+88,78,Toronto Raptors,Washington Wizards,2013-04-03
+93,95,Minnesota Timberwolves,Toronto Raptors,2013-04-05
+100,83,Milwaukee Bucks,Toronto Raptors,2013-04-06
+98,101,Chicago Bulls,Toronto Raptors,2013-04-09
+97,88,Toronto Raptors,Chicago Bulls,2013-04-12
+93,87,Toronto Raptors,Brooklyn Nets,2013-04-14
+96,113,Atlanta Hawks,Toronto Raptors,2013-04-16
+114,90,Toronto Raptors,Boston Celtics,2013-04-17
+93,87,Toronto Raptors,Boston Celtics,2013-10-30
+102,95,Atlanta Hawks,Toronto Raptors,2013-11-01
+90,97,Milwaukee Bucks,Toronto Raptors,2013-11-02
+95,104,Toronto Raptors,Miami Heat,2013-11-05
+92,90,Charlotte Bobcats,Toronto Raptors,2013-11-06
+91,84,Indiana Pacers,Toronto Raptors,2013-11-08
+115,91,Toronto Raptors,Utah Jazz,2013-11-09
+110,104,Houston Rockets,Toronto Raptors,2013-11-11
+87,103,Memphis Grizzlies,Toronto Raptors,2013-11-13
+80,96,Toronto Raptors,Chicago Bulls,2013-11-15
+110,118,Toronto Raptors,Portland Trail Blazers,2013-11-17
+98,108,Philadelphia 76ers,Toronto Raptors,2013-11-20
+96,88,Toronto Raptors,Washington Wizards,2013-11-22
+100,102,Toronto Raptors,Brooklyn Nets,2013-11-26
+83,90,Toronto Raptors,Miami Heat,2013-11-29
+98,112,Toronto Raptors,Denver Nuggets,2013-12-01
+112,103,Golden State Warriors,Toronto Raptors,2013-12-03
+106,97,Phoenix Suns,Toronto Raptors,2013-12-06
+94,106,Los Angeles Lakers,Toronto Raptors,2013-12-08
+103,116,Toronto Raptors,San Antonio Spurs,2013-12-10
+108,100,Toronto Raptors,Philadelphia 76ers,2013-12-13
+77,99,Chicago Bulls,Toronto Raptors,2013-12-14
+102,104,Toronto Raptors,Charlotte Bobcats,2013-12-18
+108,109,Dallas Mavericks,Toronto Raptors,2013-12-20
+98,104,Oklahoma City Thunder,Toronto Raptors,2013-12-22
+112,99,San Antonio Spurs,Toronto Raptors,2013-12-23
+83,95,New York Knicks,Toronto Raptors,2013-12-27
+115,100,Toronto Raptors,New York Knicks,2013-12-28
+79,85,Chicago Bulls,Toronto Raptors,2013-12-31
+95,82,Toronto Raptors,Indiana Pacers,2014-01-01
+88,101,Washington Wizards,Toronto Raptors,2014-01-03
+102,97,Miami Heat,Toronto Raptors,2014-01-05
+86,79,Indiana Pacers,Toronto Raptors,2014-01-07
+112,91,Toronto Raptors,Detroit Pistons,2014-01-08
+96,80,Toronto Raptors,Brooklyn Nets,2014-01-11
+116,94,Toronto Raptors,Milwaukee Bucks,2014-01-13
+88,83,Boston Celtics,Toronto Raptors,2014-01-15
+94,89,Toronto Raptors,Minnesota Timberwolves,2014-01-17
+106,112,Toronto Raptors,Los Angeles Lakers,2014-01-19
+100,95,Charlotte Bobcats,Toronto Raptors,2014-01-20
+93,85,Toronto Raptors,Dallas Mavericks,2014-01-22
+95,104,Philadelphia 76ers,Toronto Raptors,2014-01-24
+118,126,Toronto Raptors,Los Angeles Clippers,2014-01-25
+103,104,Brooklyn Nets,Toronto Raptors,2014-01-27
+98,83,Toronto Raptors,Orlando Magic,2014-01-29
+90,100,Denver Nuggets,Toronto Raptors,2014-01-31
+106,103,Portland Trail Blazers,Toronto Raptors,2014-02-01
+79,94,Utah Jazz,Toronto Raptors,2014-02-03
+109,101,Sacramento Kings,Toronto Raptors,2014-02-05
+118,105,Los Angeles Clippers,Toronto Raptors,2014-02-07
+108,101,Toronto Raptors,New Orleans Pelicans,2014-02-10
+104,83,Toronto Raptors,Atlanta Hawks,2014-02-12
+93,103,Washington Wizards,Toronto Raptors,2014-02-18
+92,94,Toronto Raptors,Chicago Bulls,2014-02-19
+98,91,Toronto Raptors,Cleveland Cavaliers,2014-02-21
+105,90,Toronto Raptors,Orlando Magic,2014-02-23
+93,99,Cleveland Cavaliers,Toronto Raptors,2014-02-25
+129,134,Toronto Raptors,Washington Wizards,2014-02-27
+104,98,Toronto Raptors,Golden State Warriors,2014-03-02
+99,87,Toronto Raptors,Sacramento Kings,2014-03-07
+104,111,Minnesota Timberwolves,Toronto Raptors,2014-03-09
+101,97,Brooklyn Nets,Toronto Raptors,2014-03-10
+101,87,Toronto Raptors,Detroit Pistons,2014-03-12
+99,86,Toronto Raptors,Memphis Grizzlies,2014-03-14
+113,121,Toronto Raptors,Phoenix Suns,2014-03-16
+118,113,Atlanta Hawks,Toronto Raptors,2014-03-18
+100,107,New Orleans Pelicans,Toronto Raptors,2014-03-19
+118,119,Toronto Raptors,Oklahoma City Thunder,2014-03-21
+96,86,Toronto Raptors,Atlanta Hawks,2014-03-23
+96,86,Toronto Raptors,Atlanta Hawks,2014-03-23
+102,100,Cleveland Cavaliers,Toronto Raptors,2014-03-25
+90,99,Boston Celtics,Toronto Raptors,2014-03-26
+105,103,Toronto Raptors,Boston Celtics,2014-03-28
+93,98,Orlando Magic,Toronto Raptors,2014-03-30
+93,98,Orlando Magic,Toronto Raptors,2014-03-30
+93,83,Miami Heat,Toronto Raptors,2014-03-31
+93,83,Miami Heat,Toronto Raptors,2014-03-31
+107,103,Toronto Raptors,Houston Rockets,2014-04-02
+102,94,Toronto Raptors,Indiana Pacers,2014-04-04
+102,94,Toronto Raptors,Indiana Pacers,2014-04-04
+98,102,Milwaukee Bucks,Toronto Raptors,2014-04-05
+98,102,Milwaukee Bucks,Toronto Raptors,2014-04-05
+125,114,Toronto Raptors,Philadelphia 76ers,2014-04-09
+100,108,Toronto Raptors,New York Knicks,2014-04-11
+100,108,Toronto Raptors,New York Knicks,2014-04-11
+107,116,Detroit Pistons,Toronto Raptors,2014-04-13
+107,116,Detroit Pistons,Toronto Raptors,2014-04-13
+110,100,Toronto Raptors,Milwaukee Bucks,2014-04-14
+95,92,New York Knicks,Toronto Raptors,2014-04-16
+109,102,Toronto Raptors,Atlanta Hawks,2014-10-29
+95,108,Orlando Magic,Toronto Raptors,2014-11-01
+107,102,Miami Heat,Toronto Raptors,2014-11-02
+100,88,Toronto Raptors,Oklahoma City Thunder,2014-11-04
+107,110,Boston Celtics,Toronto Raptors,2014-11-05
+103,84,Toronto Raptors,Washington Wizards,2014-11-07
+120,88,Toronto Raptors,Philadelphia 76ers,2014-11-09
+104,100,Toronto Raptors,Orlando Magic,2014-11-11
+93,100,Toronto Raptors,Chicago Bulls,2014-11-13
+111,93,Toronto Raptors,Utah Jazz,2014-11-15
+96,92,Toronto Raptors,Memphis Grizzlies,2014-11-19
+124,82,Toronto Raptors,Milwaukee Bucks,2014-11-21
+93,110,Cleveland Cavaliers,Toronto Raptors,2014-11-22
+104,100,Toronto Raptors,Phoenix Suns,2014-11-24
+115,126,Atlanta Hawks,Toronto Raptors,2014-11-26
+102,106,Toronto Raptors,Dallas Mavericks,2014-11-28
+129,122,Los Angeles Lakers,Toronto Raptors,2014-11-30
+109,117,Sacramento Kings,Toronto Raptors,2014-12-02
+104,123,Utah Jazz,Toronto Raptors,2014-12-03
+91,105,Toronto Raptors,Cleveland Cavaliers,2014-12-05
+112,107,Toronto Raptors,Denver Nuggets,2014-12-08
+105,101,Cleveland Cavaliers,Toronto Raptors,2014-12-09
+106,94,Toronto Raptors,Indiana Pacers,2014-12-12
+90,95,New York Knicks,Toronto Raptors,2014-12-14
+95,82,Toronto Raptors,Orlando Magic,2014-12-15
+105,89,Toronto Raptors,Brooklyn Nets,2014-12-17
+100,110,Detroit Pistons,Toronto Raptors,2014-12-19
+118,108,Toronto Raptors,New York Knicks,2014-12-21
+129,120,Chicago Bulls,Toronto Raptors,2014-12-22
+98,110,Los Angeles Clippers,Toronto Raptors,2014-12-27
+102,116,Denver Nuggets,Toronto Raptors,2014-12-28
+102,97,Portland Trail Blazers,Toronto Raptors,2014-12-30
+126,105,Golden State Warriors,Toronto Raptors,2015-01-02
+125,109,Phoenix Suns,Toronto Raptors,2015-01-04
+95,103,Toronto Raptors,Charlotte Hornets,2015-01-08
+109,96,Toronto Raptors,Boston Celtics,2015-01-10
+111,114,Toronto Raptors,Detroit Pistons,2015-01-12
+100,84,Toronto Raptors,Philadelphia 76ers,2015-01-14
+89,110,Toronto Raptors,Atlanta Hawks,2015-01-16
+93,95,Toronto Raptors,New Orleans Pelicans,2015-01-18
+89,92,Milwaukee Bucks,Toronto Raptors,2015-01-19
+92,86,Memphis Grizzlies,Toronto Raptors,2015-01-21
+86,91,Philadelphia 76ers,Toronto Raptors,2015-01-23
+114,110,Toronto Raptors,Detroit Pistons,2015-01-25
+91,104,Indiana Pacers,Toronto Raptors,2015-01-27
+119,102,Toronto Raptors,Sacramento Kings,2015-01-28
+122,127,Brooklyn Nets,Toronto Raptors,2015-01-30
+116,120,Washington Wizards,Toronto Raptors,2015-01-31
+75,82,Toronto Raptors,Milwaukee Bucks,2015-02-02
+93,109,Toronto Raptors,Brooklyn Nets,2015-02-04
+123,107,Toronto Raptors,Los Angeles Clippers,2015-02-06
+87,82,Toronto Raptors,San Antonio Spurs,2015-02-08
+95,93,Toronto Raptors,Washington Wizards,2015-02-11
+80,105,Atlanta Hawks,Toronto Raptors,2015-02-20
+98,76,Houston Rockets,Toronto Raptors,2015-02-21
+100,97,New Orleans Pelicans,Toronto Raptors,2015-02-23
+99,92,Dallas Mavericks,Toronto Raptors,2015-02-24
+89,113,Toronto Raptors,Golden State Warriors,2015-02-27
+103,98,New York Knicks,Toronto Raptors,2015-02-28
+103,114,Philadelphia 76ers,Toronto Raptors,2015-03-02
+112,120,Toronto Raptors,Cleveland Cavaliers,2015-03-04
+103,94,Charlotte Hornets,Toronto Raptors,2015-03-06
+108,104,Oklahoma City Thunder,Toronto Raptors,2015-03-08
+117,107,San Antonio Spurs,Toronto Raptors,2015-03-10
+102,92,Toronto Raptors,Miami Heat,2015-03-13
+97,113,Toronto Raptors,Portland Trail Blazers,2015-03-15
+98,117,Indiana Pacers,Toronto Raptors,2015-03-16
+105,100,Toronto Raptors,Minnesota Timberwolves,2015-03-18
+108,92,Chicago Bulls,Toronto Raptors,2015-03-20
+106,89,Toronto Raptors,New York Knicks,2015-03-22
+108,104,Detroit Pistons,Toronto Raptors,2015-03-24
+103,116,Toronto Raptors,Chicago Bulls,2015-03-25
+94,83,Toronto Raptors,Los Angeles Lakers,2015-03-27
+99,96,Toronto Raptors,Houston Rockets,2015-03-30
+99,113,Minnesota Timberwolves,Toronto Raptors,2015-04-01
+114,109,Brooklyn Nets,Toronto Raptors,2015-04-03
+116,117,Toronto Raptors,Boston Celtics,2015-04-04
+74,92,Charlotte Hornets,Toronto Raptors,2015-04-08
+99,101,Orlando Magic,Toronto Raptors,2015-04-10
+104,107,Miami Heat,Toronto Raptors,2015-04-11
+95,93,Boston Celtics,Toronto Raptors,2015-04-14
+92,87,Toronto Raptors,Charlotte Hornets,2015-04-15
+106,99,Toronto Raptors,Indiana Pacers,2015-10-28
+103,113,Boston Celtics,Toronto Raptors,2015-10-30
+106,87,Toronto Raptors,Milwaukee Bucks,2015-11-01
+91,102,Dallas Mavericks,Toronto Raptors,2015-11-03
+98,103,Oklahoma City Thunder,Toronto Raptors,2015-11-04
+92,87,Orlando Magic,Toronto Raptors,2015-11-06
+96,76,Miami Heat,Toronto Raptors,2015-11-08
+109,111,Toronto Raptors,New York Knicks,2015-11-10
+103,119,Philadelphia 76ers,Toronto Raptors,2015-11-11
+100,81,Toronto Raptors,New Orleans Pelicans,2015-11-13
+107,101,Sacramento Kings,Toronto Raptors,2015-11-15
+115,110,Golden State Warriors,Toronto Raptors,2015-11-17
+93,89,Utah Jazz,Toronto Raptors,2015-11-18
+91,102,Los Angeles Lakers,Toronto Raptors,2015-11-20
+80,91,LA Clippers,Toronto Raptors,2015-11-22
+103,99,Toronto Raptors,Cleveland Cavaliers,2015-11-25
+82,84,Washington Wizards,Toronto Raptors,2015-11-28
+102,107,Toronto Raptors,Phoenix Suns,2015-11-29
+86,96,Atlanta Hawks,Toronto Raptors,2015-12-02
+105,106,Toronto Raptors,Denver Nuggets,2015-12-03
+109,112,Toronto Raptors,Golden State Warriors,2015-12-05
+102,93,Toronto Raptors,Los Angeles Lakers,2015-12-07
+97,94,Toronto Raptors,San Antonio Spurs,2015-12-09
+90,83,Toronto Raptors,Milwaukee Bucks,2015-12-11
+96,76,Toronto Raptors,Philadelphia 76ers,2015-12-13
+106,90,Indiana Pacers,Toronto Raptors,2015-12-14
+109,99,Charlotte Hornets,Toronto Raptors,2015-12-17
+94,108,Miami Heat,Toronto Raptors,2015-12-18
+94,104,Toronto Raptors,Sacramento Kings,2015-12-20
+103,99,Toronto Raptors,Dallas Mavericks,2015-12-22
+90,111,Milwaukee Bucks,Toronto Raptors,2015-12-26
+104,97,Chicago Bulls,Toronto Raptors,2015-12-28
+94,91,Toronto Raptors,Washington Wizards,2015-12-30
+104,94,Toronto Raptors,Charlotte Hornets,2016-01-01
+113,115,Toronto Raptors,Chicago Bulls,2016-01-03
+122,100,Cleveland Cavaliers,Toronto Raptors,2016-01-04
+74,91,Brooklyn Nets,Toronto Raptors,2016-01-06
+88,97,Washington Wizards,Toronto Raptors,2016-01-08
+95,108,Philadelphia 76ers,Toronto Raptors,2016-01-09
+103,106,Orlando Magic,Toronto Raptors,2016-01-14
+112,100,Toronto Raptors,Brooklyn Nets,2016-01-18
+115,109,Toronto Raptors,Boston Celtics,2016-01-20
+101,81,Toronto Raptors,Miami Heat,2016-01-22
+112,94,Toronto Raptors,LA Clippers,2016-01-24
+106,89,Toronto Raptors,Washington Wizards,2016-01-26
+103,93,Toronto Raptors,New York Knicks,2016-01-28
+111,107,Toronto Raptors,Detroit Pistons,2016-01-30
+112,93,Denver Nuggets,Toronto Raptors,2016-02-01
+97,104,Phoenix Suns,Toronto Raptors,2016-02-02
+103,110,Portland Trail Blazers,Toronto Raptors,2016-02-04
+89,103,Detroit Pistons,Toronto Raptors,2016-02-08
+117,112,Minnesota Timberwolves,Toronto Raptors,2016-02-10
+116,106,Chicago Bulls,Toronto Raptors,2016-02-19
+98,85,Toronto Raptors,Memphis Grizzlies,2016-02-21
+95,122,New York Knicks,Toronto Raptors,2016-02-22
+114,105,Toronto Raptors,Minnesota Timberwolves,2016-02-24
+99,97,Toronto Raptors,Cleveland Cavaliers,2016-02-26
+114,101,Detroit Pistons,Toronto Raptors,2016-02-28
+104,94,Toronto Raptors,Utah Jazz,2016-03-02
+117,115,Toronto Raptors,Portland Trail Blazers,2016-03-04
+107,113,Toronto Raptors,Houston Rockets,2016-03-06
+104,99,Toronto Raptors,Brooklyn Nets,2016-03-08
+104,96,Toronto Raptors,Atlanta Hawks,2016-03-10
+112,104,Toronto Raptors,Miami Heat,2016-03-12
+107,109,Toronto Raptors,Chicago Bulls,2016-03-14
+89,107,Milwaukee Bucks,Toronto Raptors,2016-03-15
+94,101,Indiana Pacers,Toronto Raptors,2016-03-17
+105,91,Toronto Raptors,Boston Celtics,2016-03-18
+105,100,Toronto Raptors,Orlando Magic,2016-03-20
+91,79,Boston Celtics,Toronto Raptors,2016-03-23
+112,109,Houston Rockets,Toronto Raptors,2016-03-25
+91,115,New Orleans Pelicans,Toronto Raptors,2016-03-26
+100,119,Toronto Raptors,Oklahoma City Thunder,2016-03-28
+105,97,Toronto Raptors,Atlanta Hawks,2016-03-30
+95,99,Memphis Grizzlies,Toronto Raptors,2016-04-01
+102,95,San Antonio Spurs,Toronto Raptors,2016-04-02
+96,90,Toronto Raptors,Charlotte Hornets,2016-04-05
+95,87,Atlanta Hawks,Toronto Raptors,2016-04-07
+111,98,Toronto Raptors,Indiana Pacers,2016-04-08
+89,93,New York Knicks,Toronto Raptors,2016-04-10
+122,98,Toronto Raptors,Philadelphia 76ers,2016-04-12
+96,103,Brooklyn Nets,Toronto Raptors,2016-04-13
+109,91,Toronto Raptors,Detroit Pistons,2016-10-26
+91,94,Toronto Raptors,Cleveland Cavaliers,2016-10-28
+105,102,Toronto Raptors,Denver Nuggets,2016-10-31
+103,113,Washington Wizards,Toronto Raptors,2016-11-02
+96,87,Toronto Raptors,Miami Heat,2016-11-04
+91,96,Toronto Raptors,Sacramento Kings,2016-11-06
+102,112,Oklahoma City Thunder,Toronto Raptors,2016-11-09
+111,113,Charlotte Hornets,Toronto Raptors,2016-11-11
+118,107,Toronto Raptors,New York Knicks,2016-11-12
+121,117,Cleveland Cavaliers,Toronto Raptors,2016-11-15
+121,127,Toronto Raptors,Golden State Warriors,2016-11-16
+111,113,Denver Nuggets,Toronto Raptors,2016-11-18
+102,99,Sacramento Kings,Toronto Raptors,2016-11-20
+123,115,LA Clippers,Toronto Raptors,2016-11-21
+102,115,Houston Rockets,Toronto Raptors,2016-11-23
+99,105,Milwaukee Bucks,Toronto Raptors,2016-11-25
+122,95,Toronto Raptors,Philadelphia 76ers,2016-11-28
+120,105,Toronto Raptors,Memphis Grizzlies,2016-11-30
+113,80,Toronto Raptors,Los Angeles Lakers,2016-12-02
+128,84,Toronto Raptors,Atlanta Hawks,2016-12-03
+112,116,Toronto Raptors,Cleveland Cavaliers,2016-12-05
+124,110,Toronto Raptors,Minnesota Timberwolves,2016-12-08
+94,101,Boston Celtics,Toronto Raptors,2016-12-09
+122,100,Toronto Raptors,Milwaukee Bucks,2016-12-12
+114,123,Philadelphia 76ers,Toronto Raptors,2016-12-14
+121,125,Toronto Raptors,Atlanta Hawks,2016-12-16
+79,109,Orlando Magic,Toronto Raptors,2016-12-18
+116,104,Toronto Raptors,Brooklyn Nets,2016-12-20
+98,104,Utah Jazz,Toronto Raptors,2016-12-23
+91,95,Portland Trail Blazers,Toronto Raptors,2016-12-26
+121,111,Golden State Warriors,Toronto Raptors,2016-12-28
+99,91,Phoenix Suns,Toronto Raptors,2016-12-29
+114,123,Los Angeles Lakers,Toronto Raptors,2017-01-01
+110,82,San Antonio Spurs,Toronto Raptors,2017-01-03
+101,93,Toronto Raptors,Utah Jazz,2017-01-05
+123,118,Chicago Bulls,Toronto Raptors,2017-01-07
+122,129,Toronto Raptors,Houston Rockets,2017-01-08
+114,106,Toronto Raptors,Boston Celtics,2017-01-10
+132,113,Toronto Raptors,Brooklyn Nets,2017-01-13
+116,101,Toronto Raptors,New York Knicks,2017-01-15
+109,119,Brooklyn Nets,Toronto Raptors,2017-01-17
+94,89,Philadelphia 76ers,Toronto Raptors,2017-01-18
+113,78,Charlotte Hornets,Toronto Raptors,2017-01-20
+103,115,Toronto Raptors,Phoenix Suns,2017-01-22
+106,108,Toronto Raptors,San Antonio Spurs,2017-01-24
+101,99,Memphis Grizzlies,Toronto Raptors,2017-01-25
+102,86,Toronto Raptors,Milwaukee Bucks,2017-01-27
+113,114,Toronto Raptors,Orlando Magic,2017-01-29
+108,106,Toronto Raptors,New Orleans Pelicans,2017-01-31
+109,104,Boston Celtics,Toronto Raptors,2017-02-01
+102,94,Orlando Magic,Toronto Raptors,2017-02-03
+95,103,Brooklyn Nets,Toronto Raptors,2017-02-05
+118,109,Toronto Raptors,LA Clippers,2017-02-06
+112,109,Minnesota Timberwolves,Toronto Raptors,2017-02-08
+101,102,Toronto Raptors,Detroit Pistons,2017-02-12
+105,94,Chicago Bulls,Toronto Raptors,2017-02-14
+90,85,Toronto Raptors,Charlotte Hornets,2017-02-15
+107,97,Toronto Raptors,Boston Celtics,2017-02-24
+112,106,Toronto Raptors,Portland Trail Blazers,2017-02-26
+91,92,New York Knicks,Toronto Raptors,2017-02-27
+96,105,Toronto Raptors,Washington Wizards,2017-03-01
+106,114,Washington Wizards,Toronto Raptors,2017-03-03
+101,94,Milwaukee Bucks,Toronto Raptors,2017-03-04
+87,94,New Orleans Pelicans,Toronto Raptors,2017-03-08
+105,99,Atlanta Hawks,Toronto Raptors,2017-03-10
+104,89,Miami Heat,Toronto Raptors,2017-03-11
+100,78,Toronto Raptors,Dallas Mavericks,2017-03-13
+102,123,Toronto Raptors,Oklahoma City Thunder,2017-03-16
+75,87,Detroit Pistons,Toronto Raptors,2017-03-17
+116,91,Toronto Raptors,Indiana Pacers,2017-03-19
+122,120,Toronto Raptors,Chicago Bulls,2017-03-21
+84,101,Miami Heat,Toronto Raptors,2017-03-23
+86,94,Dallas Mavericks,Toronto Raptors,2017-03-25
+131,112,Toronto Raptors,Orlando Magic,2017-03-27
+106,110,Toronto Raptors,Charlotte Hornets,2017-03-29
+111,100,Toronto Raptors,Indiana Pacers,2017-03-31
+113,105,Toronto Raptors,Philadelphia 76ers,2017-04-02
+108,90,Indiana Pacers,Toronto Raptors,2017-04-04
+102,105,Detroit Pistons,Toronto Raptors,2017-04-05
+96,94,Toronto Raptors,Miami Heat,2017-04-07
+97,110,New York Knicks,Toronto Raptors,2017-04-09
+83,98,Cleveland Cavaliers,Toronto Raptors,2017-04-12
+117,100,Toronto Raptors,Chicago Bulls,2017-10-19
+128,94,Toronto Raptors,Philadelphia 76ers,2017-10-21
+101,97,San Antonio Spurs,Toronto Raptors,2017-10-23
+117,112,Golden State Warriors,Toronto Raptors,2017-10-25
+92,101,Los Angeles Lakers,Toronto Raptors,2017-10-27
+85,99,Portland Trail Blazers,Toronto Raptors,2017-10-30
+129,111,Denver Nuggets,Toronto Raptors,2017-11-01
+100,109,Utah Jazz,Toronto Raptors,2017-11-03
+96,107,Toronto Raptors,Washington Wizards,2017-11-05
+119,114,Toronto Raptors,Chicago Bulls,2017-11-07
+122,118,Toronto Raptors,New Orleans Pelicans,2017-11-09
+95,94,Boston Celtics,Toronto Raptors,2017-11-12
+113,129,Houston Rockets,Toronto Raptors,2017-11-14
+116,125,New Orleans Pelicans,Toronto Raptors,2017-11-15
+107,84,Toronto Raptors,New York Knicks,2017-11-17
+100,91,Toronto Raptors,Washington Wizards,2017-11-19
+108,100,New York Knicks,Toronto Raptors,2017-11-22
+107,104,Indiana Pacers,Toronto Raptors,2017-11-24
+78,112,Atlanta Hawks,Toronto Raptors,2017-11-25
+126,113,Toronto Raptors,Charlotte Hornets,2017-11-29
+120,115,Toronto Raptors,Indiana Pacers,2017-12-01
+126,113,Toronto Raptors,Phoenix Suns,2017-12-05
+107,116,Memphis Grizzlies,Toronto Raptors,2017-12-08
+87,102,Sacramento Kings,Toronto Raptors,2017-12-10
+96,91,LA Clippers,Toronto Raptors,2017-12-11
+109,115,Phoenix Suns,Toronto Raptors,2017-12-13
+120,87,Toronto Raptors,Brooklyn Nets,2017-12-15
+108,93,Toronto Raptors,Sacramento Kings,2017-12-17
+111,129,Charlotte Hornets,Toronto Raptors,2017-12-20
+109,114,Philadelphia 76ers,Toronto Raptors,2017-12-21
+102,86,Toronto Raptors,Philadelphia 76ers,2017-12-23
+98,93,Dallas Mavericks,Toronto Raptors,2017-12-26
+124,107,Oklahoma City Thunder,Toronto Raptors,2017-12-27
+111,98,Toronto Raptors,Atlanta Hawks,2017-12-29
+131,127,Toronto Raptors,Milwaukee Bucks,2018-01-01
+115,124,Chicago Bulls,Toronto Raptors,2018-01-03
+110,129,Milwaukee Bucks,Toronto Raptors,2018-01-05
+113,114,Brooklyn Nets,Toronto Raptors,2018-01-08
+89,90,Toronto Raptors,Miami Heat,2018-01-09
+133,99,Toronto Raptors,Cleveland Cavaliers,2018-01-11
+125,127,Toronto Raptors,Golden State Warriors,2018-01-13
+117,111,Philadelphia 76ers,Toronto Raptors,2018-01-15
+96,91,Toronto Raptors,Detroit Pistons,2018-01-17
+86,83,Toronto Raptors,San Antonio Spurs,2018-01-19
+115,109,Minnesota Timberwolves,Toronto Raptors,2018-01-20
+93,108,Atlanta Hawks,Toronto Raptors,2018-01-24
+93,97,Toronto Raptors,Utah Jazz,2018-01-26
+123,111,Toronto Raptors,Los Angeles Lakers,2018-01-28
+109,104,Toronto Raptors,Minnesota Timberwolves,2018-01-30
+122,119,Washington Wizards,Toronto Raptors,2018-02-01
+130,105,Toronto Raptors,Portland Trail Blazers,2018-02-02
+130,105,Toronto Raptors,Portland Trail Blazers,2018-02-02
+101,86,Toronto Raptors,Memphis Grizzlies,2018-02-04
+111,91,Toronto Raptors,Boston Celtics,2018-02-06
+113,88,Toronto Raptors,New York Knicks,2018-02-08
+103,123,Charlotte Hornets,Toronto Raptors,2018-02-11
+115,112,Toronto Raptors,Miami Heat,2018-02-13
+98,122,Chicago Bulls,Toronto Raptors,2018-02-14
+119,122,Toronto Raptors,Milwaukee Bucks,2018-02-23
+123,94,Toronto Raptors,Detroit Pistons,2018-02-26
+104,117,Orlando Magic,Toronto Raptors,2018-02-28
+95,102,Washington Wizards,Toronto Raptors,2018-03-02
+103,98,Toronto Raptors,Charlotte Hornets,2018-03-04
+106,90,Toronto Raptors,Atlanta Hawks,2018-03-06
+119,121,Detroit Pistons,Toronto Raptors,2018-03-07
+108,105,Toronto Raptors,Houston Rockets,2018-03-09
+106,132,New York Knicks,Toronto Raptors,2018-03-11
+102,116,Brooklyn Nets,Toronto Raptors,2018-03-13
+99,106,Indiana Pacers,Toronto Raptors,2018-03-15
+122,115,Toronto Raptors,Dallas Mavericks,2018-03-16
+125,132,Toronto Raptors,Oklahoma City Thunder,2018-03-18
+86,93,Orlando Magic,Toronto Raptors,2018-03-20
+132,129,Cleveland Cavaliers,Toronto Raptors,2018-03-21
+116,112,Toronto Raptors,Brooklyn Nets,2018-03-23
+106,117,Toronto Raptors,LA Clippers,2018-03-25
+114,110,Toronto Raptors,Denver Nuggets,2018-03-27
+110,99,Boston Celtics,Toronto Raptors,2018-03-31
+112,106,Cleveland Cavaliers,Toronto Raptors,2018-04-03
+96,78,Toronto Raptors,Boston Celtics,2018-04-04
+92,73,Toronto Raptors,Indiana Pacers,2018-04-06
+112,101,Toronto Raptors,Orlando Magic,2018-04-08
+98,108,Detroit Pistons,Toronto Raptors,2018-04-09
+116,109,Miami Heat,Toronto Raptors,2018-04-11
+116,104,Toronto Raptors,Cleveland Cavaliers,2018-10-17
+113,101,Toronto Raptors,Boston Celtics,2018-10-19
+113,117,Washington Wizards,Toronto Raptors,2018-10-20
+127,106,Toronto Raptors,Charlotte Hornets,2018-10-22
+112,105,Toronto Raptors,Minnesota Timberwolves,2018-10-24
+116,107,Toronto Raptors,Dallas Mavericks,2018-10-26
+124,109,Milwaukee Bucks,Toronto Raptors,2018-10-29
+129,112,Toronto Raptors,Philadelphia 76ers,2018-10-30
+98,107,Phoenix Suns,Toronto Raptors,2018-11-02
+107,121,Los Angeles Lakers,Toronto Raptors,2018-11-04
+111,124,Utah Jazz,Toronto Raptors,2018-11-05
+105,114,Sacramento Kings,Toronto Raptors,2018-11-07
+128,112,Toronto Raptors,New York Knicks,2018-11-10
+110,126,Toronto Raptors,New Orleans Pelicans,2018-11-12
+104,106,Toronto Raptors,Detroit Pistons,2018-11-14
+123,116,Boston Celtics,Toronto Raptors,2018-11-16
+83,122,Chicago Bulls,Toronto Raptors,2018-11-17
+91,93,Orlando Magic,Toronto Raptors,2018-11-20
+108,124,Atlanta Hawks,Toronto Raptors,2018-11-21
+125,107,Toronto Raptors,Washington Wizards,2018-11-23
+125,115,Toronto Raptors,Miami Heat,2018-11-25
+114,122,Memphis Grizzlies,Toronto Raptors,2018-11-27
+131,128,Toronto Raptors,Golden State Warriors,2018-11-29
+95,106,Cleveland Cavaliers,Toronto Raptors,2018-12-01
+103,106,Toronto Raptors,Denver Nuggets,2018-12-03
+113,102,Toronto Raptors,Philadelphia 76ers,2018-12-05
+106,105,Brooklyn Nets,Toronto Raptors,2018-12-07
+99,104,Toronto Raptors,Milwaukee Bucks,2018-12-09
+99,123,LA Clippers,Toronto Raptors,2018-12-11
+93,113,Golden State Warriors,Toronto Raptors,2018-12-12
+128,122,Portland Trail Blazers,Toronto Raptors,2018-12-14
+95,86,Denver Nuggets,Toronto Raptors,2018-12-16
+99,96,Toronto Raptors,Indiana Pacers,2018-12-19
+126,110,Toronto Raptors,Cleveland Cavaliers,2018-12-21
+126,101,Philadelphia 76ers,Toronto Raptors,2018-12-22
+104,106,Miami Heat,Toronto Raptors,2018-12-26
+116,87,Orlando Magic,Toronto Raptors,2018-12-28
+95,89,Toronto Raptors,Chicago Bulls,2018-12-30
+122,116,Toronto Raptors,Utah Jazz,2019-01-01
+125,107,San Antonio Spurs,Toronto Raptors,2019-01-03
+116,123,Milwaukee Bucks,Toronto Raptors,2019-01-05
+121,105,Toronto Raptors,Indiana Pacers,2019-01-06
+104,101,Toronto Raptors,Atlanta Hawks,2019-01-08
+122,105,Toronto Raptors,Brooklyn Nets,2019-01-11
+138,140,Washington Wizards,Toronto Raptors,2019-01-13
+117,108,Boston Celtics,Toronto Raptors,2019-01-16
+111,109,Toronto Raptors,Phoenix Suns,2019-01-17
+119,90,Toronto Raptors,Memphis Grizzlies,2019-01-19
+120,105,Toronto Raptors,Sacramento Kings,2019-01-22
+110,106,Indiana Pacers,Toronto Raptors,2019-01-23
+121,119,Houston Rockets,Toronto Raptors,2019-01-25
+120,123,Dallas Mavericks,Toronto Raptors,2019-01-27
+92,105,Toronto Raptors,Milwaukee Bucks,2019-01-31
+121,103,Toronto Raptors,LA Clippers,2019-02-03
+107,119,Philadelphia 76ers,Toronto Raptors,2019-02-05
+101,119,Atlanta Hawks,Toronto Raptors,2019-02-07
+99,104,New York Knicks,Toronto Raptors,2019-02-09
+127,125,Toronto Raptors,Brooklyn Nets,2019-02-11
+129,120,Toronto Raptors,Washington Wizards,2019-02-13
+120,117,Toronto Raptors,San Antonio Spurs,2019-02-22
+98,113,Toronto Raptors,Orlando Magic,2019-02-24
+118,95,Toronto Raptors,Boston Celtics,2019-02-26
+119,117,Toronto Raptors,Portland Trail Blazers,2019-03-01
+112,107,Detroit Pistons,Toronto Raptors,2019-03-03
+95,107,Toronto Raptors,Houston Rockets,2019-03-05
+104,127,New Orleans Pelicans,Toronto Raptors,2019-03-08
+104,125,Miami Heat,Toronto Raptors,2019-03-10
+126,101,Cleveland Cavaliers,Toronto Raptors,2019-03-11
+111,98,Toronto Raptors,Los Angeles Lakers,2019-03-14
+110,107,Detroit Pistons,Toronto Raptors,2019-03-17
+128,92,Toronto Raptors,New York Knicks,2019-03-18
+114,123,Oklahoma City Thunder,Toronto Raptors,2019-03-20
+109,116,Toronto Raptors,Oklahoma City Thunder,2019-03-22
+114,115,Toronto Raptors,Charlotte Hornets,2019-03-24
+112,103,Toronto Raptors,Chicago Bulls,2019-03-26
+92,117,New York Knicks,Toronto Raptors,2019-03-28
+101,124,Chicago Bulls,Toronto Raptors,2019-03-30
+121,109,Toronto Raptors,Orlando Magic,2019-04-01
+105,115,Brooklyn Nets,Toronto Raptors,2019-04-03
+113,111,Charlotte Hornets,Toronto Raptors,2019-04-05
+117,109,Toronto Raptors,Miami Heat,2019-04-07
+100,120,Minnesota Timberwolves,Toronto Raptors,2019-04-09
+130,122,Toronto Raptors,New Orleans Pelicans,2019-10-22
+112,106,Boston Celtics,Toronto Raptors,2019-10-25
+84,108,Chicago Bulls,Toronto Raptors,2019-10-26
+104,95,Toronto Raptors,Orlando Magic,2019-10-28
+125,113,Toronto Raptors,Detroit Pistons,2019-10-30
+115,105,Milwaukee Bucks,Toronto Raptors,2019-11-02
+124,120,Toronto Raptors,Sacramento Kings,2019-11-06
+104,122,New Orleans Pelicans,Toronto Raptors,2019-11-08
+104,113,Los Angeles Lakers,Toronto Raptors,2019-11-10
+98,88,LA Clippers,Toronto Raptors,2019-11-11
+106,114,Portland Trail Blazers,Toronto Raptors,2019-11-13
+110,102,Dallas Mavericks,Toronto Raptors,2019-11-16
+132,96,Toronto Raptors,Charlotte Hornets,2019-11-18
+113,97,Toronto Raptors,Orlando Magic,2019-11-20
+116,119,Atlanta Hawks,Toronto Raptors,2019-11-23
+101,96,Toronto Raptors,Philadelphia 76ers,2019-11-25
+126,98,Toronto Raptors,New York Knicks,2019-11-27
+83,90,Orlando Magic,Toronto Raptors,2019-11-29
+130,110,Toronto Raptors,Utah Jazz,2019-12-01
+110,121,Toronto Raptors,Miami Heat,2019-12-03
+109,119,Toronto Raptors,Houston Rockets,2019-12-05
+110,104,Philadelphia 76ers,Toronto Raptors,2019-12-08
+92,93,Chicago Bulls,Toronto Raptors,2019-12-09
+92,112,Toronto Raptors,LA Clippers,2019-12-11
+110,102,Toronto Raptors,Brooklyn Nets,2019-12-14
+133,113,Toronto Raptors,Cleveland Cavaliers,2019-12-16
+99,112,Detroit Pistons,Toronto Raptors,2019-12-18
+122,118,Toronto Raptors,Washington Wizards,2019-12-20
+110,107,Toronto Raptors,Dallas Mavericks,2019-12-22
+120,115,Indiana Pacers,Toronto Raptors,2019-12-23
+102,118,Toronto Raptors,Boston Celtics,2019-12-25
+97,113,Boston Celtics,Toronto Raptors,2019-12-28
+97,98,Toronto Raptors,Oklahoma City Thunder,2019-12-29
+117,97,Toronto Raptors,Cleveland Cavaliers,2019-12-31
+84,76,Miami Heat,Toronto Raptors,2020-01-02
+102,121,Brooklyn Nets,Toronto Raptors,2020-01-04
+99,101,Toronto Raptors,Portland Trail Blazers,2020-01-07
+110,112,Charlotte Hornets,Toronto Raptors,2020-01-08
+104,105,Toronto Raptors,San Antonio Spurs,2020-01-12
+121,130,Oklahoma City Thunder,Toronto Raptors,2020-01-15
+140,111,Toronto Raptors,Washington Wizards,2020-01-17
+112,122,Minnesota Timberwolves,Toronto Raptors,2020-01-18
+117,122,Atlanta Hawks,Toronto Raptors,2020-01-20
+107,95,Toronto Raptors,Philadelphia 76ers,2020-01-22
+112,118,New York Knicks,Toronto Raptors,2020-01-24
+106,110,San Antonio Spurs,Toronto Raptors,2020-01-26
+130,114,Toronto Raptors,Atlanta Hawks,2020-01-28
+109,115,Cleveland Cavaliers,Toronto Raptors,2020-01-30
+92,105,Detroit Pistons,Toronto Raptors,2020-01-31
+129,102,Toronto Raptors,Chicago Bulls,2020-02-02
+119,118,Toronto Raptors,Indiana Pacers,2020-02-05
+106,115,Indiana Pacers,Toronto Raptors,2020-02-07
+119,118,Toronto Raptors,Brooklyn Nets,2020-02-08
+137,126,Toronto Raptors,Minnesota Timberwolves,2020-02-10
+101,91,Brooklyn Nets,Toronto Raptors,2020-02-12
+118,101,Toronto Raptors,Phoenix Suns,2020-02-21
+127,81,Toronto Raptors,Indiana Pacers,2020-02-23
+97,108,Toronto Raptors,Milwaukee Bucks,2020-02-25
+96,99,Toronto Raptors,Charlotte Hornets,2020-02-28
+133,118,Denver Nuggets,Toronto Raptors,2020-03-01
+114,123,Phoenix Suns,Toronto Raptors,2020-03-03
+113,121,Golden State Warriors,Toronto Raptors,2020-03-05
+113,118,Sacramento Kings,Toronto Raptors,2020-03-08
+92,101,Utah Jazz,Toronto Raptors,2020-03-09
+107,92,Toronto Raptors,Los Angeles Lakers,2020-08-01
+103,107,Miami Heat,Toronto Raptors,2020-08-03
+99,109,Orlando Magic,Toronto Raptors,2020-08-05
+100,122,Toronto Raptors,Boston Celtics,2020-08-07
+108,99,Toronto Raptors,Memphis Grizzlies,2020-08-09
+106,114,Milwaukee Bucks,Toronto Raptors,2020-08-10
+121,125,Philadelphia 76ers,Toronto Raptors,2020-08-12
+117,109,Toronto Raptors,Denver Nuggets,2020-08-14
+99,113,Toronto Raptors,New Orleans Pelicans,2020-12-23
+119,114,San Antonio Spurs,Toronto Raptors,2020-12-26
+100,93,Philadelphia 76ers,Toronto Raptors,2020-12-29
+100,83,Toronto Raptors,New York Knicks,2020-12-31
+120,116,New Orleans Pelicans,Toronto Raptors,2021-01-02
+114,126,Toronto Raptors,Boston Celtics,2021-01-04
+123,115,Phoenix Suns,Toronto Raptors,2021-01-06
+123,144,Sacramento Kings,Toronto Raptors,2021-01-08
+106,105,Golden State Warriors,Toronto Raptors,2021-01-10
+112,111,Portland Trail Blazers,Toronto Raptors,2021-01-11
+111,108,Toronto Raptors,Charlotte Hornets,2021-01-14
+116,113,Toronto Raptors,Charlotte Hornets,2021-01-16
+116,93,Toronto Raptors,Dallas Mavericks,2021-01-18
+102,111,Toronto Raptors,Miami Heat,2021-01-20
+101,81,Toronto Raptors,Miami Heat,2021-01-22
+102,107,Indiana Pacers,Toronto Raptors,2021-01-24
+129,114,Indiana Pacers,Toronto Raptors,2021-01-25
+108,115,Toronto Raptors,Milwaukee Bucks,2021-01-27
+124,126,Toronto Raptors,Sacramento Kings,2021-01-29
+115,102,Toronto Raptors,Orlando Magic,2021-01-31
+108,123,Orlando Magic,Toronto Raptors,2021-02-02
+117,123,Brooklyn Nets,Toronto Raptors,2021-02-05
+132,121,Atlanta Hawks,Toronto Raptors,2021-02-06
+113,128,Memphis Grizzlies,Toronto Raptors,2021-02-08
+115,137,Washington Wizards,Toronto Raptors,2021-02-10
+120,106,Boston Celtics,Toronto Raptors,2021-02-11
+112,116,Toronto Raptors,Minnesota Timberwolves,2021-02-14
+113,124,Milwaukee Bucks,Toronto Raptors,2021-02-16
+96,110,Milwaukee Bucks,Toronto Raptors,2021-02-18
+81,86,Minnesota Timberwolves,Toronto Raptors,2021-02-19
+110,103,Toronto Raptors,Philadelphia 76ers,2021-02-21
+102,109,Toronto Raptors,Philadelphia 76ers,2021-02-23
+116,108,Miami Heat,Toronto Raptors,2021-02-24
+122,111,Toronto Raptors,Houston Rockets,2021-02-26
+105,129,Toronto Raptors,Detroit Pistons,2021-03-03
+132,125,Boston Celtics,Toronto Raptors,2021-03-04
+120,121,Toronto Raptors,Atlanta Hawks,2021-03-11
+114,104,Charlotte Hornets,Toronto Raptors,2021-03-13
+118,95,Chicago Bulls,Toronto Raptors,2021-03-14
+116,112,Detroit Pistons,Toronto Raptors,2021-03-17
+112,115,Toronto Raptors,Utah Jazz,2021-03-19
+116,105,Cleveland Cavaliers,Toronto Raptors,2021-03-21
+117,99,Houston Rockets,Toronto Raptors,2021-03-22
+135,111,Toronto Raptors,Denver Nuggets,2021-03-24
+100,104,Toronto Raptors,Phoenix Suns,2021-03-26
+117,122,Toronto Raptors,Portland Trail Blazers,2021-03-28
+118,104,Detroit Pistons,Toronto Raptors,2021-03-29
+113,103,Oklahoma City Thunder,Toronto Raptors,2021-03-31
+130,77,Toronto Raptors,Golden State Warriors,2021-04-02
+103,101,Toronto Raptors,Washington Wizards,2021-04-05
+101,110,Toronto Raptors,Los Angeles Lakers,2021-04-06
+113,122,Toronto Raptors,Chicago Bulls,2021-04-08
+115,135,Cleveland Cavaliers,Toronto Raptors,2021-04-10
+102,96,New York Knicks,Toronto Raptors,2021-04-11
+103,108,Toronto Raptors,Atlanta Hawks,2021-04-13
+117,112,Toronto Raptors,San Antonio Spurs,2021-04-14
+113,102,Toronto Raptors,Orlando Magic,2021-04-16
+112,106,Toronto Raptors,Oklahoma City Thunder,2021-04-18
+114,103,Toronto Raptors,Brooklyn Nets,2021-04-21
+120,103,New York Knicks,Toronto Raptors,2021-04-24
+112,96,Toronto Raptors,Cleveland Cavaliers,2021-04-26
+103,116,Toronto Raptors,Brooklyn Nets,2021-04-27
+121,111,Denver Nuggets,Toronto Raptors,2021-04-29
+85,89,Utah Jazz,Toronto Raptors,2021-05-01
+67,84,Los Angeles Lakers,Toronto Raptors,2021-05-02
+65,69,LA Clippers,Toronto Raptors,2021-05-04
+129,131,Toronto Raptors,Washington Wizards,2021-05-06
+99,109,Toronto Raptors,Memphis Grizzlies,2021-05-08
+96,115,Toronto Raptors,LA Clippers,2021-05-11
+114,102,Chicago Bulls,Toronto Raptors,2021-05-13
+114,110,Dallas Mavericks,Toronto Raptors,2021-05-14
+113,125,Toronto Raptors,Indiana Pacers,2021-05-16
