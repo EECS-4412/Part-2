@@ -1,5 +1,3 @@
-from tkinter import E
-from turtle import color
 import matplotlib.pyplot as plt
 from matplotlib import cm
 from clients.SqliteClient import SqlClient
@@ -14,12 +12,10 @@ def part1():
     player_country_plot(sql_client)
     player_ages_plot(sql_client)
     player_height_plot(sql_client)
-    # print(top_salaries(sql_client))
-    # print(min_salaries(sql_client))
-    # print(team_win_loss_home(sql_client))
 
 def player_height_plot(sql_client):
     year, height = list(zip(*player_height(sql_client)))
+    plt.ylim(75, 80)
     bar_plot(height[::-1], 'Player Height (Inches)', year[::-1], 'Draft Year', "Player Height at Draft", 'player_height')
 
 def player_ages_plot(sql_client):
