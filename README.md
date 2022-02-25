@@ -8,6 +8,9 @@ run the following commands to get dependencies
 - `pip install pipenv`
 - `pipenv install`
 
+To add packages:
+- `pipenv install <package_name>`
+
 
 # EXECUTION
 run the following command
