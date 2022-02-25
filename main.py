@@ -4,6 +4,13 @@ import sqlite3 as sql
 import os
 from datetime import datetime
 import matplotlib.pyplot as plot
+from parts.Part1 import part1
+from parts.Part2 import part2
+from parts.Part3 import part3
+from parts.Part4 import part4
+from parts.Part5 import part5
+from parts.Part6 import part6
+from parts.Part7 import part7
 
 from clients.SqliteClient import SqlClient
 
@@ -52,60 +59,6 @@ def testing():
     plot.savefig('test.png')
     plot.clf()
 
-
-
-
-def part1():
-    sql_client = SqlClient(os.environ["DB_PATH"])
-    return
-
-def part2():
-    sql_client = SqlClient(os.environ["DB_PATH"])
-    # NOMINAL
-    #
-    # ORDINAL
-    #
-    # INTERVAL
-    #   
-    # RATIO
-    #   HOW MANY POINTS DID TORONTO SCORE PER GAME
-    rows = sql_client.custom_sql_call("""
-    SELECT 
-        PTS_HOME, PTS_AWAY, TEAM_NAME_HOME, TEAM_NAME_AWAY, GAME_DATE
-    FROM 
-        game
-    WHERE
-        TEAM_NAME_HOME="Toronto Huskies" OR TEAM_NAME_HOME="Toronto Raptors" OR TEAM_NAME_AWAY="Toronto Huskies" OR TEAM_NAME_AWAY="Toronto Raptors"
-    """)
-
-    points_per_game = [x[0] if "Toronto" in x[2] else x[1] for x in rows]
-    # fancy python call
-    # basically calculates geometric mean using logs to avoid exhaustively large numbers
-    arithmetic_mean = np.mean(points_per_game)
-    geometric_mean = np.exp(np.log(points_per_game).mean())
-    harmonic_mean = len(points_per_game)/sum([1/x for x in points_per_game])
-    print(f'arithmetic mean: {arithmetic_mean}')
-    print(f'geometric mean: {geometric_mean}')
-    print(f'harmonic mean: {harmonic_mean}')
-
-
-
-    return
-
-def part3():
-    return
-
-def part4():
-    return
-
-def part5():
-    return
-
-def part6():
-    return
-
-def part7():
-    return
 
 def main():
     part1()
