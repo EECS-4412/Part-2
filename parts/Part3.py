@@ -23,7 +23,7 @@ def part3():
     FROM
         game
     WHERE
-       TEAM_NAME_HOME="Toronto Huskies" OR TEAM_NAME_HOME="Toronto Raptors" OR TEAM_NAME_AWAY="Toronto Huskies" OR TEAM_NAME_AWAY="Toronto Raptors" 
+       TEAM_NAME_HOME="Toronto Huskies" OR TEAM_NAME_HOME="Toronto Raptors" OR TEAM_NAME_AWAY="Toronto Huskies" OR TEAM_NAME_AWAY="Toronto Raptors"
     ''').fetchall()
     toronto_home = []
     toronto_away = []
@@ -36,7 +36,7 @@ def part3():
         else:
             toronto_away.append(pm_away)
             game_dates_away.append(game_date)
-    
+
     mean_home = np.mean(toronto_home)
     std_home = np.std(toronto_home)
     mean_away = np.mean(toronto_away)
@@ -64,12 +64,12 @@ def part3():
     scatter_plot(game_dates_away, "Date of game", min_max_away_normalized, "Plus minus Away min max normalized", "Plus minus away min max normalized vs date of game", 'part3_g6')
 
     rows = sql_client.custom_sql_call('''
-    SELECT 
+    SELECT
         HEIGHT, WEIGHT
-    FROM 
+    FROM
         PLAYER_ATTRIBUTES
     ''').fetchall()
-    heights, weights = [], [] 
+    heights, weights = [], []
     for h, w in rows:
         if h and w:
             heights.append(h)
@@ -92,7 +92,7 @@ def part3():
             w.writerow((height, height_z, height_mm, weight, weight_z, weight_mm))
 
 
-    scatter_plot(heights, "Player Height", weights, "Player Weight", "Player Height vs Player Weight", 'part3_g7')
-    scatter_plot(heights_z_score, "Player Height Z Score", weights_z_score, "Player Weight Z Score", "Player Height Z Score vs Player Weight Z Score", 'part3_g8')
-    scatter_plot(heights_min_max, "Player Height Min Max Normalized", weights_min_max, "Player Weight Min Max Normalized", "Player Height Min Max Normalized vs Player Weight Min Max Normalized", 'part3_g9')
+    scatter_plot(heights, "Player Height", weights, "Player Weight", "Player Weight vs Player Height", 'part3_g7')
+    scatter_plot(heights_z_score, "Player Height Z Score", weights_z_score, "Player Weight Z Score", "Player Weight Z Score vs Player Height Z Score", 'part3_g8')
+    scatter_plot(heights_min_max, "Player Height Min Max Normalized", weights_min_max, "Player Weight Min Max Normalized", "Player Weight Min Max Normalized vs Player Height Min Max Normalized", 'part3_g9')
     return
