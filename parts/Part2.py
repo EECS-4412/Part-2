@@ -16,7 +16,7 @@ def part2():
         player_attributes
     ''')
     countries = []
-    with open(f'csv/215659501-215528797-allen-T2-1.csv', 'w') as f:
+    with open(f'csv/215659501-215528797-215494925-T2-1.csv', 'w') as f:
         f.write(f'COUNTRY\n')
         w = csv.writer(f,delimiter=',')
         for row in rows:
@@ -38,7 +38,7 @@ def part2():
     ''')
 
     birthdates = []
-    with open(f'csv/215659501-215528797-allen-T2-2.csv', 'w') as f:
+    with open(f'csv/215659501-215528797-215494925-T2-2.csv', 'w') as f:
         f.write(f'BIRTHDATE\n')
         w = csv.writer(f,delimiter=',')
         for row in rows:
@@ -62,7 +62,7 @@ def part2():
     ''')
     toronto_home = []
     toronto_away = []
-    with open(f'csv/215659501-215528797-allen-T2-3.csv', 'w') as f:
+    with open(f'csv/215659501-215528797-215494925-T2-3.csv', 'w') as f:
         f.write(f'PLUS_MINUS_HOME,PLUS_MINUS_AWAY,TEAM_NAME_HOME,TEAM_NAME_AWAY\n')
         for pm_home, pm_away, tn_home, tn_away in rows:
             w = csv.writer(f,delimiter=',')
@@ -91,7 +91,7 @@ def part2():
     ''')
     # PREPROCESSING STEP: select value only for The team with Toronto in its name
     points_per_game = []
-    with open(f'csv/215659501-215528797-allen-T2-4.csv', 'w') as f:
+    with open(f'csv/215659501-215528797-215494925-T2-4.csv', 'w') as f:
         f.write(f'PTS_HOME,PTS_AWAY,TEAM_NAME_HOME,TEAM_NAME_AWAY,GAME_DATE\n')
         for pts_home, pts_away, team_name_home, team_name_away, game_date in rows:
             w = csv.writer(f,delimiter=',')

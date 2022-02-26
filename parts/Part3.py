@@ -2,6 +2,16 @@ from clients.SqliteClient import SqlClient
 import os
 import numpy as np
 import csv
+import matplotlib.pyplot as plt
+
+def scatter_plot(x, x_name, y, y_name, titleName, filename):
+    plt.scatter(x, y, s=5)
+    plt.title(f'{titleName}')
+    plt.xlabel(x_name)
+    plt.ylabel(y_name)
+    plt.savefig(f'graphs/{filename}.png')
+    plt.clf()
+
 
 def part3():
     sql_client = SqlClient(os.environ["DB_PATH"])
@@ -9,7 +19,7 @@ def part3():
     #   Re using the plus minus home/away data
     rows = sql_client.custom_sql_call('''
     SELECT
-        PLUS_MINUS_HOME, PLUS_MINUS_AWAY, TEAM_NAME_HOME, TEAM_NAME_AWAY
+        PLUS_MINUS_HOME, PLUS_MINUS_AWAY, TEAM_NAME_HOME, TEAM_NAME_AWAY, GAME_DATE
     FROM
         game
     WHERE
@@ -17,11 +27,15 @@ def part3():
     ''').fetchall()
     toronto_home = []
     toronto_away = []
-    for pm_home, pm_away, tn_home, tn_away in rows:
+    game_dates_home = []
+    game_dates_away = []
+    for pm_home, pm_away, tn_home, _, game_date in rows:
         if 'Toronto' in tn_home:
             toronto_home.append(pm_home)
+            game_dates_home.append(game_date)
         else:
             toronto_away.append(pm_away)
+            game_dates_away.append(game_date)
     
     mean_home = np.mean(toronto_home)
     std_home = np.std(toronto_home)
@@ -33,7 +47,7 @@ def part3():
     min_max_home_normalized = [(x - min_home_val)/ (max_home_val - min_home_val)  for x in toronto_home]
     min_away_val, max_away_val = min(toronto_away), max(toronto_away)
     min_max_away_normalized = [(x - min_away_val)/ (max_away_val - min_away_val)  for x in toronto_away]
-    with open(f'csv/215659501-215528797-allen-T3-1.csv', 'w') as f:
+    with open(f'csv/215659501-215528797-215494925-T3-1.csv', 'w') as f:
         f.write(f'HOME_OR_AWAY,PLUS_MINUS,Z_SCORE_NORMALIZED,MIN_MAX_NORMALIZED\n')
         w = csv.writer(f,delimiter=',')
         for org, zs, mm in zip(toronto_home, toronto_home_z_score, min_max_home_normalized):
@@ -41,6 +55,13 @@ def part3():
 
         for org, zs, mm in zip(toronto_away, toronto_away_z_score, min_max_away_normalized):
             w.writerow(('away',org, zs, mm))
+
+    scatter_plot(game_dates_home, "Date of game", toronto_home, "Plus minus Home", "Plus minus home vs date of game", 'part3_g1')
+    scatter_plot(game_dates_away, "Date of game", toronto_away, "Plus minus Away", "Plus minus away vs date of game", 'part3_g2')
+    scatter_plot(game_dates_home, "Date of game", toronto_home_z_score, "Plus minus Home Z score", "Plus minus home Z score vs date of game", 'part3_g3')
+    scatter_plot(game_dates_away, "Date of game", toronto_away_z_score, "Plus minus Away Z score", "Plus minus away Z score vs date of game", 'part3_g4')
+    scatter_plot(game_dates_home, "Date of game", min_max_home_normalized, "Plus minus Home min max normalized", "Plus minus home min max normalized vs date of game", 'part3_g5')
+    scatter_plot(game_dates_away, "Date of game", min_max_away_normalized, "Plus minus Away min max normalized", "Plus minus away min max normalized vs date of game", 'part3_g6')
 
     rows = sql_client.custom_sql_call('''
     SELECT 
@@ -64,10 +85,14 @@ def part3():
     weights_min, weights_max = min(weights), max(weights)
     heights_min_max = [(x - heights_min)/(heights_max - heights_min) for x in heights]
     weights_min_max = [(x - weights_min)/(weights_max - weights_min) for x in weights]
-    with open(f'csv/215659501-215528797-allen-T3-2.csv', 'w') as f:
+    with open(f'csv/215659501-215528797-215494925-T3-2.csv', 'w') as f:
         f.write(f'HEIGHT,HEIGHT_ZSCORE,HEIGHT_MIN_MAX,WEIGHT,WEIGHT_ZSCORE,WEIGHT_MIN_MAX\n')
         w = csv.writer(f,delimiter=',')
-        for height, height_z, hieght_mm, wieght, wieght_z, wieght_mm in zip(heights, heights_z_score, heights_min_max, weights, weights_z_score, weights_min_max):
-            w.writerow((height, height_z, hieght_mm, wieght, wieght_z, wieght_mm))
+        for height, height_z, height_mm, weight, weight_z, weight_mm in zip(heights, heights_z_score, heights_min_max, weights, weights_z_score, weights_min_max):
+            w.writerow((height, height_z, height_mm, weight, weight_z, weight_mm))
 
+
+    scatter_plot(heights, "Player Height", weights, "Player Weight", "Player Height vs Player Weight", 'part3_g7')
+    scatter_plot(heights_z_score, "Player Height Z Score", weights_z_score, "Player Weight Z Score", "Player Height Z Score vs Player Weight Z Score", 'part3_g8')
+    scatter_plot(heights_min_max, "Player Height Min Max Normalized", weights_min_max, "Player Weight Min Max Normalized", "Player Height Min Max Normalized vs Player Weight Min Max Normalized", 'part3_g9')
     return
