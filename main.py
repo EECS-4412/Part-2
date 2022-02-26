@@ -11,7 +11,6 @@ from parts.Part3 import part3
 from parts.Part4 import part4
 from parts.Part5 import part5
 from parts.Part6 import part6
-from parts.Part7 import part7
 
 from clients.SqliteClient import SqlClient
 
@@ -61,7 +60,6 @@ def main():
         part4,
         part5,
         part6,
-        part7
     ]
     for method in methods:
         try:
