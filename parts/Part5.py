@@ -30,7 +30,7 @@ def part5():
             mahalanobis_distances.append(distance.mahalanobis(rows[i], rows[j], cov))
 
     with open(f'csv/215659501-215528797-215494925-T5ITEMS.csv', 'w') as f:
-        f.write('NUMBER,HEIGHT,WEIGHT,PTS,AST,REB\n')
+        f.write('ENTRY_NUMBER,HEIGHT,WEIGHT,PTS,AST,REB\n')
         w = csv.writer(f,delimiter=',')
         for i, row in enumerate(rows):
             w.writerow([i] + list(row))
