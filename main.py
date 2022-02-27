@@ -19,9 +19,9 @@ def testing():
     [print(x) for x in sorted(sql_client.custom_sql_call("PRAGMA table_info(game);"), key=lambda x: x[1])]
 
     rows = sql_client.custom_sql_call("""
-    SELECT 
+    SELECT
         WL_HOME, WL_AWAY, HOME_TEAM_WINS, HOME_TEAM_LOSSES, PTS_HOME, PTS_AWAY, TEAM_NAME_HOME, TEAM_NAME_AWAY, GAME_DATE
-    FROM 
+    FROM
         game
     """)
 
@@ -54,10 +54,10 @@ def testing():
 
 def main():
     methods = [
-        part1,
-        part2,
-        part3,
-        part4,
+        #part1,
+        #part2,
+        #part3,
+        #part4,
         part5,
         part6,
     ]
