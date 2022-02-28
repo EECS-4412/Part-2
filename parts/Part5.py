@@ -18,12 +18,12 @@ def part5():
     rows = np.array([x for x in rows if all(x)][:10])
     mean = np.mean(rows.T, axis=1)
     std = np.std(rows.T, axis=1)
-    
+
     # Z-score standardized data for more meaningful distances
     for i in range(len(rows)):
         for j in range(len(rows[0])):
             rows[i][j] = (rows[i][j] - mean[j])/std[j]
-        
+
 
     pairs = []
     euclidean_distances = []

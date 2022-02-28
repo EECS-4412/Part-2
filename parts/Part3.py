@@ -24,7 +24,11 @@ def part3():
     FROM
         game
     WHERE
-       TEAM_NAME_HOME="Toronto Huskies" OR TEAM_NAME_HOME="Toronto Raptors" OR TEAM_NAME_AWAY="Toronto Huskies" OR TEAM_NAME_AWAY="Toronto Raptors"
+       (TEAM_NAME_HOME="Toronto Huskies" OR
+       TEAM_NAME_HOME="Toronto Raptors" OR
+       TEAM_NAME_AWAY="Toronto Huskies" OR
+       TEAM_NAME_AWAY="Toronto Raptors") AND
+       GAME_DATE > 19900101
     ''').fetchall()
     toronto_home = []
     toronto_away = []
