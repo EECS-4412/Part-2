@@ -1,3 +1,4 @@
+from clients.SqliteClient import SqlClient
 import numpy as np  # linear algebra
 import pandas as pd  # data processing, CSV file I/O (e.g. pd.read_csv)
 import sqlite3 as sql
@@ -16,11 +17,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from clients.SqliteClient import SqlClient
 
 def testing():
-    sql_client = SqlClient(os.environ["DB_PATH"])
-    [print(x) for x in sorted(sql_client.custom_sql_call("PRAGMA table_info(game);"), key=lambda x: x[1])]
+    # sql_client = SqlClient(os.environ["DB_PATH"])
+    sql_client = SqlClient("./kaggle/input/basketball/basketball.sqlite")
+    [print(x) for x in sorted(sql_client.custom_sql_call(
+        "PRAGMA table_info(game);"), key=lambda x: x[1])]
 
     rows = sql_client.custom_sql_call("""
     SELECT
@@ -44,12 +46,13 @@ def testing():
     return
 
     # number of points it takes to win a game
-    winning_points = [(x[4] if x[0] == "W" else x[5], datetime.strptime(x[-1], "%Y-%m-%d")) for x in rows]
-    winning_points.sort(key=lambda x:x[1])
+    winning_points = [(x[4] if x[0] == "W" else x[5],
+                       datetime.strptime(x[-1], "%Y-%m-%d")) for x in rows]
+    winning_points.sort(key=lambda x: x[1])
     x = [x[1] for x in winning_points]
     y = [x[0] for x in winning_points]
 
-    plot.plot(x,y)
+    plot.plot(x, y)
     plot.xlabel("Date/Year")
     plot.ylabel("Points to win game")
     plot.savefig('test.png')
@@ -58,11 +61,11 @@ def testing():
 
 def main():
     methods = [
-        part1,
-        part2,
-        part3,
-        part4,
-        part5,
+        # part1,
+        # part2,
+        # part3,
+        # part4,
+        # part5,
         part6,
     ]
     for method in methods:

@@ -5,31 +5,41 @@ import os
 from collections import Counter
 import numpy as np
 
+
 def part1():
-    sql_client = SqlClient(os.environ["DB_PATH"])
+    # sql_client = SqlClient(os.environ["DB_PATH"])
+    sql_client = SqlClient("./kaggle/input/basketball/basketball.sqlite")
     average_salaries_plot(sql_client)
-    first_draft_plot(sql_client)    
+    first_draft_plot(sql_client)
     player_country_plot(sql_client)
     player_ages_plot(sql_client)
     player_height_plot(sql_client)
 
+
 def player_height_plot(sql_client):
     year, height = list(zip(*player_height(sql_client)))
     plt.ylim(75, 80)
-    bar_plot(height[::-1], 'Player Height (Inches)', year[::-1], 'Draft Year', "Player Height at Draft", 'player_height')
+    bar_plot(height[::-1], 'Player Height (Inches)', year[::-1],
+             'Draft Year', "Player Height at Draft", 'player_height')
+
 
 def player_ages_plot(sql_client):
     year, num_players = list(zip(*player_ages(sql_client)))
-    bar_plot(num_players[::-1], 'Number Of Players', year[::-1], 'Year Born', "Player Age Per Year", 'player_age')
+    bar_plot(num_players[::-1], 'Number Of Players', year[::-1],
+             'Year Born', "Player Age Per Year", 'player_age')
+
 
 def average_salaries_plot(sql_client):
     season, salaries = list(zip(*avg_salaries(sql_client)))
-    scatter_plot(season, 'Season', salaries, 'Average Salaries', 'Average Salary Per Season', 'average_salaries')
+    scatter_plot(season, 'Season', salaries, 'Average Salaries',
+                 'Average Salary Per Season', 'average_salaries')
+
 
 def first_draft_plot(sql_client):
     year, team = list(zip(*team_with_1st_draft(sql_client)))
     count = Counter(team)
-    name, freq = list(zip(*[(name, freq) for name, freq in count.most_common()]))
+    name, freq = list(zip(*[(name, freq)
+                      for name, freq in count.most_common()]))
     name = list(name)
     freq = list(freq)
     ones = sum([1 for f in freq if f == 1])
@@ -39,6 +49,7 @@ def first_draft_plot(sql_client):
     freq.append(ones)
     pie_plot(freq, name, 'First Round Picks', 'first_round_picks')
 
+
 def player_country_plot(sql_client):
     _countries, _counts = list(zip(*player_country(sql_client)))
     countries, counts = list(_countries), list(_counts)
@@ -47,11 +58,15 @@ def player_country_plot(sql_client):
     countries.append('Other (Countries < 10 players all grouped here)')
     counts.append(others_size)
     pie_plot(counts, countries, 'Player Countries', 'player_countries')
-    pie_plot(counts[1:], countries[1:], 'Player Countries (no USA)', 'player_countries_no_usa')
+    pie_plot(counts[1:], countries[1:],
+             'Player Countries (no USA)', 'player_countries_no_usa')
+
 
 '''
 Below functions facilitate 
 '''
+
+
 def scatter_plot(x, x_name, y, y_name, titleName, filename):
     plt.scatter(x, y, s=5)
     plt.title(f'{titleName}')
@@ -60,14 +75,17 @@ def scatter_plot(x, x_name, y, y_name, titleName, filename):
     plt.savefig(f'graphs/{filename}.png')
     plt.clf()
 
+
 def pie_plot(freq, labels, titleName, filename):
     cs = cm.tab20b(np.arange(len(freq))/len(freq))
     patches, _ = plt.pie(freq, colors=cs, startangle=90)
-    new_labels = [', '.join([lab, str(fre)]) for (lab, fre) in zip(labels, freq)]
+    new_labels = [', '.join([lab, str(fre)])
+                  for (lab, fre) in zip(labels, freq)]
     plt.legend(patches, new_labels, loc="best", bbox_to_anchor=(1.02, 1))
     plt.title(f'{titleName}')
     plt.savefig(f'graphs/{filename}.png', bbox_inches='tight')
     plt.clf()
+
 
 def bar_plot(data, data_name, labels, labels_name, titleName, filename):
     plt.bar(labels, data)
@@ -77,21 +95,27 @@ def bar_plot(data, data_name, labels, labels_name, titleName, filename):
     plt.xlabel(labels_name)
     plt.savefig(f'graphs/{filename}.png')
     plt.clf()
-    
+
+
 '''
 Returns number of active players
 '''
+
+
 def number_active_players(client, num_players):
     rows = client.custom_sql(
-    '''
+        '''
     SELECT count(id) as num_players FROM player WHERE is_active=1
     '''.format(num_players=num_players))
 
     return rows.fetchall()
 
+
 '''
 Return all players
 '''
+
+
 def get_players(client, num_players):
     rows = client.custom_sql_call(
         '''
@@ -101,9 +125,12 @@ def get_players(client, num_players):
 
     return rows.fetchall()
 
+
 '''
 Returns top salaries with entries (season, name, team, salary)
 '''
+
+
 def top_salaries(client):
     rows = client.custom_sql_call(
         '''
@@ -115,9 +142,12 @@ def top_salaries(client):
 
     return rows.fetchall()
 
+
 '''
 Returns min salaries with entries (season, name, team, salary)
 '''
+
+
 def min_salaries(client):
     rows = client.custom_sql_call(
         '''
@@ -129,9 +159,12 @@ def min_salaries(client):
 
     return rows.fetchall()
 
+
 '''
 Return average salaries with entries (season, salary)
 '''
+
+
 def avg_salaries(client):
     rows = client.custom_sql_call(
         '''
@@ -143,9 +176,12 @@ def avg_salaries(client):
 
     return rows.fetchall()
 
+
 '''
 Return number of players born per year with entries (birth_year, num_players)
 '''
+
+
 def player_ages(client):
     # ACTIVE PLAYERS BY YEAR
     rows = client.custom_sql_call(
@@ -173,9 +209,12 @@ def player_ages(client):
 
     return rows.fetchall()
 
+
 '''
 Number of Players per country with entries (Country, num_players)
 '''
+
+
 def player_country(client):
     rows = client.custom_sql_call(
         '''
@@ -188,9 +227,12 @@ def player_country(client):
 
     return rows.fetchall()
 
+
 '''
 Team win/loss ration at home with entries (team_name, num_home_games, home_win, home_loss, wl_ratio, year)
 '''
+
+
 def team_win_loss_home(client):
     rows = client.custom_sql_call(
         '''
@@ -210,9 +252,12 @@ def team_win_loss_home(client):
 
     return rows.fetchall()
 
+
 '''
 Team with 1st overall draft by year with entries (year, team)
 '''
+
+
 def team_with_1st_draft(client):
     rows = client.custom_sql_call(
         '''
@@ -224,9 +269,12 @@ def team_with_1st_draft(client):
 
     return rows.fetchall()
 
+
 '''
 Team total 1st overall draft (team count)
 '''
+
+
 def top_1st_draft(client):
     rows = client.custom_sql_call(
         '''
@@ -240,6 +288,7 @@ def top_1st_draft(client):
 
     return rows.fetchall()
 
+
 def player_height(client):
     rows = client.custom_sql_call(
         '''
@@ -250,5 +299,7 @@ def player_height(client):
     )
 
     return rows.fetchall()
+
+
 if __name__ == '__main__':
     part1()

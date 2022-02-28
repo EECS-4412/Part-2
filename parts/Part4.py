@@ -7,7 +7,8 @@ import matplotlib.pyplot as plt
 
 
 def part4():
-    sql_client = SqlClient(os.environ['DB_PATH'])
+    # sql_client = SqlClient(os.environ["DB_PATH"])
+    sql_client = SqlClient("./kaggle/input/basketball/basketball.sqlite")
     rows = sql_client.custom_sql_call('''
     SELECT
         HEIGHT, WEIGHT

@@ -1,9 +1,11 @@
 from clients.SqliteClient import SqlClient
 import os
 from sklearn import tree
+from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from collections import Counter
 import numpy as np
+
 
 def part6():
     """
@@ -18,7 +20,8 @@ def part6():
 
     """
 
-    sql_client = SqlClient(db_path=os.environ["DB_PATH"])
+    # sql_client = SqlClient(os.environ["DB_PATH"])
+    sql_client = SqlClient("./kaggle/input/basketball/basketball.sqlite")
     rows = sql_client.custom_sql_call('''
     SELECT
          PTS, AST, REB, HEIGHT, WEIGHT, POSITION
@@ -33,7 +36,6 @@ def part6():
         REB IS NOT NULL;
     ''').fetchall()
 
-
     labels = [x[5].split('-')[-1] for x in rows]
     rows = np.array([x[0:5] for x in rows])
     mean = np.mean(rows.T, axis=1)
@@ -44,10 +46,7 @@ def part6():
     #     for j in range(len(rows[0])):
     #         rows[i][j] = (rows[i][j] - mean[j])/std[j]
 
-
     # DECISION TREE CLASSIFIER
-
-
 
     dtc_gini = tree.DecisionTreeClassifier(
         criterion="gini",
@@ -60,9 +59,13 @@ def part6():
         # max_features=None,
         max_leaf_nodes=12
     )
-    attributes=[x[0:5] for x in rows]
+    attributes = [x[0:5] for x in rows]
     # print(Counter(labels))
-    dtc_gini.fit(attributes, labels)
+
+    X_train, X_test, y_train, y_test = train_test_split(
+        attributes, labels, test_size=0.33, random_state=42)
+
+    dtc_gini.fit(X_train, y_train)
 
     dtc_entropy = tree.DecisionTreeClassifier(
         criterion="entropy",
@@ -75,23 +78,29 @@ def part6():
         # max_features=None,
         max_leaf_nodes=12
     )
-    dtc_entropy.fit(attributes, labels)
+    dtc_entropy.fit(X_train, y_train)
 
-    fig = plt.figure(figsize=(25,20))
+    fig = plt.figure(figsize=(25, 20))
     _ = tree.plot_tree(dtc_gini,
-                   feature_names=["PTS", "AST", "REB", "HEIGHT", "WEIGHT"],
-                   class_names=['Center', 'Forward', 'Guard'],
-                   filled=True)
+                       feature_names=["PTS", "AST", "REB", "HEIGHT", "WEIGHT"],
+                       class_names=['Center', 'Forward', 'Guard'],
+                       filled=True)
     fig.savefig("graphs/decision_tree_gini.png")
 
-    fig = plt.figure(figsize=(25,20))
+    fig = plt.figure(figsize=(25, 20))
     _ = tree.plot_tree(dtc_entropy,
-                   feature_names=["PTS", "AST", "REB", "HEIGHT", "WEIGHT"],
-                   class_names=['Center', 'Forward', 'Guard'],
-              #    class_names=['Center',  'Center-Forward', 'Forward', 'Forward-Center','Forward-Guard', 'Guard', 'Guard-Forward'],
-                   filled=True)
+                       feature_names=["PTS", "AST", "REB", "HEIGHT", "WEIGHT"],
+                       class_names=['Center', 'Forward', 'Guard'],
+                       #    class_names=['Center',  'Center-Forward', 'Forward', 'Forward-Center','Forward-Guard', 'Guard', 'Guard-Forward'],
+                       filled=True)
     fig.savefig("graphs/decision_tree_entropy.png")
 
+    print("[GINI]    Decision Tree - Train:", dtc_gini.score(X_train, y_train))
+    print("[GINI]    Decision Tree - Test :", dtc_gini.score(X_test, y_test))
+    print("[ENTROPY] Decision Tree - Train:",
+          dtc_entropy.score(X_train, y_train))
+    print("[ENTROPY] Decision Tree - Test :",
+          dtc_entropy.score(X_test, y_test))
 
     # RULE BASE CLASSIFIER
 
@@ -119,10 +128,10 @@ def part6():
     for height_thresh in range(70, 84, 1):
         height_thresh = height_thresh
         for weight_thresh in range(190, 240, 5):
-            for weight_plus in range (0, 40*2, 5):
+            for weight_plus in range(0, 40*2, 5):
                 weight_plus = weight_plus / 2
-                for pts_thresh in range (10, 20, 2):
-                    for pts_plus in range (10, 20, 2):
+                for pts_thresh in range(10, 20, 2):
+                    for pts_plus in range(10, 20, 2):
                         classes = {
                             'Guard': [],
                             'Forward': [],
@@ -148,10 +157,8 @@ def part6():
                                 print('unclassy')
                                 classes['Unclassified'].append(position)
 
-
                         acc = {}
                         count_local = {}
-
 
                         for key, value in classes.items():
                             correct = [x for x in value if x == key]
@@ -159,9 +166,10 @@ def part6():
                                 acc[key] = len(correct)/totals[key]
                             count_local[key] = Counter(value)
 
-
-                    results[(height_thresh, weight_thresh, weight_plus, pts_thresh, pts_plus)] = acc
-                    counts[(height_thresh, weight_thresh, weight_plus, pts_thresh, pts_plus)] = count_local
+                    results[(height_thresh, weight_thresh,
+                             weight_plus, pts_thresh, pts_plus)] = acc
+                    counts[(height_thresh, weight_thresh, weight_plus,
+                            pts_thresh, pts_plus)] = count_local
 
     # print(results)
     # print(list(results.keys())[0])
@@ -179,7 +187,6 @@ def part6():
     print(results[max_key])
     print(counts[max_key])
     # print(Counter(classes['Unclassified']))
-
 
     # height
     # -------------------------
