@@ -15,13 +15,9 @@ def part6():
         Center-Forward
         NULL
 
-        
+
     """
-    try:
-        os.system('rm decision*.png')
-    except:
-        pass
-    
+
     sql_client = SqlClient(db_path=os.environ["DB_PATH"])
     rows = sql_client.custom_sql_call('''
     SELECT
@@ -42,16 +38,16 @@ def part6():
     rows = np.array([x[0:5] for x in rows])
     mean = np.mean(rows.T, axis=1)
     std = np.std(rows.T, axis=1)
-    
+
     # Z-score standardized data for more meaningful distances
     # for i in range(len(rows)):
     #     for j in range(len(rows[0])):
     #         rows[i][j] = (rows[i][j] - mean[j])/std[j]
-    
-    
+
+
     # DECISION TREE CLASSIFIER
 
-    
+
 
     dtc_gini = tree.DecisionTreeClassifier(
         criterion="gini",
@@ -82,20 +78,20 @@ def part6():
     dtc_entropy.fit(attributes, labels)
 
     fig = plt.figure(figsize=(25,20))
-    _ = tree.plot_tree(dtc_gini, 
-                   feature_names=["PTS", "AST", "REB", "HEIGHT", "WEIGHT"],  
+    _ = tree.plot_tree(dtc_gini,
+                   feature_names=["PTS", "AST", "REB", "HEIGHT", "WEIGHT"],
                    class_names=['Center', 'Forward', 'Guard'],
                    filled=True)
-    fig.savefig("decision_tree_gini.png")
+    fig.savefig("graphs/decision_tree_gini.png")
 
     fig = plt.figure(figsize=(25,20))
-    _ = tree.plot_tree(dtc_entropy, 
-                   feature_names=["PTS", "AST", "REB", "HEIGHT", "WEIGHT"],  
+    _ = tree.plot_tree(dtc_entropy,
+                   feature_names=["PTS", "AST", "REB", "HEIGHT", "WEIGHT"],
                    class_names=['Center', 'Forward', 'Guard'],
               #    class_names=['Center',  'Center-Forward', 'Forward', 'Forward-Center','Forward-Guard', 'Guard', 'Guard-Forward'],
                    filled=True)
-    fig.savefig("decision_tree_entropy.png")
-    
+    fig.savefig("graphs/decision_tree_entropy.png")
+
 
     # RULE BASE CLASSIFIER
 
@@ -125,8 +121,8 @@ def part6():
         for weight_thresh in range(190, 240, 5):
             for weight_plus in range (0, 40*2, 5):
                 weight_plus = weight_plus / 2
-                for pts_thresh in range (10, 20, 2):  
-                    for pts_plus in range (10, 20, 2):  
+                for pts_thresh in range (10, 20, 2):
+                    for pts_plus in range (10, 20, 2):
                         classes = {
                             'Guard': [],
                             'Forward': [],
@@ -143,7 +139,7 @@ def part6():
                             elif height <= height_thresh and weight > weight_thresh:
                                 classes['Forward'].append(position)
                             elif height > height_thresh and weight <= weight_thresh + weight_plus:
-                                classes['Forward'].append(position) 
+                                classes['Forward'].append(position)
                             elif height > height_thresh and weight > weight_thresh + weight_plus and pts > pts_thresh + pts_plus:
                                 classes['Forward'].append(position)
                             elif height > height_thresh and weight > weight_thresh + weight_plus and pts <= pts_thresh + pts_plus:
@@ -151,8 +147,8 @@ def part6():
                             else:
                                 print('unclassy')
                                 classes['Unclassified'].append(position)
-                        
-                        
+
+
                         acc = {}
                         count_local = {}
 
@@ -160,13 +156,13 @@ def part6():
                         for key, value in classes.items():
                             correct = [x for x in value if x == key]
                             if len(value) > 0:
-                                acc[key] = len(correct)/totals[key] 
-                            count_local[key] = Counter(value)            
-                                
-                                
+                                acc[key] = len(correct)/totals[key]
+                            count_local[key] = Counter(value)
+
+
                     results[(height_thresh, weight_thresh, weight_plus, pts_thresh, pts_plus)] = acc
                     counts[(height_thresh, weight_thresh, weight_plus, pts_thresh, pts_plus)] = count_local
-        
+
     # print(results)
     # print(list(results.keys())[0])
     # print(list(results.values())[0])
@@ -191,7 +187,7 @@ def part6():
     # |           |           |
     # -------------------------
     # |           |           |
-    # |           |           |                         
+    # |           |           |
     # -------------------------
-     
+
     return
