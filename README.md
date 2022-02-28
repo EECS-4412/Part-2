@@ -5,13 +5,13 @@ All scripts and commands for part 2 of the assignment
 # SETUP
 
 run the following commands to get dependencies
-- `pip install pipenv`
-- `pipenv install`
+- `pip install -r requirements.txt`
 
 To add packages:
-- `pipenv install <package_name>`
+- `pip install <package_name>`
+- add `<package_name>` to requirements.txt
 
 
 # EXECUTION
 run the following command
-- `pipenv run python main.py`
+- `python main.py`
