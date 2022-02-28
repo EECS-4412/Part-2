@@ -3,6 +3,7 @@ import os
 import numpy as np
 import csv
 import matplotlib.pyplot as plt
+from datetime import datetime
 
 def scatter_plot(x, x_name, y, y_name, titleName, filename):
     plt.scatter(x, y, s=5)
@@ -32,19 +33,20 @@ def part3():
     for pm_home, pm_away, tn_home, _, game_date in rows:
         if 'Toronto' in tn_home:
             toronto_home.append(pm_home)
-            game_dates_home.append(game_date)
+            game_dates_home.append(datetime.strptime(game_date.split("T")[0], "%Y-%m-%d"))
         else:
             toronto_away.append(pm_away)
-            game_dates_away.append(game_date)
+            game_dates_away.append(datetime.strptime(game_date.split("T")[0], "%Y-%m-%d"))
 
     mean_home = np.mean(toronto_home)
     std_home = np.std(toronto_home)
-    mean_away = np.mean(toronto_away)
-    std_away = np.std(toronto_away)
     toronto_home_z_score = [(x - mean_home)/std_home for x in toronto_home]
-    toronto_away_z_score = [(x - mean_away)/std_away for x in toronto_away]
     min_home_val, max_home_val = min(toronto_home), max(toronto_home)
     min_max_home_normalized = [(x - min_home_val)/ (max_home_val - min_home_val)  for x in toronto_home]
+
+    mean_away = np.mean(toronto_away)
+    std_away = np.std(toronto_away)
+    toronto_away_z_score = [(x - mean_away)/std_away for x in toronto_away]
     min_away_val, max_away_val = min(toronto_away), max(toronto_away)
     min_max_away_normalized = [(x - min_away_val)/ (max_away_val - min_away_val)  for x in toronto_away]
     with open(f'csv/215659501-215528797-215494925-T3-1.csv', 'w') as f:
@@ -57,10 +59,10 @@ def part3():
             w.writerow(('away',org, zs, mm))
 
     scatter_plot(game_dates_home, "Date of game", toronto_home, "Plus minus Home", "Plus minus home vs date of game", 'part3_g1')
-    scatter_plot(game_dates_away, "Date of game", toronto_away, "Plus minus Away", "Plus minus away vs date of game", 'part3_g2')
-    scatter_plot(game_dates_home, "Date of game", toronto_home_z_score, "Plus minus Home Z score", "Plus minus home Z score vs date of game", 'part3_g3')
-    scatter_plot(game_dates_away, "Date of game", toronto_away_z_score, "Plus minus Away Z score", "Plus minus away Z score vs date of game", 'part3_g4')
-    scatter_plot(game_dates_home, "Date of game", min_max_home_normalized, "Plus minus Home min max normalized", "Plus minus home min max normalized vs date of game", 'part3_g5')
+    scatter_plot(game_dates_home, "Date of game", toronto_home_z_score, "Plus minus Home Z score", "Plus minus home Z score vs date of game", 'part3_g2')
+    scatter_plot(game_dates_home, "Date of game", min_max_home_normalized, "Plus minus Home min max normalized", "Plus minus home min max normalized vs date of game", 'part3_g3')
+    scatter_plot(game_dates_away, "Date of game", toronto_away, "Plus minus Away", "Plus minus away vs date of game", 'part3_g4')
+    scatter_plot(game_dates_away, "Date of game", toronto_away_z_score, "Plus minus Away Z score", "Plus minus away Z score vs date of game", 'part3_g5')
     scatter_plot(game_dates_away, "Date of game", min_max_away_normalized, "Plus minus Away min max normalized", "Plus minus away min max normalized vs date of game", 'part3_g6')
 
     rows = sql_client.custom_sql_call('''

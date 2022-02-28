@@ -12,6 +12,10 @@ from parts.Part4 import part4
 from parts.Part5 import part5
 from parts.Part6 import part6
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 from clients.SqliteClient import SqlClient
 
 def testing():
@@ -54,11 +58,11 @@ def testing():
 
 def main():
     methods = [
-        part1,
-        part2,
-        part3,
-        part4,
-        part5,
+        # part1,
+        # part2,
+        # part3,
+        # part4,
+        # part5,
         part6,
     ]
     for method in methods:
