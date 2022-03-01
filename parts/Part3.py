@@ -1,5 +1,4 @@
 from clients.SqliteClient import SqlClient
-import os
 import numpy as np
 import csv
 import matplotlib.pyplot as plt
@@ -16,7 +15,7 @@ def scatter_plot(x, x_name, y, y_name, titleName, filename):
 
 def part3():
     # sql_client = SqlClient(os.environ["DB_PATH"])
-    sql_client = SqlClient("./kaggle/input/basketball/basketball.sqlite")
+    sql_client = SqlClient()
     # Interval data
     #   Re using the plus minus home/away data
     rows = sql_client.custom_sql_call('''

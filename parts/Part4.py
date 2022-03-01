@@ -1,6 +1,5 @@
 from matplotlib import projections
 from clients.SqliteClient import SqlClient
-import os
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -8,7 +7,7 @@ import matplotlib.pyplot as plt
 
 def part4():
     # sql_client = SqlClient(os.environ["DB_PATH"])
-    sql_client = SqlClient("./kaggle/input/basketball/basketball.sqlite")
+    sql_client = SqlClient()
     rows = sql_client.custom_sql_call('''
     SELECT
         HEIGHT, WEIGHT

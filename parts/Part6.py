@@ -1,5 +1,4 @@
 from clients.SqliteClient import SqlClient
-import os
 from sklearn import tree
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
@@ -21,7 +20,7 @@ def part6():
     """
 
     # sql_client = SqlClient(os.environ["DB_PATH"])
-    sql_client = SqlClient("./kaggle/input/basketball/basketball.sqlite")
+    sql_client = SqlClient()
     rows = sql_client.custom_sql_call('''
     SELECT
          PTS, AST, REB, HEIGHT, WEIGHT, POSITION

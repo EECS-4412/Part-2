@@ -2,7 +2,6 @@ from clients.SqliteClient import SqlClient
 import numpy as np  # linear algebra
 import pandas as pd  # data processing, CSV file I/O (e.g. pd.read_csv)
 import sqlite3 as sql
-import os
 from datetime import datetime
 import matplotlib.pyplot as plot
 import traceback
@@ -20,7 +19,7 @@ load_dotenv()
 
 def testing():
     # sql_client = SqlClient(os.environ["DB_PATH"])
-    sql_client = SqlClient("./kaggle/input/basketball/basketball.sqlite")
+    sql_client = SqlClient()
     [print(x) for x in sorted(sql_client.custom_sql_call(
         "PRAGMA table_info(game);"), key=lambda x: x[1])]
 

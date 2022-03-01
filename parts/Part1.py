@@ -1,14 +1,13 @@
 import matplotlib.pyplot as plt
 from matplotlib import cm
 from clients.SqliteClient import SqlClient
-import os
 from collections import Counter
 import numpy as np
 
 
 def part1():
     # sql_client = SqlClient(os.environ["DB_PATH"])
-    sql_client = SqlClient("./kaggle/input/basketball/basketball.sqlite")
+    sql_client = SqlClient()
     average_salaries_plot(sql_client)
     first_draft_plot(sql_client)
     player_country_plot(sql_client)
@@ -63,7 +62,7 @@ def player_country_plot(sql_client):
 
 
 '''
-Below functions facilitate 
+Below functions facilitate
 '''
 
 
@@ -135,7 +134,7 @@ def top_salaries(client):
     rows = client.custom_sql_call(
         '''
         SELECT slugSeason, namePlayer, nameTeam, MAX(value) as salary
-        FROM player_salary 
+        FROM player_salary
         GROUP BY slugSeason
         '''
     )
@@ -152,7 +151,7 @@ def min_salaries(client):
     rows = client.custom_sql_call(
         '''
         SELECT slugSeason, namePlayer, nameTeam, MIN(value) as salary
-        FROM player_salary 
+        FROM player_salary
         GROUP BY slugSeason
         '''
     )
@@ -169,7 +168,7 @@ def avg_salaries(client):
     rows = client.custom_sql_call(
         '''
         SELECT slugSeason, AVG(value) as salary
-        FROM player_salary 
+        FROM player_salary
         GROUP BY slugSeason
         '''
     )
@@ -188,11 +187,11 @@ def player_ages(client):
         '''
         SELECT strftime('%Y', birthdate), COUNT(strftime('%Y', birthdate)) AS num_players
         FROM (
-            SELECT * 
+            SELECT *
             FROM player
             WHERE is_active = 1
             ) p
-        INNER JOIN player_attributes pa ON pa.id = p.id   
+        INNER JOIN player_attributes pa ON pa.id = p.id
         GROUP BY strftime('%Y', birthdate)
         ORDER BY strftime('%Y', birthdate) DESC
         '''

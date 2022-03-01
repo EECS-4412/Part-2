@@ -1,6 +1,5 @@
 from clients.SqliteClient import SqlClient
 import numpy as np
-import os
 from datetime import datetime
 import csv
 from collections import Counter
@@ -62,7 +61,7 @@ def part2():
     FROM
         game
     WHERE
-       TEAM_NAME_HOME="Toronto Huskies" OR TEAM_NAME_HOME="Toronto Raptors" OR TEAM_NAME_AWAY="Toronto Huskies" OR TEAM_NAME_AWAY="Toronto Raptors" 
+       TEAM_NAME_HOME="Toronto Huskies" OR TEAM_NAME_HOME="Toronto Raptors" OR TEAM_NAME_AWAY="Toronto Huskies" OR TEAM_NAME_AWAY="Toronto Raptors"
     ''')
     toronto_home = []
     toronto_away = []
@@ -86,9 +85,9 @@ def part2():
     # RATIO
     #   HOW MANY POINTS DID TORONTO SCORE PER GAME
     rows = sql_client.custom_sql_call('''
-    SELECT 
+    SELECT
         PTS_HOME, PTS_AWAY, TEAM_NAME_HOME, TEAM_NAME_AWAY, GAME_DATE
-    FROM 
+    FROM
         game
     WHERE
         TEAM_NAME_HOME="Toronto Huskies" OR TEAM_NAME_HOME="Toronto Raptors" OR TEAM_NAME_AWAY="Toronto Huskies" OR TEAM_NAME_AWAY="Toronto Raptors"

@@ -2,11 +2,10 @@ import csv
 from clients.SqliteClient import SqlClient
 from scipy.spatial import distance
 import numpy as np
-import os
 
 def part5():
     # sql_client = SqlClient(os.environ["DB_PATH"])
-    sql_client = SqlClient("./kaggle/input/basketball/basketball.sqlite")
+    sql_client = SqlClient()
     rows = sql_client.custom_sql_call('''
     SELECT
         HEIGHT, WEIGHT, PTS, AST, REB
