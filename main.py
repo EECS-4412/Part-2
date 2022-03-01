@@ -61,11 +61,11 @@ def testing():
 
 def main():
     methods = [
-        # part1,
-        # part2,
-        # part3,
-        # part4,
-        # part5,
+        part1,
+        part2,
+        part3,
+        part4,
+        part5,
         part6,
     ]
     for method in methods:

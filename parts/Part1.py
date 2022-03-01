@@ -26,12 +26,12 @@ def player_height_plot(sql_client):
 def player_ages_plot(sql_client):
     year, num_players = list(zip(*player_ages(sql_client)))
     bar_plot(num_players[::-1], 'Number Of Players', year[::-1],
-             'Year Born', "Player Age Per Year", 'player_age')
+             'Year Born', "Players per Birthyear", 'player_birthyears')
 
 
 def average_salaries_plot(sql_client):
     season, salaries = list(zip(*avg_salaries(sql_client)))
-    scatter_plot(season, 'Season', salaries, 'Average Salaries',
+    bar_plot(salaries, 'Average Salaries', season, 'Season',
                  'Average Salary Per Season', 'average_salaries')
 
 
